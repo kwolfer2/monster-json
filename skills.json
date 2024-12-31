@@ -1,0 +1,616 @@
+{
+  "skills": [
+    {
+      "name": "Ahhh",
+      "description": "    Female foe: Stops action for 1 turn Male foe: Damage to one foe"
+    },
+    {
+      "name": "Antidote",
+      "description": "Cures poison to one ally"
+    },
+    {
+      "name": "Bang",
+      "description": "    20-30 Explosion Damage to all foes"
+    },
+    {
+      "name": "Barrier",
+      "description": " Reduces Fire and Ice breath damage by 50% for the rest of the fight"
+    },
+    {
+      "name": "BazooCall",
+      "description": "Summons a Bazoo that uses IceStorm,Hellblast,DeMagic to fight with"
+    },
+    {
+      "name": "BeastCut",
+      "description": "50% more Damage to beasts Normal against other foes"
+    },
+    {
+      "name": "Beat",
+      "description": "    Instant death to one foe"
+    },
+    {
+      "name": "BeDragon",
+      "description": "Transforms you into a dragon for the rest of the fight with skills: SnowStorm,Scorching,DeMagic"
+    },
+    {
+      "name": "Beserker",
+      "description": "Normal attack with increased Damage and defence at 0"
+    },
+    {
+      "name": "BiAttack",
+      "description": "Attacks twice one turn with 75% strength"
+    },
+    {
+      "name": "BigBang",
+      "description": " 300-400 Explosion Damage to all foes"
+    },
+    {
+      "name": "BigTrip",
+      "description": " Trips all foes and stops their actions for 1 turn"
+    },
+    {
+      "name": "BirdBlow",
+      "description": "50% more Damage to birds Normal against other foes"
+    },
+    {
+      "name": "BladeD",
+      "description": "  Halves the Damage inflicted by the foe from physical attacks and reflects the Damage taken 50% of the time"
+    },
+    {
+      "name": "Blaze",
+      "description": "   12-15 Fire Damage to one foe"
+    },
+    {
+      "name": "BlazeAir",
+      "description": "32-48 Fire Damage to all foes"
+    },
+    {
+      "name": "Blazemore",
+      "description": "70-90 Fire Damage to one foe"
+    },
+    {
+      "name": "Blazemost",
+      "description": "180-200 Fire Damage to one foe"
+    },
+    {
+      "name": "Blizzard",
+      "description": "80-104 Ice Damage to all foes"
+    },
+    {
+      "name": "Bolt",
+      "description": "    35-50 Lightning Damage to all foes"
+    },
+    {
+      "name": "BoltSlash",
+      "description": "Normal attack based on Lightning resistance of the foe"
+    },
+    {
+      "name": "Boom",
+      "description": "    52-68 Explosion Damage to all foes"
+    },
+    {
+      "name": "Bounce",
+      "description": "  Reflects spells back at opponents"
+    },
+    {
+      "name": "Branching",
+      "description": "50% more damage to plants Normal against other foes"
+    },
+    {
+      "name": "CallHelp",
+      "description": "Calls randomly allies to help,level based Damage"
+    },
+    {
+      "name": "Chance",
+      "description": "  Casts a random effect - Can be good or bad"
+    },
+    {
+      "name": "ChargeUP",
+      "description": "Additional Damage next turn."
+    },
+    {
+      "name": "CleanCut",
+      "description": "50% more damage to Materials Normal against other foes"
+    },
+    {
+      "name": "Cover",
+      "description": "   Takes the attack against one ally"
+    },
+    {
+      "name": "Curse",
+      "description": "   Curses all foes,random effects"
+    },
+    {
+      "name": "CurseOff",
+      "description": "Remove the curse from one ally"
+    },
+    {
+      "name": "DanceShut",
+      "description": "Suspends all foes Dance attacks"
+    },
+    {
+      "name": "DeChaos",
+      "description": " Cures confusion"
+    },
+    {
+      "name": "Defeat",
+      "description": "  Instant death to all foes"
+    },
+    {
+      "name": "Defence",
+      "description": " Decreases defense of all foes by 50%"
+    },
+    {
+      "name": "DeMagic",
+      "description": " Dispels magic effects on all foes (Upper,Speed,Barrier,MagicWall)"
+    },
+    {
+      "name": "DevilCut",
+      "description": "50% more Damage to Devils Normal against other foes"
+    },
+    {
+      "name": "DiagoCall",
+      "description": "Summons a Diago that uses TwinHits,SickLick,Scorching to fight with"
+    },
+    {
+      "name": "Dodge",
+      "description": "   Changes the target of a physical attack against the caster 20% Chance target is an ally, 80% Chance target is an enemy"
+    },
+    {
+      "name": "DrakSlash",
+      "description": "50% more damage against Dragons Normal against other foes"
+    },
+    {
+      "name": "EerieLite",
+      "description": "Lowers magic resistance for all foes"
+    },
+    {
+      "name": "EvilSlash",
+      "description": "Physical Damage based on the attack of user"
+    },
+    {
+      "name": "Explodet",
+      "description": "130-140 Explosion Damage to all foes"
+    },
+    {
+      "name": "Farewell",
+      "description": "Revives all allies and causes instant death to the caster"
+    },
+    {
+      "name": "FireAir",
+      "description": " 14-22 Fire Damage to all foes"
+    },
+    {
+      "name": "Firebal",
+      "description": " 16-24 Fire Damage to all foes"
+    },
+    {
+      "name": "Firebane",
+      "description": "30-42 Fire Damage to all foes"
+    },
+    {
+      "name": "Firebolt",
+      "description": "88-112 Fire Damage to all foes"
+    },
+    {
+      "name": "FireSlash",
+      "description": "Normal attack based on Fire resistance of the foe"
+    },
+    {
+      "name": "Focus",
+      "description": "   Two attacks next turn"
+    },
+    {
+      "name": "FrigidAir",
+      "description": "16-24 Ice Damage to all foes "
+    },
+    {
+      "name": "GigaSlash",
+      "description": "350-410 Damage to one foe"
+    },
+    {
+      "name": "Guardian",
+      "description": "Takes all attacks for one turn"
+    },
+    {
+      "name": "Heal",
+      "description": "    Heals 30-40 Hp for one ally"
+    },
+    {
+      "name": "HealAll",
+      "description": " Heals all Hp for one ally"
+    },
+    {
+      "name": "HealMore",
+      "description": "Heals 75-90 Hp for one ally"
+    },
+    {
+      "name": "HealUs",
+      "description": "  Heals 90-120 Hp for all allies"
+    },
+    {
+      "name": "HealUsAll",
+      "description": "Heals all Hp for all allies"
+    },
+    {
+      "name": "HellBlast",
+      "description": "210-290 Lightning Damage to all foes"
+    },
+    {
+      "name": "HighJump",
+      "description": "Jump into the Air and attack next turn with increased attack"
+    },
+    {
+      "name": "Hustle",
+      "description": "  Heals 70-80 Hp for all allies"
+    },
+    {
+      "name": "IceAir",
+      "description": "  42-54 Ice Damage to all foes"
+    },
+    {
+      "name": "IceBolt",
+      "description": " 25-35 Ice Damage to all foes"
+    },
+    {
+      "name": "IceSlash",
+      "description": "Normal attack based on Ice resistance of the foe"
+    },
+    {
+      "name": "IceStorm",
+      "description": "82-112 Ice Damage to all foes"
+    },
+    {
+      "name": "Imitate",
+      "description": " Copy and return every skill cast on Caster for 1 turn"
+    },
+    {
+      "name": "Increase",
+      "description": "Increases defence for all allies by 50%"
+    },
+    {
+      "name": "Infermore",
+      "description": "25-55 Air Damage to all foes"
+    },
+    {
+      "name": "Infermost",
+      "description": "80-180 Air Damage to all foes"
+    },
+    {
+      "name": "Infernos",
+      "description": "8-24 Air Damage to all foes"
+    },
+    {
+      "name": "Ironize",
+      "description": " All allies become invulernable for 3 turns [but can't move]"
+    },
+    {
+      "name": "K.O.Dance",
+      "description": "Instant death to all foes"
+    },
+    {
+      "name": "Kamikaze",
+      "description": "Reduces foe's Hp to 1 and attacker's Hp to 1 if successful"
+    },
+    {
+      "name": "LegSweep",
+      "description": "Trips one foe and stops his action for 1 turn"
+    },
+    {
+      "name": "LifeDance",
+      "description": "Revives all allies and causes instant death to the caster"
+    },
+    {
+      "name": "LifeSong",
+      "description": "Revives all allies (requires 2 turns and can fail)"
+    },
+    {
+      "name": "Lightning",
+      "description": "40-60 Lightning Damage to all foes"
+    },
+    {
+      "name": "LureDance",
+      "description": "Stops actions of all foes for one turn by inviting them to dance"
+    },
+    {
+      "name": "LushLicks",
+      "description": "Stops the action of one foe for one turn"
+    },
+    {
+      "name": "MagicBack",
+      "description": "Reflects back a skill once to the foes"
+    },
+    {
+      "name": "MagicWall",
+      "description": "Increases resistance against foes' skills"
+    },
+    {
+      "name": "MapMagic",
+      "description": "Reveals whole map of current level inside a gate"
+    },
+    {
+      "name": "Massacre",
+      "description": "Inflicts 95-105% of the caster's attack against one random monster"
+    },
+    {
+      "name": "Meditate",
+      "description": "Heals 500 Hp to the caster in combat only"
+    },
+    {
+      "name": "MegaMagic",
+      "description": "Highest Damage spell to all foes"
+    },
+    {
+      "name": "MetalCut",
+      "description": "50% more Damage against Metal monsters, Normal against other foes"
+    },
+    {
+      "name": "MouthShut",
+      "description": "Suspends one foe's breath attack"
+    },
+    {
+      "name": "MultiCut",
+      "description": "180-210 Cut Damage to all foes"
+    },
+    {
+      "name": "NapAttack",
+      "description": "Normal attack and tries to sleep the foe"
+    },
+    {
+      "name": "NumbOff",
+      "description": " Cures paralysis or wakes an ally"
+    },
+    {
+      "name": "OddDance",
+      "description": "Lowers one foe's Mp depending on the caster's level"
+    },
+    {
+      "name": "PalsyAir",
+      "description": "Breathes Air to paralyze all foes"
+    },
+    {
+      "name": "PanicAll",
+      "description": "Confuses all foes"
+    },
+    {
+      "name": "PaniDance",
+      "description": "Confuses or paralyzes all foes"
+    },
+    {
+      "name": "Paralyze",
+      "description": "Normal attack and tries to paralyze the foe"
+    },
+    {
+      "name": "PoisonAir",
+      "description": "Breathes gas to poison all foes"
+    },
+    {
+      "name": "PoisonGas",
+      "description": "Breathes Air to poison all foes "
+    },
+    {
+      "name": "PoisonHit",
+      "description": "Normal attack and tries to poison the foe"
+    },
+    {
+      "name": "PsycheUp",
+      "description": "Greater Damage with normal attack after end of this turn"
+    },
+    {
+      "name": "QuadHits",
+      "description": "Attacks 4 times random foes"
+    },
+    {
+      "name": "Radiant",
+      "description": " Decreases physical hit chance of all foes"
+    },
+    {
+      "name": "RainSlash",
+      "description": "Physical attack against all foes"
+    },
+    {
+      "name": "Ramming",
+      "description": " Reduces the foe's Hp by 50% and hurts the caster too"
+    },
+    {
+      "name": "Revive",
+      "description": "  Restores life to one ally with full Hp"
+    },
+    {
+      "name": "RobMagic",
+      "description": "Steals one foe's Mp"
+    },
+    {
+      "name": "RockThrow",
+      "description": "75-100 Damage with rocks to all foes"
+    },
+    {
+      "name": "Sacrifice",
+      "description": "Causes instant death or close to it to all foes and caster"
+    },
+    {
+      "name": "SamsiCall",
+      "description": "Summons a Samsi to fight using EvilSlash,SquallHit,RainSlash"
+    },
+    {
+      "name": "SandStorm",
+      "description": "Decreases hit chance of all foes"
+    },
+    {
+      "name": "Sap",
+      "description": "     Decreases defense of one foe by 50%"
+    },
+    {
+      "name": "Scorching",
+      "description": "75-100 Fire Damage to all foes"
+    },
+    {
+      "name": "Sheldodge",
+      "description": "50% more damge against Bugs Normal against other foes"
+    },
+    {
+      "name": "SickLick",
+      "description": "Stops action of one foe and reduces his defense to 1 for one turn"
+    },
+    {
+      "name": "SideStep",
+      "description": "Increase chance to dodge foes' attacks"
+    },
+    {
+      "name": "Sleep",
+      "description": "   Puts one foe to sleep"
+    },
+    {
+      "name": "SleepAir",
+      "description": "Puts all foes to sleep"
+    },
+    {
+      "name": "SleepAll",
+      "description": "Puts all foes to sleep"
+    },
+    {
+      "name": "Slow",
+      "description": "    Decreases agility of one foe by 50%"
+    },
+    {
+      "name": "SlowAll",
+      "description": " Decreases agility of all foes by 50%"
+    },
+    {
+      "name": "Smashlime",
+      "description": "50% more Damage against Slimes Normal against other foes"
+    },
+    {
+      "name": "SnowStorm",
+      "description": "42-58 Ice Damage to all foes"
+    },
+    {
+      "name": "Speed",
+      "description": "   Increases agility of one foe by 50%"
+    },
+    {
+      "name": "SpeedUp",
+      "description": " Increases agility of all foes by 50%"
+    },
+    {
+      "name": "SquallHit",
+      "description": "Physical Attack which lets you always attack first this turn"
+    },
+    {
+      "name": "StepGuard",
+      "description": "Prevents Damage from lava, swamp, barrier for 1 level inside Gates"
+    },
+    {
+      "name": "StopSpell",
+      "description": "Suspends all magical skills of all foes"
+    },
+    {
+      "name": "StormWind",
+      "description": "Reflects breath attacks to all foes "
+    },
+    {
+      "name": "StrongD",
+      "description": " Reduces every Damage taken this turn by 90%"
+    },
+    {
+      "name": "SuckAir",
+      "description": " More Damage next turn with breath skills"
+    },
+    {
+      "name": "SuckAll",
+      "description": " Sucks in all attacks targeted at one ally for one turn"
+    },
+    {
+      "name": "Surge",
+      "description": "   Cures any ailments for all allies"
+    },
+    {
+      "name": "Surround",
+      "description": "Decreases hit chance of all foes"
+    },
+    {
+      "name": "TailWind",
+      "description": "Reflects breath attacks to one foe"
+    },
+    {
+      "name": "TakeMagic",
+      "description": "Absorbs Mp of one spell cast by foe"
+    },
+    {
+      "name": "TatsuCall",
+      "description": "Summons a Tatsu using HealMore,Lightning,Cover"
+    },
+    {
+      "name": "ThickFog",
+      "description": "Suspends the skills of everyone for one round"
+    },
+    {
+      "name": "Thordain",
+      "description": "175-225 Lightning Damage to all foes"
+    },
+    {
+      "name": "Transform",
+      "description": "Transforms a monsters skills and stats to those of the selected foe"
+    },
+    {
+      "name": "TwinHits",
+      "description": "Increases the amount of Damage of the physical attacks"
+    },
+    {
+      "name": "TwinSlash",
+      "description": "Inflicts physical Damage against one foe and wounds yourself"
+    },
+    {
+      "name": "UltraDown",
+      "description": "Casts Sap,Slow,Surround on one foe "
+    },
+    {
+      "name": "Upper",
+      "description": "   Increases defence for one ally by 50%"
+    },
+    {
+      "name": "VacuSlash",
+      "description": "Normal attack based on Air resistance of the foe"
+    },
+    {
+      "name": "Vacuum",
+      "description": "  Air Damage to all foes,level based"
+    },
+    {
+      "name": "Vivify",
+      "description": "  Restores life to one ally with half his Hp (50% chance of sucess)"
+    },
+    {
+      "name": "WarCry",
+      "description": "  Freezes all foes with a loud roar to stop  their actions for 1 turn"
+    },
+    {
+      "name": "Whistle",
+      "description": " Summons monsters inside the gates to fight you"
+    },
+    {
+      "name": "WhiteAir",
+      "description": "160-180 Ice Damage to all foes"
+    },
+    {
+      "name": "WhiteFire",
+      "description": "150-170 Fire Damage to all foes"
+    },
+    {
+      "name": "WindBeast",
+      "description": "Air Damage to one foe,level based"
+    },
+    {
+      "name": "YellHelp",
+      "description": "Calls randomly allies to help,level based Damage"
+    },
+    {
+      "name": "Zap",
+      "description": "     70-90 Lightning Damage to all foes"
+    },
+    {
+      "name": "ZombieCut",
+      "description": "50% more Damage against Zombies Normal against other foes"
+    }
+  ]
+}
