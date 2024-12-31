@@ -1,5 +1,4 @@
-{
-  "skills": [
+[
     {
       "name": "Ahhh",
       "description": "    Female foe: Stops action for 1 turn Male foe: Damage to one foe"
@@ -613,4 +612,3 @@
       "description": "50% more Damage against Zombies Normal against other foes"
     }
   ]
-}
