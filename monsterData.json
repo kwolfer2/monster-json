@@ -726,9 +726,9 @@
       "skills": [
         "PoisonHit",
         "Curse",
-        "K.O."
+        "K.O.Dance"
       ],
-      "family": "Dance"
+      "family": "Dragon"
     },
     {
       "name": "Vampirus",
@@ -1149,11 +1149,11 @@
       "AG": 11,
       "IN": 7,
       "skills": [
-        "K.O.",
-        "Dance",
-        "Hustle"
+        "K.O.Dance",
+        "Hustle",
+        "Imitate"
       ],
-      "family": "Imitate"
+      "family": "Beast"
     },
     {
       "name": "IronTurt",
@@ -2169,11 +2169,11 @@
       "AG": 20,
       "IN": 11,
       "skills": [
-        "K.O.",
-        "Dance",
-        "CureDance"
+        "K.O.Dance",
+        "CureDance",
+        "SideStep"
       ],
-      "family": "SideStep"
+      "family": "Plant"
     },
     {
       "name": "TreeBoy",
@@ -3513,10 +3513,10 @@
       "IN": 12,
       "skills": [
         "FrigidAir",
-        "K.O.",
-        "Dance"
+        "K.O.Dance",
+        "ThickFog"
       ],
-      "family": "ThickFog"
+      "family": "Zombie"
     },
     {
       "name": "Skulpent",
@@ -3768,10 +3768,10 @@
       "IN": 14,
       "skills": [
         "TakeMagic",
-        "K.O.",
-        "Dance"
+        "K.O.Dance",
+        "LifeDance"
       ],
-      "family": "LifeDance"
+      "family": "Zombie"
     },
     {
       "name": "Copycat",
