@@ -16,22 +16,11 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "Slime",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[SLIME]"],
+          "secondaryOptions": ["[DRAGON]"]
         }
       ]
     }
@@ -53,22 +42,11 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "Slime",
-      "secondaryFamily": "Beast",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[SLIME]"],
+          "secondaryOptions": ["[BEAST]"]
         }
       ]
     }
@@ -90,22 +68,11 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "Slime",
-      "secondaryFamily": "Bird",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[SLIME]"],
+          "secondaryOptions": ["[BIRD]"]
         }
       ]
     }
@@ -127,22 +94,11 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "Slime",
-      "secondaryFamily": "Plant",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[SLIME]"],
+          "secondaryOptions": ["[PLANT]"]
         }
       ]
     }
@@ -164,22 +120,11 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "Slime",
-      "secondaryFamily": "Bug",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[SLIME]"],
+          "secondaryOptions": ["[BUG]"]
         }
       ]
     }
@@ -201,22 +146,11 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "Slime",
-      "secondaryFamily": "Devil",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[SLIME]"],
+          "secondaryOptions": ["[DEVIL]"]
         }
       ]
     }
@@ -238,23 +172,16 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "Slime",
-      "secondaryFamily": "Zombie",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Poisongon",
-        "GiantMoth"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["[SLIME]"],
+          "secondaryOptions": ["[ZOMBIE]"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["Poisongon"],
+          "secondaryOptions": ["GiantMoth"]
         }
       ]
     }
@@ -276,59 +203,11 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "Slime",
-      "secondaryFamily": "Material",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "PearlGel",
-    "ML": 40,
-    "EP": 10,
-    "HP": 10,
-    "MP": 16,
-    "AT": 8,
-    "DF": 22,
-    "AG": 14,
-    "IN": 9,
-    "skills": [
-      "Upper",
-      "ChargeUp",
-      "Radiant"
-    ],
-    "family": "Slime",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[SLIME]"],
+          "secondaryOptions": ["[MATERIAL]"]
         }
       ]
     }
@@ -350,22 +229,11 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[NONE]"],
+          "secondaryOptions": ["[NONE]"]
         }
       ]
     }
@@ -387,25 +255,11 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "Slime",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "PillowRat",
-        "FunkyBird",
-        "MadPlant",
-        "CopyCat"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[SLIME]"],
+          "secondaryOptions": ["PillowRat", "FunkyBird", "MadPlant", "CopyCat"]
         }
       ]
     }
@@ -427,27 +281,16 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "Slime",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Almiraj",
-        "GulpBeast",
-        "Trumpeter",
-        "KingLeo",
-        "DarkHorn",
-        "MadCat"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[SLIME]"],
+          "secondaryOptions": [  "Almiraj",
+          "GulpBeast",
+          "Trumpeter",
+          "KingLeo",
+          "DarkHorn",
+          "MadCat"]
         }
       ]
     }
@@ -469,29 +312,19 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "Slime",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Digster",
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": ["[SLIME]"],
+          "secondaryOptions": ["Digster",
         "DeadNite",
         "Golem",
         "StoneMan",
-        "BombCrag"
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+        "BombCrag"]
         }
       ]
     }
+
   },
   {
     "name": "SlimeBorg",
@@ -510,22 +343,16 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "Slime",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Roboster"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": ["DrakSlime", "SlimeNite", "RockSlime", "Metablle"],
-          "secondaryOptions": ["Swordgon", "Spikerous", "GreatDrak", "BattleRex", "SkyDragon"]
+          "groupID": "A",
+          "pedigreeOptions": ["[SLIME]"],
+          "secondaryOptions": ["[Roboster]"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["DrakSlime", "SlimeNite", "RockSlime", "Metablle"],
+          "secondaryOptions": ["Swordgon", "Spikerous", "GreatDrak", "BattleRex", "SkyDragon"]
         }
       ]
     }
@@ -547,22 +374,11 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "Slime",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Skullroo"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[SLIME]"],
+          "secondaryOptions": ["Skullroo"]
         }
       ]
     }
@@ -584,25 +400,25 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "Slime",
-      "secondaryFamily": "Boss",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
+          "groupID": "A",
+          "pedigreeOptions": ["[SLIME]"],
+          "secondaryOptions": ["[BOSS]"]
+        },
+        {
+          "groupID": "B",
           "pedigreeOptions": ["SpotKing"],
           "secondaryOptions": ["GreatDrak", "BattleRex", "Divinegon", "Unicorn", "KingLeo", "MadCondor", "ZapBird", "WhipBird", "Gigantes", "Centasaur", "DeadNoble", "WhiteKing"]
         },
         {
-          "pedigree": "Slime",
-          "secondary": "Slime"
+          "groupID": "C",
+         "pedigreeOptions": ["[SLIME] +4"],
+          "secondaryOptions": ["[SLIME] +4"]
         }
       ]
     }
+
   },
   {
     "name": "Metaly",
@@ -621,25 +437,15 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "Slime",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "MetalDrak"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[SLIME]"],
+          "secondaryOptions": ["MetalDrak"]
         }
       ]
     }
+
   },
   {
     "name": "Metabble",
@@ -658,22 +464,11 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "Metaly",
-          "secondary": "Metaly"
+          "groupID": "A",
+          "pedigreeOptions": ["Metaly"],
+          "secondaryOptions": ["Metaly"]
         }
       ]
     }
@@ -695,136 +490,21 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["KingSlime", "MetalKing"],
           "secondaryOptions": ["GreatDrak", "BattleRex", "Divinegon", "Unicorn", "KingLeo", "MadCondor", "ZapBird", "WhipBird", "Gigantes", "Centasaur", "DeadNoble", "WhiteKing"]
         },
         {
-          "pedigree": "SpotSlime",
-          "secondary": "SpotSlime"
+          "groupID": "B",
+          "pedigreeOptions": ["SpotSlime"],
+          "secondaryOptions": ["SpotSlime"]
         }
       ]
     }
-  },
-  {
-    "name": "TropicGel",
-    "ML": 40,
-    "EP": 14,
-    "HP": 15,
-    "MP": 20,
-    "AT": 19,
-    "DF": 9,
-    "AG": 14,
-    "IN": 15,
-    "skills": [
-      "Mpass",
-      "SleepAir",
-      "LushLicks"
-    ],
-    "family": "Slime",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "MimeSlime",
-    "ML": 40,
-    "EP": 17,
-    "HP": 10,
-    "MP": 12,
-    "AT": 8,
-    "DF": 19,
-    "AG": 20,
-    "IN": 17,
-    "skills": [
-      "PanicAll",
-      "Ahhh",
-      "LoveRain"
-    ],
-    "family": "Slime",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "HaloSlime",
-    "ML": 35,
-    "EP": 16,
-    "HP": 9,
-    "MP": 20,
-    "AT": 11,
-    "DF": 13,
-    "AG": 12,
-    "IN": 22,
-    "skills": [
-      "Sleep",
-      "SealPray",
-      "LifeSong"
-    ],
-    "family": "Slime",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
+
+
   },
   {
     "name": "MetalKing",
@@ -843,22 +523,16 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["SpotKing", "KingSlime"],
           "secondaryOptions": ["MetalDrak"]
         },
         {
-          "pedigree": "Metabble",
-          "secondary": "Metabble"
+          "groupID": "B",
+          "pedigreeOptions": ["Metabble"],
+          "secondaryOptions": ["Metabble"]
         }
       ]
     }
@@ -880,96 +554,16 @@
     ],
     "family": "Slime",
     "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["SpotKing", "KingSlime", "MetalKing"],
           "secondaryOptions": ["GoldGolem"]
         },
         {
-          "pedigree": "MetalKing",
-          "secondary": "MetalKing"
-        }
-      ]
-    }
-  },
-  {
-    "name": "GranSlime",
-    "ML": 80,
-    "EP": 30,
-    "HP": 25,
-    "MP": 29,
-    "AT": 27,
-    "DF": 31,
-    "AG": 6,
-    "IN": 31,
-    "skills": [
-      "Farewell",
-      "Focus",
-      "Informer"
-    ],
-    "family": "Slime",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "WonderEgg",
-    "ML": 40,
-    "EP": 4,
-    "HP": 8,
-    "MP": 13,
-    "AT": 11,
-    "DF": 19,
-    "AG": 11,
-    "IN": 20,
-    "skills": [
-      "Sacrifice",
-      "Ironize",
-      "Chance"
-    ],
-    "family": "Slime",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["MetalKing"],
+          "secondaryOptions": ["MetalKing"]
         }
       ]
     }
