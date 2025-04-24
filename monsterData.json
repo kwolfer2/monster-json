@@ -585,25 +585,15 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "Slime",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["[SLIME]"]
         }
       ]
     }
+
   },
   {
     "name": "Tortragon",
@@ -622,25 +612,15 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "Beast",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["[BEAST]"]
         }
       ]
     }
+
   },
   {
     "name": "Pteranod",
@@ -659,25 +639,15 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "Bird",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["[BIRD]"]
         }
       ]
     }
+
   },
   {
     "name": "Gasgon",
@@ -696,25 +666,15 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "Plant",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["[PLANT]"]
         }
       ]
     }
+
   },
   {
     "name": "FairyDrak",
@@ -733,25 +693,15 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "Bug",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["[BUG]"]
         }
       ]
     }
+
   },
   {
     "name": "LizardMan",
@@ -770,25 +720,15 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "Devil",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["[DEVIL]"]
         }
       ]
     }
+
   },
   {
     "name": "Poisongon",
@@ -807,25 +747,15 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "Zombie",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["[ZOMBIE]"]
         }
       ]
     }
+
   },
   {
     "name": "Swordgon",
@@ -844,62 +774,15 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "Material",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["[MATERIAL]"]
         }
       ]
     }
-  },
-  {
-    "name": "Drygon",
-    "ML": 35,
-    "EP": 16,
-    "HP": 11,
-    "MP": 2,
-    "AT": 19,
-    "DF": 13,
-    "AG": 7,
-    "IN": 5,
-    "skills": [
-      "Sap",
-      "Ramming",
-      "WarCry"
-    ],
-    "family": "Dragon",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
+
   },
   {
     "name": "Dragon",
@@ -918,25 +801,15 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "DragonKid",
-          "secondary": "DragonKid"
+          "groupID": "A",
+          "pedigreeOptions": ["DragonKid"],
+          "secondaryOptions": ["DragonKid"]
         }
       ]
     }
+
   },
   {
     "name": "MiniDrak",
@@ -955,25 +828,15 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "DragonKid",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Picky"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["DragonKid"],
+          "secondaryOptions": ["[Picky]"]
         }
       ]
     }
+
   },
   {
     "name": "MadDragon",
@@ -992,22 +855,16 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "Beast",
-      "pedigreeOverrides": [
-        "Gasgon"
-      ],
-      "secondaryOverrides": [
-        "GulpBeast"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["GulpBeast"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["Gasgon"],
+          "secondaryOptions": ["[BEAST]"]
         }
       ]
     }
@@ -1029,25 +886,20 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "MadCondor"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": ["LizardMan"],
-          "secondaryOptions": ["WingSlime", "Trumpeter", "MadCat", "FaceTree", "Lionex", "GoatHorn", "GateGuard", "Gigantes"]
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["MadCondor"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["LizardMan"],
+          "secondaryOptions": ["WingSlime", "Trumpeter", "MadCat", "FaceTree", "Lionex", "GoatHorn", "GateGuard", "Gigantes"]
         }
       ]
     }
+
   },
   {
     "name": "Chamelgon",
@@ -1066,22 +918,11 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Voodoll"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["Voodoll"]
         }
       ]
     }
@@ -1103,25 +944,15 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "DragonKid",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "GoHopper"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["GoHopper"]
         }
       ]
     }
+
   },
   {
     "name": "Andreal",
@@ -1140,22 +971,16 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Gulpple"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": ["Gasgon", "MadDragon", "BattleRex", "SkyDragon"],
-          "secondaryOptions": ["Goategon", "Trumpeter", "MadCondor", "WhipBird", "FunkyBird", "ArcDemon", "Lionex", "GoatHorn", "Ogre", "Akubar", "DeadNoble", "Golem"]
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["Gulpple"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["Gasgon", "MadDragon", "BattleRex", "SkyDragon"],
+          "secondaryOptions": ["Goategon", "Trumpeter", "MadCondor", "WhipBird", "FunkyBird", "ArcDemon", "Lionex", "GoatHorn", "Ogre", "Akubar", "DeadNoble", "Golem"]
         }
       ]
     }
@@ -1177,96 +1002,11 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Babble"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Vampirus",
-    "ML": 35,
-    "EP": 8,
-    "HP": 14,
-    "MP": 7,
-    "AT": 10,
-    "DF": 8,
-    "AG": 19,
-    "IN": 8,
-    "skills": [
-      "Infernos",
-      "CallHelp",
-      "BiAttack"
-    ],
-    "family": "Dragon",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "SnakeBat",
-    "ML": 35,
-    "EP": 7,
-    "HP": 10,
-    "MP": 9,
-    "AT": 21,
-    "DF": 15,
-    "AG": 9,
-    "IN": 8,
-    "skills": [
-      "RockThrow",
-      "LushLicks",
-      "Errand"
-    ],
-    "family": "Dragon",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["Babble"]
         }
       ]
     }
@@ -1288,25 +1028,15 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "ArmyCrab", "Digster"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["ArmyCrab", "Digster"]
         }
       ]
     }
+
   },
   {
     "name": "GreatDrak",
@@ -1325,22 +1055,21 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "SpotKing", "KingSlime", "MetalKing", "BattleRex", "Unicorn", "ZapBird", "WhipBird", "Gigantes", "Centasaur"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": ["DragonKid", "Dragon"],
-          "secondaryOptions": ["DragonKid", "Dragon"]
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["SpotKing", "KingSlime", "MetalKing", "BattleRex", "Unicorn", "ZapBird", "WhipBird", "Gigantes", "Centasaur"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["Dragon +4"],
+          "secondaryOptions": ["Dragon +4"]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": ["DragonKid +4"],
+          "secondaryOptions": ["DragonKid +4"]
         }
       ]
     }
@@ -1362,25 +1091,15 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "BigRoost"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["BigRoost"]
         }
       ]
     }
+
   },
   {
     "name": "WingSnake",
@@ -1399,22 +1118,11 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "Crestpent",
-          "secondary": "Crestpent"
+          "groupID": "A",
+          "pedigreeOptions": ["Crestpent"],
+          "secondaryOptions": ["Crestpent"]
         }
       ]
     }
@@ -1436,22 +1144,16 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["Pteranod", "Gasgon", "LizardMan", "BattleRex", "SkyDragon"],
           "secondaryOptions": ["DarkHorn", "MadKnight", "CopyCat", "StoneMan"]
-        },
+        }, 
         {
-          "pedigree": "WingSnake",
-          "secondary": "WingSnake"
+          "groupID": "B",
+          "pedigreeOptions": ["WingSnake"],
+          "secondaryOptions": ["WingSnake"]
         }
       ]
     }
@@ -1473,22 +1175,11 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "Boss",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["Andreal", "GreatDrak"],
           "secondaryOptions": ["MedusaEye"]
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
         }
       ]
     }
@@ -1510,22 +1201,11 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "KingLeo", "Lionex", "Ogre", "MadKnight", "EvilArmor"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["KingLeo", "Lionex", "Ogre", "MadKnight", "EvilArmor"]
         }
       ]
     }
@@ -1547,59 +1227,11 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "Dragon",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Phoenix"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Serpentia",
-    "ML": 55,
-    "EP": 24,
-    "HP": 23,
-    "MP": 7,
-    "AT": 24,
-    "DF": 21,
-    "AG": 18,
-    "IN": 8,
-    "skills": [
-      "SlimeBlow",
-      "DevilCut",
-      "RainSlash"
-    ],
-    "family": "Dragon",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["Phoenix"]
         }
       ]
     }
@@ -1621,96 +1253,11 @@
     ],
     "family": "Dragon",
     "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "SkyDragon",
-          "secondary": "Orochi"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Orligon",
-    "ML": 75,
-    "EP": 29,
-    "HP": 25,
-    "MP": 24,
-    "AT": 28,
-    "DF": 25,
-    "AG": 21,
-    "IN": 24,
-    "skills": [
-      "TwinHits",
-      "Beserker",
-      "StrongD"
-    ],
-    "family": "Dragon",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "GigaDraco",
-    "ML": 70,
-    "EP": 24,
-    "HP": 30,
-    "MP": 24,
-    "AT": 29,
-    "DF": 12,
-    "AG": 6,
-    "IN": 11,
-    "skills": [
-      "FireAir",
-      "RockThrow",
-      "Massacre"
-    ],
-    "family": "Dragon",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["SkyDragon"],
+          "secondaryOptions": ["Orochi"]
         }
       ]
     }
