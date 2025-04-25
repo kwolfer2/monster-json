@@ -2527,23 +2527,12 @@
       "Slow"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "Plant",
-      "secondaryFamily": "Slime",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[PLANT]"],
+          "secondaryOptions": ["[SLIME]"]
         }
       ]
     }
@@ -2564,23 +2553,12 @@
       "PalsyAir"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "Plant",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[PLANT]"],
+          "secondaryOptions": ["[DRAGON]"]
         }
       ]
     }
@@ -2601,23 +2579,12 @@
       "CurseOff"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "Plant",
-      "secondaryFamily": "Beast",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[PLANT]"],
+          "secondaryOptions": ["[BEAST]"]
         }
       ]
     }
@@ -2638,23 +2605,12 @@
       "StepGuard"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "Plant",
-      "secondaryFamily": "Bird",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[PLANT]"],
+          "secondaryOptions": ["[BIRD]"]
         }
       ]
     }
@@ -2675,23 +2631,12 @@
       "OddDance"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "Plant",
-      "secondaryFamily": "Bug",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[PLANT]"],
+          "secondaryOptions": ["[BUG]"]
         }
       ]
     }
@@ -2712,23 +2657,12 @@
       "SleepAir"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "Plant",
-      "secondaryFamily": "Devil",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[PLANT]"],
+          "secondaryOptions": ["[DEVIL]"]
         }
       ]
     }
@@ -2749,23 +2683,12 @@
       "MouthShut"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "Plant",
-      "secondaryFamily": "Zombie",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[PLANT]"],
+          "secondaryOptions": ["[ZOMBIE]"]
         }
       ]
     }
@@ -2786,60 +2709,12 @@
       "MagicWall"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "Plant",
-      "secondaryFamily": "Material",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Slurperon",
-    "ML": 40,
-    "EP": 3,
-    "HP": 8,
-    "MP": 5,
-    "AT": 7,
-    "DF": 2,
-    "AG": 7,
-    "IN": 2,
-    "skills": [
-      "Sleep",
-      "OddDance",
-      "LushLicks"
-    ],
-    "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[PLANT]"],
+          "secondaryOptions": ["[MATERIAL]"]
         }
       ]
     }
@@ -2860,23 +2735,12 @@
       "StepGuard"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "Beast",
-      "pedigreeOverrides": [
-        "AmberWeed"
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["AmberWeed"],
+          "secondaryOptions": ["[BEAST]"]
         }
       ]
     }
@@ -2897,23 +2761,12 @@
       "SleepAir"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "Plant",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Gophecada"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[PLANT]"],
+          "secondaryOptions": ["Gophecada"]
         }
       ]
     }
@@ -2934,23 +2787,17 @@
       "SideStep"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "Plant",
-      "secondaryFamily": "Beast",
-      "pedigreeOverrides": [
-        "MadPlant"
-      ],
-      "secondaryOverrides": [
-        "Facer"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["MadPlant"],
+          "secondaryOptions": ["[BEAST]"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["[PLANT]"],
+          "secondaryOptions": ["Facer"]
         }
       ]
     }
@@ -2971,60 +2818,12 @@
       "Hustle"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "Plant",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Pixy"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Devipine",
-    "ML": 40,
-    "EP": 10,
-    "HP": 14,
-    "MP": 7,
-    "AT": 8,
-    "DF": 4,
-    "AG": 5,
-    "IN": 3,
-    "skills": [
-      "Beat",
-      "SleepAir",
-      "PoisonGas"
-    ],
-    "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[PLANT]"],
+          "secondaryOptions": ["Pixy"]
         }
       ]
     }
@@ -3045,23 +2844,17 @@
       "OddDance"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "Plant",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        "HerbMan"
-      ],
-      "secondaryOverrides": [
-        "NiteWhip"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["HerbMan"],
+          "secondaryOptions": ["[DRAGON]"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["[PLANT]"],
+          "secondaryOptions": ["NiteWhip"]
         }
       ]
     }
@@ -3082,23 +2875,17 @@
       "DanceShut"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "Plant",
-      "secondaryFamily": "Devil",
-      "pedigreeOverrides": [
-        "DanceVegi"
-      ],
-      "secondaryOverrides": [
-        "FunkyBird"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["[PLANT]"],
+          "secondaryOptions": ["FunkyBird"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["DanceVegi"],
+          "secondaryOptions": ["[DEVIL]"]
         }
       ]
     }
@@ -3119,23 +2906,12 @@
       "MapMagic"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "Plant",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "PillowRat"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[PLANT]"],
+          "secondaryOptions": ["PillowRat"]
         }
       ]
     }
@@ -3156,23 +2932,12 @@
       "Radiant"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "Plant",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "RockSlime", "BigEye", "DuckKite", "ButterFly", "Eyeder", "DarkEye", "EyeBall", "MadMirror"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[PLANT]"],
+          "secondaryOptions": ["RockSlime", "BigEye", "DuckKite", "ButterFly", "Eyeder", "DarkEye", "EyeBall", "MadMirror"]
         }
       ]
     }
@@ -3193,23 +2958,12 @@
       "SleepAir"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "EvilSeed",
-          "secondary": "EvilSeed"
+          "groupID": "A",
+          "pedigreeOptions": ["EvilSeed"],
+          "secondaryOptions": ["EvilSeed"]
         }
       ]
     }
@@ -3230,60 +2984,12 @@
       "RainSlash"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "ManEater",
-          "secondary": "ManEater"
-        }
-      ]
-    }
-  },
-  {
-    "name": "GhosTree",
-    "ML": 50,
-    "EP": 9,
-    "HP": 8,
-    "MP": 13,
-    "AT": 9,
-    "DF": 6,
-    "AG": 7,
-    "IN": 15,
-    "skills": [
-      "RobMagic",
-      "CureDance",
-      "EerieLite"
-    ],
-    "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["ManEater"],
+          "secondaryOptions": ["ManEater"]
         }
       ]
     }
@@ -3304,97 +3010,12 @@
       "BladeD"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "Plant",
-      "secondaryFamily": "Boss",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Egdracil",
-    "ML": 70,
-    "EP": 24,
-    "HP": 25,
-    "MP": 18,
-    "AT": 21,
-    "DF": 24,
-    "AG": 15,
-    "IN": 23,
-    "skills": [
-      "Vivify",
-      "SleepAir",
-      "SealAll"
-    ],
-    "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Warubou",
-    "ML": 80,
-    "EP": 15,
-    "HP": 22,
-    "MP": 7,
-    "AT": 12,
-    "DF": 13,
-    "AG": 24,
-    "IN": 4,
-    "skills": [
-      "Mpass",
-      "DeMagic",
-      "Pheromone"
-    ],
-    "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[PLANT]"],
+          "secondaryOptions": ["[BOSS]"]
         }
       ]
     }
@@ -3415,97 +3036,12 @@
       "Whistle"
     ],
     "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Eggplaton",
-    "ML": 30,
-    "EP": 3,
-    "HP": 8,
-    "MP": 14,
-    "AT": 13,
-    "DF": 19,
-    "AG": 7,
-    "IN": 14,
-    "skills": [
-      "Mpass",
-      "OddDance",
-      "CureDance"
-    ],
-    "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "FooHero",
-    "ML": 45,
-    "EP": 16,
-    "HP": 8,
-    "MP": 4,
-    "AT": 7,
-    "DF": 4,
-    "AG": 9,
-    "IN": 7,
-    "skills": [
-      "Bolt",
-      "Heal",
-      "GigaSlash"
-    ],
-    "family": "Plant",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[NONE]"],
+          "secondaryOptions": ["[NONE]"]
         }
       ]
     }
