@@ -1261,7 +1261,7 @@
         }
       ]
     }
-  },
+  }, // BEAST FAMILY
   {
     "name": "Tonguella",
     "ML": 40,
@@ -1279,22 +1279,11 @@
     ],
     "family": "Beast",
     "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "Slime",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["[SLIME]"]
         }
       ]
     }
@@ -1315,23 +1304,12 @@
       "Beserker"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["[DRAGON]"]
         }
       ]
     }
@@ -1352,23 +1330,12 @@
       "OddDance"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "Bird",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["[BIRD]"]
         }
       ]
     }
@@ -1389,23 +1356,12 @@
       "SideStep"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "Plant",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["[PLANT]"]
         }
       ]
     }
@@ -1426,23 +1382,12 @@
       "PalsyAir"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "Bug",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["[BUG]"]
         }
       ]
     }
@@ -1463,23 +1408,27 @@
       "WarCry"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "Devil",
-      "pedigreeOverrides": [
-        "Grizzly"
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": ["Tonguella", "Grizzly", "Yeti", "Unicorn", "WildApe", "Trumpeter", "IronTurt", "Goategon"],
+          "groupID": "A",
+          "pedigreeOptions": ["Tonguella", "Grizzly", "Yeti", "Unicorn", "WildApe", "Trumpeter"],
+          "secondaryOptions": ["Digster", "Skullgon", "DeadNoble", "WhiteKing", "Skeletor"]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": ["IronTurt", "Grizzly", "Yeti", "Unicorn", "WildApe", "Goategon"],
           "secondaryOptions": ["MetalDrak", "Roboster", "LavaMan", "IceMan", "Golem", "StoneMan"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "C",
+          "pedigreeOptions": ["Grizzly", "Yeti", "Trumpeter", "BigEye"],
+          "secondaryOptions": ["[DRAGON]"]
+        },
+        {
+          "groupID": "D",
+          "pedigreeOptions": ["Grizzly"],
+          "secondaryOptions": ["[DEVIL]"]
         }
       ]
     }
@@ -1500,23 +1449,12 @@
       "EagleEye"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "Zombie",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["[ZOMBIE]"]
         }
       ]
     }
@@ -1537,60 +1475,12 @@
       "VacuSlash"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "Material",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Beavern",
-    "ML": 40,
-    "EP": 14,
-    "HP": 22,
-    "MP": 8,
-    "AT": 8,
-    "DF": 21,
-    "AG": 10,
-    "IN": 7,
-    "skills": [
-      "Icebolt",
-      "ChargeUp",
-      "Geyser"
-    ],
-    "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["[MATERIAL]"]
         }
       ]
     }
@@ -1611,23 +1501,12 @@
       "LushLicks"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        "Saccer"
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["Saccer"],
+          "secondaryOptions": ["[DRAGON]"]
         }
       ]
     }
@@ -1649,22 +1528,16 @@
     ],
     "family": "Beast",
     "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Mudron"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": ["Tonguella", "GulpBeast"],
-          "secondaryOptions": ["TreeSlime", "FangSlime", "MadDragon", "FunkyBird", "MadPlant", "FaceTree", "Lipsy", "Demonite", "Gremlin", "CopyCat", "JewelBag", "Mimic"]
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["Mudron"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["Tonguella", "GulpBeast"],
+          "secondaryOptions": ["TreeSlime", "FangSlime", "MadDragon", "FunkyBird", "MadPlant", "FaceTree", "Lipsy", "Demonite", "Gremlin", "CopyCat", "JewelBag", "Mimic"]
         }
       ]
     }
@@ -1685,23 +1558,12 @@
       "Cover"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Tortragon"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["Tortragon"]
         }
       ]
     }
@@ -1722,23 +1584,12 @@
       "EagleEye"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "DuckKite"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["DuckKite"]
         }
       ]
     }
@@ -1759,23 +1610,12 @@
       "Kamikaze"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "StubSuck"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["StubSuck"]
         }
       ]
     }
@@ -1796,23 +1636,17 @@
       "LegSweep"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "Devil",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "MetalDrak", "Roboster", "LavaMan", "IceMan", "Golem", "StoneMan"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["[DEVIL]"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["MetalDrak", "Roboster", "LavaMan", "IceMan", "Golem", "StoneMan"]
         }
       ]
     }
@@ -1833,134 +1667,17 @@
       "WarCry"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Orc"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["Orc"]
+        },
+        {
+          "groupID": "B",
           "pedigreeOptions": ["IronTurt", "Goategon", "WildApe", "MadCat"],
           "secondaryOptions": ["Pteranod", "Gasgon", "Swordgon", "MadDragon", "BattleRex", "SkyDragon"]
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "ArrowDog",
-    "ML": 40,
-    "EP": 5,
-    "HP": 9,
-    "MP": 7,
-    "AT": 21,
-    "DF": 19,
-    "AG": 13,
-    "IN": 14,
-    "skills": [
-      "Blaze",
-      "CallHelp",
-      "MouthShut"
-    ],
-    "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "NoctoKing",
-    "ML": 40,
-    "EP": 13,
-    "HP": 22,
-    "MP": 13,
-    "AT": 18,
-    "DF": 15,
-    "AG": 20,
-    "IN": 8,
-    "skills": [
-      "Surround",
-      "SleepAir",
-      "ThickFog"
-    ],
-    "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "BeastNite",
-    "ML": 40,
-    "EP": 8,
-    "HP": 21,
-    "MP": 4,
-    "AT": 22,
-    "DF": 14,
-    "AG": 8,
-    "IN": 6,
-    "skills": [
-      "Sleep",
-      "RainSlash",
-      "GigaSlash"
-    ],
-    "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
         }
       ]
     }
@@ -1981,23 +1698,12 @@
       "Informer"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "SabreMan"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["SabreMan"]
         }
       ]
     }
@@ -2018,23 +1724,12 @@
       "SlimeBlow"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "LizardFly"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["LizardFly"]
         }
       ]
     }
@@ -2055,23 +1750,17 @@
       "Errand"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "Slime",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "FangSlime"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": ["Tonguella", "GulpBeast", "Grizzly", "Yeti", "Goategon", "WildApe", "Trumpeter"],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["FangSlime"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["Tonguella", "GulpBeast", "Grizzly", "Yeti", "Goategon", "WildApe", "Trumpeter"],
+          "secondaryOptions": ["[SLIME]"]
         }
       ]
     }
@@ -2092,23 +1781,12 @@
       "SleepAir"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "DrakSlime", "LizardMan"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["LizardMan", "DrakSlime"]
         }
       ]
     }
@@ -2129,23 +1807,17 @@
       "Errand"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        "Almiraj"
-      ],
-      "secondaryOverrides": [
-        "MadPecker"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["MadPecker"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["Almiraj"],
+          "secondaryOptions": ["[DRAGON]"]
         }
       ]
     }
@@ -2166,23 +1838,22 @@
       "WarCry"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        "SuperTen"
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": ["GulpBeast"],
-          "secondaryOptions": ["MetalDrak", "Balzak", "Roboster", "LavaMan", "IceMan", "Golem", "StoneMan"]
+          "groupID": "A",
+          "pedigreeOptions": ["SuperTen"],
+          "secondaryOptions": ["[DRAGON]"]
         },
         {
-          "pedigree": "WildApe",
-          "secondary": "WildApe"
+          "groupID": "b",
+          "pedigreeOptions": ["WildApe"],
+          "secondaryOptions": ["WildApe"]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": ["GulpBeast"],
+          "secondaryOptions": ["MetalDrak", "Balzak", "Roboster", "LavaMan", "IceMan", "Golem", "StoneMan"]
         }
       ]
     }
@@ -2203,23 +1874,17 @@
       "BiAttack"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": ["Trumpeter", "Roboster"],
-          "secondaryOptions": ["Trumpeter", "MetalDrak", "Balzak", "GoldGolem", "SuperTen", "GulpBeast", "Unicorn", "DarkHorn", "MadCat"]
+          "groupID": "A",
+          "pedigreeOptions": ["Trumpeter"],
+          "secondaryOptions": ["Trumpeter", "MetalDrak", "Balzak", "GoldGolem", ] //"SuperTen", "GulpBeast", "Unicorn", "DarkHorn", "MadCat"
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["Roboster"],
+          "secondaryOptions": ["SuperTen", "GulpBeast", "Unicorn", "DarkHorn", "Trumpeter", "DarkHorn", "MadCat"]
         }
       ]
     }
@@ -2240,26 +1905,16 @@
       "PsycheUp"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "Boss",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["[BOSS]"]
         }
       ]
     }
+
   },
   {
     "name": "MadCat",
@@ -2277,26 +1932,16 @@
       "LegSweep"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Dragon"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["Dragon"]
         }
       ]
     }
+
   },
   {
     "name": "BigEye",
@@ -2314,138 +1959,17 @@
       "LoveRain"
     ],
     "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "Beast",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "EyeBall"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BEAST]"],
+          "secondaryOptions": ["EyeBall"]
         }
       ]
     }
-  },
-  {
-    "name": "Gorago",
-    "ML": 65,
-    "EP": 29,
-    "HP": 29,
-    "MP": 28,
-    "AT": 30,
-    "DF": 24,
-    "AG": 24,
-    "IN": 6,
-    "skills": [
-      "Bang",
-      "Massacre",
-      "EerieLite"
-    ],
-    "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "CatMage",
-    "ML": 40,
-    "EP": 4,
-    "HP": 7,
-    "MP": 6,
-    "AT": 10,
-    "DF": 4,
-    "AG": 6,
-    "IN": 15,
-    "skills": [
-      "Blaze",
-      "Surround",
-      "Transform"
-    ],
-    "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Dumbira",
-    "ML": 45,
-    "EP": 7,
-    "HP": 15,
-    "MP": 10,
-    "AT": 9,
-    "DF": 8,
-    "AG": 14,
-    "IN": 7,
-    "skills": [
-      "MetalCut",
-      "RainSlash",
-      "TwinSlash"
-    ],
-    "family": "Beast",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
+
+  }, // BIRD FAMILY
   {
     "name": "Picky",
     "ML": 40,
