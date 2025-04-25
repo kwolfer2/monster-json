@@ -3062,26 +3062,16 @@
       "Whistle"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "Bug",
-      "secondaryFamily": "Slime",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BUG]"],
+          "secondaryOptions": ["[SLIME]"]
         }
       ]
     }
+
   },
   {
     "name": "Catapilla",
@@ -3099,26 +3089,16 @@
       "ThickFog"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "Bug",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BUG]"],
+          "secondaryOptions": ["[DRAGON]"]
         }
       ]
     }
+
   },
   {
     "name": "Gophecada",
@@ -3136,26 +3116,16 @@
       "CallHelp"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "Bug",
-      "secondaryFamily": "Beast",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BUG]"],
+          "secondaryOptions": ["[BEAST]"]
         }
       ]
     }
+
   },
   {
     "name": "Butterfly",
@@ -3173,26 +3143,16 @@
       "Curse"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "Bug",
-      "secondaryFamily": "Bird",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BUG]"],
+          "secondaryOptions": ["[BIRD]"]
         }
       ]
     }
+
   },
   {
     "name": "WeedBug",
@@ -3210,26 +3170,16 @@
       "MagicWall"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "Bug",
-      "secondaryFamily": "Plant",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BUG]"],
+          "secondaryOptions": ["[PLANT]"]
         }
       ]
     }
+
   },
   {
     "name": "GiantWorm",
@@ -3247,26 +3197,16 @@
       "StepGuard"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "Bug",
-      "secondaryFamily": "Devil",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BUG]"],
+          "secondaryOptions": ["[DEVIL]"]
         }
       ]
     }
+
   },
   {
     "name": "Lipsy",
@@ -3284,26 +3224,16 @@
       "Pheromone"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "Bug",
-      "secondaryFamily": "Zombie",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BUG]"],
+          "secondaryOptions": ["[ZOMBIE]"]
         }
       ]
     }
+
   },
   {
     "name": "StagBug",
@@ -3321,63 +3251,16 @@
       "LegSweep"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "Bug",
-      "secondaryFamily": "Material",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BUG]"],
+          "secondaryOptions": ["[MATERIAL]"]
         }
       ]
     }
-  },
-  {
-    "name": "Pyuro",
-    "ML": 40,
-    "EP": 7,
-    "HP": 8,
-    "MP": 8,
-    "AT": 7,
-    "DF": 13,
-    "AG": 11,
-    "IN": 14,
-    "skills": [
-      "Speed",
-      "WindBeast",
-      "MouthShut"
-    ],
-    "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
+
   },
   {
     "name": "ArmyAnt",
@@ -3395,26 +3278,16 @@
       "Kamikaze"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "Slime",
-      "pedigreeOverrides": [
-        "GiantSlug"
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["GiantSlug"],
+          "secondaryOptions": ["[SLIME]"]
         }
       ]
     }
+
   },
   {
     "name": "GoHopper",
@@ -3432,26 +3305,16 @@
       "ChargeUp"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[NONE]"],
+          "secondaryOptions": ["[NONE]"]
         }
       ]
     }
+
   },
   {
     "name": "TailEater",
@@ -3469,26 +3332,21 @@
       "Radiant"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "Bug",
-      "secondaryFamily": "Plant",
-      "pedigreeOverrides": [
-        "WeedBug"
-      ],
-      "secondaryOverrides": [
-        "FloraMan"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["[BUG]"],
+          "secondaryOptions": ["FloraMan"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["WeedBug"],
+          "secondaryOptions": ["[PLANT]"]
         }
       ]
     }
+
   },
   {
     "name": "ArmorPede",
@@ -3506,23 +3364,22 @@
       "TwinSlash"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "Bug",
-      "secondaryFamily": "Material",
-      "pedigreeOverrides": [
-        "GiantWorm"
-      ],
-      "secondaryOverrides": [
-        "IronTurt"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["[BUG]"],
+          "secondaryOptions": ["IronTurt"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["GiantWorm"],
+          "secondaryOptions": ["[MATERIAL]"]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": ["Droll"],
+          "secondaryOptions": ["[DRAGON]"]
         }
       ]
     }
@@ -3543,23 +3400,17 @@
       "MapMagic"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "Bug",
-      "secondaryFamily": "Beast",
-      "pedigreeOverrides": [
-        "Catapilla"
-      ],
-      "secondaryOverrides": [
-        "AmberWeed"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["[BUG]"],
+          "secondaryOptions": ["AmberWeed"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["Catapila"],
+          "secondaryOptions": ["[BEAST]"]
         }
       ]
     }
@@ -3580,23 +3431,17 @@
       "Radiant"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "Bug",
-      "secondaryFamily": "Devil",
-      "pedigreeOverrides": [
-        "ButterFly"
-      ],
-      "secondaryOverrides": [
-        "Saccer"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["[BUG]"],
+          "secondaryOptions": ["Saccer"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["ButterFly"],
+          "secondaryOptions": ["[DEVIL]"]
         }
       ]
     }
@@ -3617,23 +3462,22 @@
       "StepGuard"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "Bug",
-      "secondaryFamily": "Slime",
-      "pedigreeOverrides": [
-        "Lipsy"
-      ],
-      "secondaryOverrides": [
-        "Spooky"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["ButterFly", "TailEater", "Eyeder"],
           "secondaryOptions": ["ButterFly", "TailEater", "Eyeder"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["Lipsy"],
+          "secondaryOptions": ["[SLIME]"]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": ["[BUG]"],
+          "secondaryOptions": ["Spooky"]
         }
       ]
     }
@@ -3654,23 +3498,12 @@
       "MetalCut"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "Bug",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "DarkCrab"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BUG]"],
+          "secondaryOptions": ["DarkCrab"]
         }
       ]
     }
@@ -3691,97 +3524,17 @@
       "TailWind"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "Bug",
-      "secondaryFamily": "Zombie",
-      "pedigreeOverrides": [
-        "Eyeder", "Droll"
-      ],
-      "secondaryOverrides": [
-        "FairyRat"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["Eyeder", "Droll"],
+          "secondaryOptions": ["[ZOMBIE]"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Belzebub",
-    "ML": 35,
-    "EP": 12,
-    "HP": 23,
-    "MP": 19,
-    "AT": 8,
-    "DF": 7,
-    "AG": 14,
-    "IN": 3,
-    "skills": [
-      "Firebal",
-      "Farewell",
-      "Ramming"
-    ],
-    "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "WarMantis",
-    "ML": 50,
-    "EP": 18,
-    "HP": 23,
-    "MP": 16,
-    "AT": 12,
-    "DF": 9,
-    "AG": 11,
-    "IN": 8,
-    "skills": [
-      "VacuSlash",
-      "Shears",
-      "GigaSlash"
-    ],
-    "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["[BUG]"],
+          "secondaryOptions": ["FairyRat"]
         }
       ]
     }
@@ -3802,60 +3555,17 @@
       "DevilCut"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "Devil",
-      "pedigreeOverrides": [
-        "ArmorPede"
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["StagBug"],
+          "secondaryOptions": ["StagBug"]
         },
         {
-          "pedigree": "StagBug",
-          "secondary": "StagBug"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Sickler",
-    "ML": 45,
-    "EP": 7,
-    "HP": 19,
-    "MP": 13,
-    "AT": 9,
-    "DF": 7,
-    "AG": 14,
-    "IN": 5,
-    "skills": [
-      "Infernos",
-      "DevilCut",
-      "SquallHit"
-    ],
-    "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["ArmorPede"],
+          "secondaryOptions": ["[DEVIL]"]
         }
       ]
     }
@@ -3876,23 +3586,12 @@
       "EvilSlash"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "HornBeet",
-          "secondary": "HornBeet"
+          "groupID": "A",
+          "pedigreeOptions": ["HornBeet"],
+          "secondaryOptions": ["HornBeet"]
         }
       ]
     }
@@ -3913,97 +3612,12 @@
       "SealAll"
     ],
     "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "Bug",
-      "secondaryFamily": "Boss",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Skularach",
-    "ML": 65,
-    "EP": 25,
-    "HP": 18,
-    "MP": 23,
-    "AT": 25,
-    "DF": 24,
-    "AG": 30,
-    "IN": 21,
-    "skills": [
-      "Lightning",
-      "BiAttack",
-      "PoisonGas"
-    ],
-    "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "MultiEyes",
-    "ML": 35,
-    "EP": 4,
-    "HP": 14,
-    "MP": 15,
-    "AT": 19,
-    "DF": 13,
-    "AG": 2,
-    "IN": 3,
-    "skills": [
-      "Sap",
-      "TwinHits",
-      "PalsyAir"
-    ],
-    "family": "Bug",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BUG]"],
+          "secondaryOptions": ["[BOSS]"]
         }
       ]
     }
