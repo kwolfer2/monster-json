@@ -4975,23 +4975,12 @@
       "PanicAll"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "Material",
-      "secondaryFamily": "Slime",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[MATERIAL]"],
+          "secondaryOptions": ["[SLIME]"]
         }
       ]
     }
@@ -5012,23 +5001,12 @@
       "MapMagic"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "Material",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[MATERIAL]"],
+          "secondaryOptions": ["[DRAGON]"]
         }
       ]
     }
@@ -5049,23 +5027,12 @@
       "Whistle"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "Material",
-      "secondaryFamily": "Beast",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[MATERIAL]"],
+          "secondaryOptions": ["[BEAST]"]
         }
       ]
     }
@@ -5086,23 +5053,12 @@
       "SealAll"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "Material",
-      "secondaryFamily": "Bird",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[MATERIAL]"],
+          "secondaryOptions": ["[BIRD]"]
         }
       ]
     }
@@ -5123,23 +5079,12 @@
       "LifeSong"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "Material",
-      "secondaryFamily": "Plant",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[MATERIAL]"],
+          "secondaryOptions": ["[PLANT]"]
         }
       ]
     }
@@ -5160,23 +5105,12 @@
       "HighJump"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "Material",
-      "secondaryFamily": "Bug",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[MATERIAL]"],
+          "secondaryOptions": ["[BUG]"]
         }
       ]
     }
@@ -5197,23 +5131,12 @@
       "Outside"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "Material",
-      "secondaryFamily": "Devil",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[MATERIAL]"],
+          "secondaryOptions": ["[DEVIL]"]
         }
       ]
     }
@@ -5234,60 +5157,12 @@
       "EvilSlash"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "Material",
-      "secondaryFamily": "Zombie",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Puppetor",
-    "ML": 35,
-    "EP": 6,
-    "HP": 13,
-    "MP": 9,
-    "AT": 7,
-    "DF": 4,
-    "AG": 7,
-    "IN": 11,
-    "skills": [
-      "OddDance",
-      "CureDance",
-      "Pheromone"
-    ],
-    "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[MATERIAL]"],
+          "secondaryOptions": ["[ZOMBIE]"]
         }
       ]
     }
@@ -5308,28 +5183,21 @@
       "Dodge"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "Slime",
-      "pedigreeOverrides": [
-        "JewelBag"
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["JewelBag"],
+          "secondaryOptions": ["[SLIME]"]
         }
       ]
     }
   },
   {
+    /* 
+              "pedigreeOptions": ["Golem", "StoneMan"],
+          "secondaryOptions": ["DrakSlime", "Snaily", "SlimeNite", "RockSlime"]
+    */
     "name": "Voodoll",
     "ML": 35,
     "EP": 11,
@@ -5345,23 +5213,17 @@
       "PanicAll"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "Material",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Lipsy"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["Golem", "StoneMan"],
           "secondaryOptions": ["DrakSlime", "Snaily", "SlimeNite", "RockSlime"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[MATERIAL]"],
+          "secondaryOptions": ["Lipsy"]
         }
       ]
     }
@@ -5382,26 +5244,26 @@
       "SandStorm"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "Material",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        "MetalDrak", "Roboster"
-      ],
-      "secondaryOverrides": [
-        "Andreal"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["Andreal", "Spikerous", "GreatDrak"],
           "secondaryOptions": ["SlimeBorg", "KingSlime", "Digster", "Skullgon", "Roboster", "Golem", "StoneMan"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["MetalDrak", "Roboster"],
+          "secondaryOptions": ["[DRAGON]"]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": ["[MATERIAL]"],
+          "secondaryOptions": ["Andreal"]
         }
       ]
     }
+
   },
   {
     "name": "Balzak",
@@ -5419,23 +5281,17 @@
       "MultiCut"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "Material",
-      "secondaryFamily": "Boss",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["LavaMan", "Iceman"],
+          "secondaryOptions": ["[DEVIL]"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[MATERIAL]"],
+          "secondaryOptions": ["[BOSS]"]
         }
       ]
     }
@@ -5456,26 +5312,21 @@
       "Paralyze"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "Material",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "GiantWorm"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
+          "groupID": "A",
+          "pedigreeOptions": ["[MATERIAL]"],
+          "secondaryOptions": ["GiantWorm"]
+        }, 
+        {
+          "groupID": "B",
           "pedigreeOptions": ["EvilWand", "Voodoll", "Golem", "StoneMan"],
           "secondaryOptions": ["LandOwl", "MadGoose", "Phoenix", "FunkyBird"]
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
         }
       ]
     }
+
   },
   {
     "name": "CurseLamp",
@@ -5493,60 +5344,17 @@
       "TwinHits"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "Material",
-      "secondaryFamily": "Bird",
-      "pedigreeOverrides": [
-        "Roboster"
-      ],
-      "secondaryOverrides": [
-        "WingTree"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
+          "groupID": "A",
+          "pedigreeOptions": ["Roboster"],
+          "secondaryOptions": ["[BIRD]"]
+        }, 
         {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Brushead",
-    "ML": 30,
-    "EP": 8,
-    "HP": 7,
-    "MP": 6,
-    "AT": 14,
-    "DF": 4,
-    "AG": 4,
-    "IN": 3,
-    "skills": [
-      "OddDance",
-      "SandStorm",
-      "LoveRain"
-    ],
-    "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["[MATERIAL]"],
+          "secondaryOptions": ["WingTree"]
         }
       ]
     }
@@ -5567,63 +5375,21 @@
       "RainSlash"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "Material",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "GulpBeast", "Grizzly", "Trumpeter", "KingLeo", "SkulRider"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["SabreMan"],
           "secondaryOptions": ["SlimeBorg", "GreatDrak", "Unicorn", "Ogre", "Grendal", "EvilArmor", "DeadNoble", "Skeletor"]
-        },
+        }, 
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["[MATERIAL]"],
+          "secondaryOptions": ["GulpBeast", "Grizzly", "Trumpeter", "KingLeo", "SkulRider"]
         }
       ]
     }
-  },
-  {
-    "name": "Roboster2",
-    "ML": 45,
-    "EP": 22,
-    "HP": 23,
-    "MP": 13,
-    "AT": 24,
-    "DF": 26,
-    "AG": 22,
-    "IN": 12,
-    "skills": [
-      "BoltSlash",
-      "MetalCut",
-      "GigaSlash"
-    ],
-    "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
+
   },
   {
     "name": "EvilPot",
@@ -5641,23 +5407,17 @@
       "Outside"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "Material",
-      "secondaryFamily": "Devil",
-      "pedigreeOverrides": [
-        "Gismo"
-      ],
-      "secondaryOverrides": [
-        "Snaily"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
+          "groupID": "A",
+          "pedigreeOptions": ["Gismo"],
+          "secondaryOptions": ["[DEVIL]"]
+        }, 
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["[MATERIAL]"],
+          "secondaryOptions": ["Snaily"]
         }
       ]
     }
@@ -5678,23 +5438,12 @@
       "SuckAir"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["MadCandle", "MadMirror", "Goopi"],
           "secondaryOptions": ["DrakSlime", "Wyvern", "MistyWing", "Phoenix", "FireWeed", "EvilSeed"]
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
         }
       ]
     }
@@ -5715,23 +5464,12 @@
       "Cover"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["MetalDrak"],
-          "secondaryOptions": ["Orochi", "KingLeo", "ZapBird", "ArcDemon", "Centasaur"]
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "secondaryOptions": ["Orochi", "KingLeo", "ZapBird", "ArcDemon", "Centasaur"] 
         }
       ]
     }
@@ -5753,22 +5491,16 @@
     ],
     "family": "Material",
     "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["MetalDrak"],
           "secondaryOptions": ["Skullgon", "WhiteKing"]
         },
         {
-          "pedigree": "Roboster",
-          "secondary": "KingLeo"
+          "groupID": "B",
+          "pedigreeOptions": ["Roboster"],
+          "secondaryOptions": ["KingLeo"]
         }
       ]
     }
@@ -5790,59 +5522,16 @@
     ],
     "family": "Material",
     "breeding": {
-      "pedigreeFamily": "Material",
-      "secondaryFamily": "Zombie",
-      "pedigreeOverrides": [
-        "Roboster"
-      ],
-      "secondaryOverrides": [
-        "BoxSlime"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["Roboster"],
+          "secondaryOptions": ["[ZOMBIE]"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Exaucers",
-    "ML": 45,
-    "EP": 11,
-    "HP": 20,
-    "MP": 13,
-    "AT": 15,
-    "DF": 6,
-    "AG": 7,
-    "IN": 4,
-    "skills": [
-      "TakeMagic",
-      "WindBeast",
-      "PaniDance"
-    ],
-    "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["[MATERIAL]"],
+          "secondaryOptions": ["BoxSlime"]
         }
       ]
     }
@@ -5864,25 +5553,14 @@
     ],
     "family": "Material",
     "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "Goopi",
-          "secondary": "Goopi"
+          "groupID": "A",
+          "pedigreeOptions": ["Goopi"],
+          "secondaryOptions": ["Goopi"]
         }
       ]
-    }
+    } 
   },
   {
     "name": "Golem",
@@ -5901,25 +5579,14 @@
     ],
     "family": "Material",
     "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "MudDoll",
-          "secondary": "MudDoll"
+          "groupID": "A",
+          "pedigreeOptions": ["MudDoll"],
+          "secondaryOptions": ["MudDoll"]
         }
       ]
-    }
+    } 
   },
   {
     "name": "StoneMan",
@@ -5938,25 +5605,19 @@
     ],
     "family": "Material",
     "breeding": {
-      "pedigreeFamily": "Material",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "HornBeet", "Digster"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["Golem"],
+          "secondaryOptions": ["Golem"]
         },
         {
-          "pedigree": "Golem",
-          "secondary": "Golem"
+          "groupID": "A",
+          "pedigreeOptions": ["[MATERIAL]"],
+          "secondaryOptions": ["HornBeet", "Digster"]
         }
       ]
-    }
+    } 
   },
   {
     "name": "BombCrag",
@@ -5974,26 +5635,20 @@
       "RockThrow"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "Bug",
-      "pedigreeOverrides": [
-        "Roboster"
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["SpikyBoy"],
+          "secondaryOptions": ["SpikyBoy"]
         },
         {
-          "pedigree": "SpikyBoy",
-          "secondary": "SpikyBoy"
+          "groupID": "A",
+          "pedigreeOptions": ["Roboster"],
+          "secondaryOptions": ["[BUG]"]
         }
       ]
-    }
+    } 
   },
   {
     "name": "GoldGolem",
@@ -6011,1322 +5666,16 @@
       "TatsuCall"
     ],
     "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "IceMan",
-          "secondary": "LavaMan"
+          "groupID": "A",
+          "pedigreeOptions": ["Iceman"],
+          "secondaryOptions": ["LavaMan"]
         }
       ]
-    }
-  },
-  {
-    "name": "DarkMate",
-    "ML": 70,
-    "EP": 24,
-    "HP": 24,
-    "MP": 21,
-    "AT": 12,
-    "DF": 25,
-    "AG": 21,
-    "IN": 10,
-    "skills": [
-      "Beat",
-      "HellBlast",
-      "EerieLite"
-    ],
-    "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "ProtoMech",
-    "ML": 40,
-    "EP": 5,
-    "HP": 3,
-    "MP": 2,
-    "AT": 6,
-    "DF": 3,
-    "AG": 4,
-    "IN": 6,
-    "skills": [
-      "SlimeBlow",
-      "ChargeUp",
-      "Ramming"
-    ],
-    "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "CloudKing",
-    "ML": 45,
-    "EP": 8,
-    "HP": 8,
-    "MP": 24,
-    "AT": 14,
-    "DF": 16,
-    "AG": 11,
-    "IN": 26,
-    "skills": [
-      "Infernos",
-      "Barrier",
-      "Surge"
-    ],
-    "family": "Material",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Petiteel",
-    "ML": 35,
-    "EP": 3,
-    "HP": 15,
-    "MP": 17,
-    "AT": 12,
-    "DF": 9,
-    "AG": 14,
-    "IN": 10,
-    "skills": [
-      "Speed",
-      "TwinHits",
-      "Ramming"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Moray",
-    "ML": 40,
-    "EP": 5,
-    "HP": 12,
-    "MP": 17,
-    "AT": 18,
-    "DF": 19,
-    "AG": 22,
-    "IN": 9,
-    "skills": [
-      "Sleep",
-      "PsycheUp",
-      "PoisonGas"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "WalrusMan",
-    "ML": 40,
-    "EP": 13,
-    "HP": 23,
-    "MP": 8,
-    "AT": 23,
-    "DF": 16,
-    "AG": 7,
-    "IN": 8,
-    "skills": [
-      "BugBlow",
-      "EvilSlash",
-      "Massacre"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "RayGigas",
-    "ML": 40,
-    "EP": 10,
-    "HP": 22,
-    "MP": 9,
-    "AT": 24,
-    "DF": 19,
-    "AG": 9,
-    "IN": 7,
-    "skills": [
-      "Firebal",
-      "MouthShut",
-      "AquaWall"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Anemon",
-    "ML": 40,
-    "EP": 4,
-    "HP": 9,
-    "MP": 14,
-    "AT": 10,
-    "DF": 13,
-    "AG": 5,
-    "IN": 7,
-    "skills": [
-      "Firebal",
-      "Paralyze",
-      "PoisonGas"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Aquarella",
-    "ML": 45,
-    "EP": 6,
-    "HP": 11,
-    "MP": 8,
-    "AT": 17,
-    "DF": 14,
-    "AG": 6,
-    "IN": 4,
-    "skills": [
-      "Barrier",
-      "SquallHit",
-      "Geyser"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Merman",
-    "ML": 35,
-    "EP": 9,
-    "HP": 16,
-    "MP": 17,
-    "AT": 14,
-    "DF": 18,
-    "AG": 20,
-    "IN": 19,
-    "skills": [
-      "Vivify",
-      "Sap",
-      "SleepAir"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Octokid",
-    "ML": 35,
-    "EP": 10,
-    "HP": 7,
-    "MP": 15,
-    "AT": 7,
-    "DF": 13,
-    "AG": 17,
-    "IN": 21,
-    "skills": [
-      "Heal",
-      "Mpass",
-      "CureDance"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "PutreFish",
-    "ML": 35,
-    "EP": 4,
-    "HP": 5,
-    "MP": 4,
-    "AT": 8,
-    "DF": 3,
-    "AG": 14,
-    "IN": 7,
-    "skills": [
-      "PanicAll",
-      "Watershot",
-      "Ramming"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Octoreach",
-    "ML": 40,
-    "EP": 14,
-    "HP": 23,
-    "MP": 21,
-    "AT": 24,
-    "DF": 20,
-    "AG": 8,
-    "IN": 14,
-    "skills": [
-      "OddDance",
-      "PaniDance",
-      "Geyser"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Angleron",
-    "ML": 45,
-    "EP": 12,
-    "HP": 17,
-    "MP": 16,
-    "AT": 23,
-    "DF": 20,
-    "AG": 9,
-    "IN": 19,
-    "skills": [
-      "Bolt",
-      "Surround",
-      "SleepAir"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "FishRider",
-    "ML": 50,
-    "EP": 13,
-    "HP": 18,
-    "MP": 19,
-    "AT": 16,
-    "DF": 22,
-    "AG": 13,
-    "IN": 7,
-    "skills": [
-      "BoltSlash",
-      "RainSlash",
-      "Dodge"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "RushFish",
-    "ML": 40,
-    "EP": 8,
-    "HP": 9,
-    "MP": 6,
-    "AT": 12,
-    "DF": 7,
-    "AG": 18,
-    "IN": 6,
-    "skills": [
-      "Upper",
-      "Kamikaze",
-      "SandStorm"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Gamanian",
-    "ML": 40,
-    "EP": 14,
-    "HP": 11,
-    "MP": 10,
-    "AT": 21,
-    "DF": 17,
-    "AG": 22,
-    "IN": 15,
-    "skills": [
-      "Firebal",
-      "NapAttack",
-      "LushLicks"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Clawster",
-    "ML": 45,
-    "EP": 11,
-    "HP": 12,
-    "MP": 20,
-    "AT": 24,
-    "DF": 18,
-    "AG": 20,
-    "IN": 14,
-    "skills": [
-      "DrakSlash",
-      "MetalCut",
-      "BiAttack"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "CancerMan",
-    "ML": 45,
-    "EP": 15,
-    "HP": 23,
-    "MP": 13,
-    "AT": 24,
-    "DF": 21,
-    "AG": 14,
-    "IN": 9,
-    "skills": [
-      "BoltSlash",
-      "BeastCut",
-      "RainSlash"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "RogueWave",
-    "ML": 40,
-    "EP": 9,
-    "HP": 11,
-    "MP": 7,
-    "AT": 18,
-    "DF": 9,
-    "AG": 24,
-    "IN": 19,
-    "skills": [
-      "Watershot",
-      "PoisonGas",
-      "AquaWall"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Scallopa",
-    "ML": 35,
-    "EP": 10,
-    "HP": 17,
-    "MP": 19,
-    "AT": 9,
-    "DF": 23,
-    "AG": 7,
-    "IN": 19,
-    "skills": [
-      "Upper",
-      "MagicWall",
-      "Radiant"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "SeaHorse",
-    "ML": 40,
-    "EP": 12,
-    "HP": 21,
-    "MP": 9,
-    "AT": 17,
-    "DF": 14,
-    "AG": 15,
-    "IN": 8,
-    "skills": [
-      "FrigidAir",
-      "Geyser",
-      "BladeD"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "HoodSquid",
-    "ML": 45,
-    "EP": 17,
-    "HP": 11,
-    "MP": 21,
-    "AT": 16,
-    "DF": 10,
-    "AG": 14,
-    "IN": 19,
-    "skills": [
-      "CallHelp",
-      "BiAttack",
-      "CureDance"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "MerTiger",
-    "ML": 50,
-    "EP": 16,
-    "HP": 23,
-    "MP": 5,
-    "AT": 26,
-    "DF": 24,
-    "AG": 10,
-    "IN": 13,
-    "skills": [
-      "Icebolt",
-      "Sleep",
-      "WarCry"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "AxeShark",
-    "ML": 50,
-    "EP": 25,
-    "HP": 25,
-    "MP": 20,
-    "AT": 28,
-    "DF": 21,
-    "AG": 14,
-    "IN": 13,
-    "skills": [
-      "Sap",
-      "RainSlash",
-      "Cover"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Octogon",
-    "ML": 45,
-    "EP": 19,
-    "HP": 24,
-    "MP": 9,
-    "AT": 25,
-    "DF": 18,
-    "AG": 9,
-    "IN": 20,
-    "skills": [
-      "Mpass",
-      "BiAttack",
-      "Hustle"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "KingSquid",
-    "ML": 55,
-    "EP": 24,
-    "HP": 25,
-    "MP": 14,
-    "AT": 26,
-    "DF": 23,
-    "AG": 12,
-    "IN": 21,
-    "skills": [
-      "Vivify",
-      "RainSlash",
-      "PsycheUp"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Digong",
-    "ML": 55,
-    "EP": 21,
-    "HP": 18,
-    "MP": 23,
-    "AT": 25,
-    "DF": 11,
-    "AG": 10,
-    "IN": 10,
-    "skills": [
-      "FireAir",
-      "Ramming",
-      "PoisonGas"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "WhaleMage",
-    "ML": 45,
-    "EP": 30,
-    "HP": 29,
-    "MP": 21,
-    "AT": 23,
-    "DF": 18,
-    "AG": 3,
-    "IN": 10,
-    "skills": [
-      "Antidote",
-      "Watershot",
-      "Geyser"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Aquadon",
-    "ML": 50,
-    "EP": 24,
-    "HP": 24,
-    "MP": 20,
-    "AT": 26,
-    "DF": 10,
-    "AG": 17,
-    "IN": 9,
-    "skills": [
-      "RobMagic",
-      "WindBeast",
-      "Beserker"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Octoraid",
-    "ML": 50,
-    "EP": 26,
-    "HP": 18,
-    "MP": 9,
-    "AT": 27,
-    "DF": 21,
-    "AG": 21,
-    "IN": 13,
-    "skills": [
-      "DrakSlash",
-      "SquallHit",
-      "GigaSlash"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Grakos",
-    "ML": 55,
-    "EP": 21,
-    "HP": 23,
-    "MP": 18,
-    "AT": 25,
-    "DF": 18,
-    "AG": 16,
-    "IN": 10,
-    "skills": [
-      "TwinHits",
-      "HighJump",
-      "SandStorm"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Poseidon",
-    "ML": 65,
-    "EP": 30,
-    "HP": 28,
-    "MP": 22,
-    "AT": 23,
-    "DF": 24,
-    "AG": 13,
-    "IN": 9,
-    "skills": [
-      "Bolt",
-      "Focus",
-      "Dodge"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Pumpoise",
-    "ML": 35,
-    "EP": 12,
-    "HP": 17,
-    "MP": 8,
-    "AT": 13,
-    "DF": 22,
-    "AG": 7,
-    "IN": 8,
-    "skills": [
-      "CallHelp",
-      "SuckAir",
-      "Dodge"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Starfish",
-    "ML": 30,
-    "EP": 5,
-    "HP": 7,
-    "MP": 19,
-    "AT": 5,
-    "DF": 9,
-    "AG": 9,
-    "IN": 15,
-    "skills": [
-      "Upper",
-      "PoisonHit",
-      "OddDance"
-    ],
-    "family": "Water",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
+    } 
+  }, // Boss Family
   {
     "name": "DracoLord",
     "ML": 50,
@@ -7343,26 +5692,15 @@
       "Meditate"
     ],
     "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["Servant"],
           "secondaryOptions": ["Andreal", "GreatDrak"]
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
         }
       ]
-    }
+    } 
   },
   {
     "name": "DracoLord2",
