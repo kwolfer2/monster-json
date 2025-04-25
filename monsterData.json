@@ -3638,26 +3638,16 @@
       "SealPray"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "Devil",
-      "secondaryFamily": "Slime",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DEVIL]"],
+          "secondaryOptions": ["[SLIME]"]
         }
       ]
     }
+
   },
   {
     "name": "MedusaEye",
@@ -3675,26 +3665,21 @@
       "Shears"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "Devil",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["[DEVIL]"],
+          "secondaryOptions": ["[DRAGON]"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["MedusaEye", "1EyeClown", "Gremlin"],
+          "secondaryOptions": ["[ZOMBIE]"]
         }
       ]
     }
+
   },
   {
     "name": "AgDevil",
@@ -3712,26 +3697,16 @@
       "SleepAir"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        "SkulRider", "EvilBeast", "Gremlin", "MedusaEye"
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["SkulRider", "EvilBeast", "Gremlin", "MedusaEye"],
+          "secondaryOptions": ["[DRAGON]"]
         }
       ]
     }
+
   },
   {
     "name": "Demonite",
@@ -3749,26 +3724,16 @@
       "FrigidAir"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "Devil",
-      "secondaryFamily": "Bird",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DEVIL]"],
+          "secondaryOptions": ["[BIRD]"]
         }
       ]
     }
+
   },
   {
     "name": "DarkEye",
@@ -3786,26 +3751,16 @@
       "Radiant"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "Devil",
-      "secondaryFamily": "Plant",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DEVIL]"],
+          "secondaryOptions": ["[PLANT]"]
         }
       ]
     }
+
   },
   {
     "name": "EyeBall",
@@ -3823,26 +3778,16 @@
       "Outside"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "Devil",
-      "secondaryFamily": "Bug",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DEVIL]"],
+          "secondaryOptions": ["[BUG]"]
         }
       ]
     }
+
   },
   {
     "name": "SkulRider",
@@ -3860,26 +3805,16 @@
       "LegSweep"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "Devil",
-      "secondaryFamily": "Zombie",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DEVIL]"],
+          "secondaryOptions": ["[ZOMBIE]"]
         }
       ]
     }
+
   },
   {
     "name": "EvilBeast",
@@ -3897,63 +3832,16 @@
       "FrigidAir"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "Devil",
-      "secondaryFamily": "Material",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DEVIL]"],
+          "secondaryOptions": ["[MATERIAL]"]
         }
       ]
     }
-  },
-  {
-    "name": "Bubblemon",
-    "ML": 45,
-    "EP": 12,
-    "HP": 14,
-    "MP": 13,
-    "AT": 15,
-    "DF": 7,
-    "AG": 7,
-    "IN": 4,
-    "skills": [
-      "Watershot",
-      "IceSlash",
-      "BladeD"
-    ],
-    "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
+
   },
   {
     "name": "1EyeClown",
@@ -3971,26 +3859,16 @@
       "Icebolt"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "Slime",
-      "pedigreeOverrides": [
-        "Pixy", "Demonite", "EyeBall"
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["Pixy", "Demonite", "EyeBall"],
+          "secondaryOptions": ["[SLIME]"]
         }
       ]
     }
+
   },
   {
     "name": "Gremlin",
@@ -4008,26 +3886,16 @@
       "StopSpell"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "Devil",
-      "secondaryFamily": "Beast",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DEVIL]"],
+          "secondaryOptions": ["[BEAST]"]
         }
       ]
     }
+
   },
   {
     "name": "ArcDemon",
@@ -4045,23 +3913,27 @@
       "BoltSlash"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "Devil",
-      "secondaryFamily": "Boss",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["AgDevil", "Grendal", "Gigantes"],
           "secondaryOptions": ["SpotKing", "KingSlime", "MetalKing", "Andreal", "GreatDrak", "Orochi", "Trumpeter", "KingLeo", "ZapBird", "WhipBird", "MetalDrak", "StoneMan"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["GateGuard"],
+          "secondaryOptions": ["[ZOMBIE]"]
+        }
+        ,{
+          "groupID": "C",
+          "pedigreeOptions": ["Ogre"],
+          "secondaryOptions": ["[DRAGON]"]
+        },
+        {
+          "groupID": "D",
+          "pedigreeOptions": ["[DEVIL]"],
+          "secondaryOptions": ["[BOSS]"]
         }
       ]
     }
@@ -4082,23 +3954,17 @@
       "VacuSlash"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "Devil",
-      "secondaryFamily": "Zombie",
-      "pedigreeOverrides": [
-        "ArcDemon"
-      ],
-      "secondaryOverrides": [
-        "LizardMan"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["[DEVIL]"],
+          "secondaryOptions": ["LizardMan"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["ArcDemon"],
+          "secondaryOptions": ["[ZOMBIE]"]
         }
       ]
     }
@@ -4119,23 +3985,17 @@
       "Icebolt"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "Devil",
-      "secondaryFamily": "Beast",
-      "pedigreeOverrides": [
-        "ArcDemon"
-      ],
-      "secondaryOverrides": [
-        "DarkHorn"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["ArcDemon"],
+          "secondaryOptions": ["[BEAST]"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["[DEVIL]"],
+          "secondaryOptions": ["DarkHorn"]
         }
       ]
     }
@@ -4156,23 +4016,12 @@
       "BirdBlow"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "Devil",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "BeanMan"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DEVIL]"],
+          "secondaryOptions": ["BeanMan"]
         }
       ]
     }
@@ -4193,23 +4042,22 @@
       "Massacre"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "Devil",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        "GateGuard"
-      ],
-      "secondaryOverrides": [
-        "HammerMan"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": ["AgDevil", "Grendal", "Gigantes"],
-          "secondaryOptions": ["GulpBeast", "Unicorn", "Digster", " Roboster"]
+          "groupID": "A",
+          "pedigreeOptions": ["[DEVIL]"],
+          "secondaryOptions": ["HammerMan"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["GateGuard"],
+          "secondaryOptions": ["[DRAGON]"]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": ["AgDevil", "Grendal", "Gigantes"],
+          "secondaryOptions": ["GulpBeast", "Unicorn", "Digster", " Roboster"]
         }
       ]
     }
@@ -4230,23 +4078,22 @@
       "ThickFog"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "Zombie",
-      "pedigreeOverrides": [
-        "Ogre"
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": ["AgDevil", "Grendal", "Gigantes"],
-          "secondaryOptions": ["SlimeBorg", "Swordgon", "Coatol", "MistyWing", "MadCondor", "Rosevine", "GiantMoth", "Skullgon", "DeadNoble", "WhiteKing"]
+          "groupID": "A",
+          "pedigreeOptions": ["Demonite"],
+          "secondaryOptions": ["Demonite"]
         },
         {
-          "pedigree": "Demonite",
-          "secondary": "Demonite"
+          "groupID": "B",
+          "pedigreeOptions": ["Ogre"],
+          "secondaryOptions": ["[ZOMBIE]"]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": ["AgDevil", "Grendal", "Gigantes"],
+          "secondaryOptions": ["SlimeBorg", "Swordgon", "Coatol", "MistyWing", "MadCondor", "Rosevine", "GiantMoth", "Skullgon", "DeadNoble", "WhiteKing"]
         }
       ]
     }
@@ -4267,63 +4114,16 @@
       "SquallHit"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "1EyeClown",
-          "secondary": "1EyeClown"
+          "groupID": "A",
+          "pedigreeOptions": ["1EyeClown"],
+          "secondaryOptions": ["1EyeClown"]
         }
       ]
     }
-  },
-  {
-    "name": "BossTroll",
-    "ML": 50,
-    "EP": 24,
-    "HP": 24,
-    "MP": 3,
-    "AT": 25,
-    "DF": 22,
-    "AG": 4,
-    "IN": 1,
-    "skills": [
-      "Massacre",
-      "Ramming",
-      "Cover"
-    ],
-    "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
+
   },
   {
     "name": "Grendal",
@@ -4339,28 +4139,24 @@
       "FireSlash",
       "DrakSlash",
       "Cover"
-    ],
+    ], // "SkulRider", "EvilBeast", "Gremlin", "MedusaEye"
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "Devil",
-      "secondaryFamily": "Beast",
-      "pedigreeOverrides": [
-        "SkulRider", "EvilBeast", "Gremlin", "MedusaEye"
-      ],
-      "secondaryOverrides": [
-        "MadDragon"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["SkulRider", "EvilBeast", "Gremlin", "MedusaEye"],
+          "secondaryOptions": ["[BEAST]"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["[DEVIL]"],
+          "secondaryOptions": ["MadDragon"]
         }
+        
       ]
     }
+
   },
   {
     "name": "Akubar",
@@ -4378,24 +4174,19 @@
       "Focus"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["ArcDemon"],
           "secondaryOptions": ["GateGuard"]
         },
         {
-          "pedigree": "Grendal",
-          "secondary": "Grendal"
+          "groupID": "B",
+          "pedigreeOptions": ["Grendal"],
+          "secondaryOptions": ["Grendal"]
         }
+        
       ]
     }
   },
@@ -4415,63 +4206,16 @@
       "Massacre"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "Devil",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "RogueNite"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[DEVIL]"],
+          "secondaryOptions": ["RogueNite"]
         }
       ]
     }
-  },
-  {
-    "name": "EvilWell",
-    "ML": 50,
-    "EP": 15,
-    "HP": 23,
-    "MP": 14,
-    "AT": 10,
-    "DF": 15,
-    "AG": 6,
-    "IN": 8,
-    "skills": [
-      "Blaze",
-      "ChargeUp",
-      "WarCry"
-    ],
-    "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
+
   },
   {
     "name": "Gigantes",
@@ -4489,26 +4233,21 @@
       "EvilSlash"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "Devil",
-      "secondaryFamily": "Zombie",
-      "pedigreeOverrides": [
-        "SkulRider", "EvilBeast"
-      ],
-      "secondaryOverrides": [
-        "BigEye"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
+          "groupID": "A",
+          "pedigreeOptions": ["[DEVIL]"],
+          "secondaryOptions": ["BigEye"]
+        }, 
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["SkulRider", "EvilBeast"],
+          "secondaryOptions": ["[ZOMBIE]"]
         }
       ]
     }
+
   },
   {
     "name": "Centasaur",
@@ -4526,23 +4265,17 @@
       "RainSlash"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "Beast",
-      "pedigreeOverrides": [
-        "Ogre", "GateGuard"
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
+          "groupID": "A",
+          "pedigreeOptions": ["ArcDemon"],
+          "secondaryOptions": ["[DRAGON]"]
+        }, 
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["Ogre", "GateGuard"],
+          "secondaryOptions": ["[BEAST]"]
         }
       ]
     }
@@ -4563,23 +4296,17 @@
       "AquaCut"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "Devil",
-      "secondaryFamily": "Material",
-      "pedigreeOverrides": [
-        "ArcDemon", "Ogre", "GateGuard"
-      ],
-      "secondaryOverrides": [
-        "ArmorPede"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
+          "groupID": "A",
+          "pedigreeOptions": ["ArcDemon", "Ogre", "GateGuard"],
+          "secondaryOptions": ["[MATERIAL]"]
+        }, 
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["[DEVIL]"],
+          "secondaryOptions": ["ArmorPede"]
         }
       ]
     }
@@ -4600,23 +4327,17 @@
       "TailWind"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": ["Akubar", "RainHawk"],
-          "secondaryOptions": ["Akubar", "RainHawk"]
-        },
+          "groupID": "A",
+          "pedigreeOptions": ["Akubar"],
+          "secondaryOptions": ["RainHawk"]
+        }, 
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["RainHawk"],
+          "secondaryOptions": ["Akubar"]
         }
       ]
     }
@@ -4637,101 +4358,22 @@
       "BirdBlow"
     ],
     "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": ["Centasaur", "GoldGolem"],
-          "secondaryOptions": ["Centasaur", "GoldGolem"]
-        },
+          "groupID": "A",
+          "pedigreeOptions": ["CentaSaur"],
+          "secondaryOptions": ["GoldGolem"]
+        }, 
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["RainHawk"],
+          "secondaryOptions": ["Akubar"]
         }
       ]
     }
-  },
-  {
-    "name": "Titanis",
-    "ML": 75,
-    "EP": 27,
-    "HP": 25,
-    "MP": 24,
-    "AT": 25,
-    "DF": 22,
-    "AG": 23,
-    "IN": 13,
-    "skills": [
-      "Bang",
-      "Beserker",
-      "UltraDown"
-    ],
-    "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "LampGenie",
-    "ML": 60,
-    "EP": 21,
-    "HP": 10,
-    "MP": 12,
-    "AT": 11,
-    "DF": 22,
-    "AG": 15,
-    "IN": 10,
-    "skills": [
-      "Heal",
-      "Sleep",
-      "TailWind"
-    ],
-    "family": "Devil",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
+
+  }, // Zombie Family
   {
     "name": "Spooky",
     "ML": 40,
