@@ -5718,63 +5718,15 @@
       "Surge"
     ],
     "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "DracoLord",
-          "secondary": "Divinegon"
+          "groupID": "A",
+          "pedigreeOptions": ["DracoLord"],
+          "secondaryOptions": ["Divinegon"]
         }
       ]
-    }
-  },
-  {
-    "name": "LordDraco",
-    "ML": 80,
-    "EP": 27,
-    "HP": 22,
-    "MP": 31,
-    "AT": 24,
-    "DF": 22,
-    "AG": 24,
-    "IN": 22,
-    "skills": [
-      "Bolt",
-      "HellBlast",
-      "Focus"
-    ],
-    "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
+    } 
   },
   {
     "name": "Hargon",
@@ -5792,26 +5744,15 @@
       "TatsuCall"
     ],
     "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "WhiteKing",
-          "secondary": "MetalKing"
+          "groupID": "A",
+          "pedigreeOptions": ["WhiteKing"],
+          "secondaryOptions": ["MetalKing"]
         }
       ]
-    }
+    } 
   },
   {
     "name": "Sidoh",
@@ -5829,63 +5770,15 @@
       "FrigidAir"
     ],
     "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "Jamirus",
-          "secondary": "Rosevine"
+          "groupID": "A",
+          "pedigreeOptions": ["Jamirus"],
+          "secondaryOptions": ["Rosevine"]
         }
       ]
-    }
-  },
-  {
-    "name": "Genosidoh",
-    "ML": 80,
-    "EP": 30,
-    "HP": 25,
-    "MP": 31,
-    "AT": 25,
-    "DF": 17,
-    "AG": 18,
-    "IN": 22,
-    "skills": [
-      "Barrier",
-      "WindBeast",
-      "MultiCut"
-    ],
-    "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
+    } 
   },
   {
     "name": "Baramos",
@@ -5903,26 +5796,15 @@
       "RockThrow"
     ],
     "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "Hargon",
-          "secondary": "Orochi"
+          "groupID": "A",
+          "pedigreeOptions": ["Hargon"],
+          "secondaryOptions": ["Orochi"]
         }
       ]
-    }
+    } 
   },
   {
     "name": "Zoma",
@@ -5941,62 +5823,14 @@
     ],
     "family": "Boss",
     "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": ["DracoLord", "DracoLord2"],
+          "groupID": "A",
+          "pedigreeOptions": ["DracoLord"],
           "secondaryOptions": ["Sidoh"]
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
         }
       ]
-    }
-  },
-  {
-    "name": "AsuraZoma",
-    "ML": 80,
-    "EP": 29,
-    "HP": 26,
-    "MP": 30,
-    "AT": 29,
-    "DF": 22,
-    "AG": 23,
-    "IN": 12,
-    "skills": [
-      "FireAir",
-      "GigaSlash",
-      "Focus"
-    ],
-    "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
+    } 
   },
   {
     "name": "Pizzaro",
@@ -6014,63 +5848,15 @@
       "BiAttack"
     ],
     "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "Durran",
-          "secondary": "Divinegon"
+          "groupID": "A",
+          "pedigreeOptions": ["Durran"],
+          "secondaryOptions": ["Divinegon"]
         }
       ]
-    }
-  },
-  {
-    "name": "PsychoPiz",
-    "ML": 80,
-    "EP": 29,
-    "HP": 30,
-    "MP": 30,
-    "AT": 27,
-    "DF": 18,
-    "AG": 24,
-    "IN": 21,
-    "skills": [
-      "BigBang",
-      "FrigidAir",
-      "DeMagic"
-    ],
-    "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
+    } 
   },
   {
     "name": "Esterk",
@@ -6088,26 +5874,15 @@
       "GigaSlash"
     ],
     "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "Pizzaro",
-          "secondary": "KingLeo"
+          "groupID": "A",
+          "pedigreeOptions": ["Pizzaro"],
+          "secondaryOptions": ["KingLeo"]
         }
       ]
-    }
+    } 
   },
   {
     "name": "Mirudraas",
@@ -6125,26 +5900,15 @@
       "Bolt"
     ],
     "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "Esterk",
-          "secondary": "GoldSlime"
+          "groupID": "A",
+          "pedigreeOptions": ["Esterk"],
+          "secondaryOptions": ["GoldSlime"]
         }
       ]
-    }
+    } 
   },
   {
     "name": "Mirudraas2",
@@ -6162,26 +5926,15 @@
       "SuckAir"
     ],
     "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "Mirudraas",
-          "secondary": "Spikerous"
+          "groupID": "A",
+          "pedigreeOptions": ["Mirudraas"],
+          "secondaryOptions": ["Spikerous"]
         }
       ]
-    }
+    } 
   },
   {
     "name": "Mudou",
@@ -6199,26 +5952,15 @@
       "PoisonGas"
     ],
     "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "Baramos",
-          "secondary": "DarkHorn"
+          "groupID": "A",
+          "pedigreeOptions": ["Baramos"],
+          "secondaryOptions": ["DarkHorn"]
         }
       ]
-    }
+    } 
   },
   {
     "name": "DeathMore",
@@ -6236,26 +5978,15 @@
       "TatsuCall"
     ],
     "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "Zoma",
-          "secondary": "Mirudraas"
+          "groupID": "A",
+          "pedigreeOptions": ["Zoma"],
+          "secondaryOptions": ["Mirudraas"]
         }
       ]
-    }
+    } 
   },
   {
     "name": "DeathMore2",
@@ -6273,26 +6004,15 @@
       "UltraDown"
     ],
     "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "DeathMore",
-          "secondary": "Armorpion"
+          "groupID": "A",
+          "pedigreeOptions": ["Deathmore"],
+          "secondaryOptions": ["Armorpion"]
         }
       ]
-    }
+    } 
   },
   {
     "name": "DeathMore3",
@@ -6310,26 +6030,15 @@
       "Focus"
     ],
     "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "DeathMore",
-          "secondary": "Mudou"
+          "groupID": "A",
+          "pedigreeOptions": ["Deathmore"],
+          "secondaryOptions": ["Mudou"]
         }
       ]
-    }
+    } 
   },
   {
     "name": "Darkdrium",
@@ -6348,135 +6057,13 @@
     ],
     "family": "Boss",
     "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "DeathMore",
-          "secondary": "Watabou"
+          "groupID": "A",
+          "pedigreeOptions": ["Deathmore"],
+          "secondaryOptions": ["Watabou"]
         }
       ]
-    }
-  },
-  {
-    "name": "Orgodemir",
-    "ML": 65,
-    "EP": 30,
-    "HP": 24,
-    "MP": 25,
-    "AT": 26,
-    "DF": 23,
-    "AG": 22,
-    "IN": 31,
-    "skills": [
-      "Bang",
-      "EvilSlash",
-      "Focus"
-    ],
-    "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Orgodemir2",
-    "ML": 70,
-    "EP": 31,
-    "HP": 27,
-    "MP": 31,
-    "AT": 30,
-    "DF": 23,
-    "AG": 24,
-    "IN": 31,
-    "skills": [
-      "MegaMagic",
-      "DeMagic",
-      "LifeSong"
-    ],
-    "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Darck",
-    "ML": 60,
-    "EP": 26,
-    "HP": 23,
-    "MP": 25,
-    "AT": 18,
-    "DF": 23,
-    "AG": 14,
-    "IN": 17,
-    "skills": [
-      "Firebal",
-      "Bang",
-      "ChargeUp"
-    ],
-    "family": "Boss",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
+    } 
   }
 ]
