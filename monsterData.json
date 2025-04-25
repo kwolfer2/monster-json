@@ -4390,23 +4390,12 @@
       "Outside"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "Zombie",
-      "secondaryFamily": "Slime",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[ZOMBIE]"],
+          "secondaryOptions": ["[SLIME]"]
         }
       ]
     }
@@ -4427,24 +4416,23 @@
       "TwinSlash"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "Zombie",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        "Skullgon", "DeadNoble", "WhiteKing", "BoneSlave", "Skeletor"
-      ],
-      "secondaryOverrides": [
-        "Swordgon", "Rayburn", "Andreal", "GreatDrak", "Orochi", "BattleRex", "Divinegon"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["Skullgon", "DeadNoble", "WhiteKing", "BoneSlave", "Skeletor"],
+          "secondaryOptions": ["[DRAGON]"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
-        }
+          "groupID": "B",
+          "pedigreeOptions": ["[ZOMBIE]"],
+          "secondaryOptions": ["Swordgon", "Rayburn", "Andreal", "GreatDrak", "Orochi", "BattleRex", "Divinegon"]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": ["[DRAGON]"],
+          "secondaryOptions": ["Skullgon", "DeadNoble", "WhiteKing", "Servant"]
+        } 
       ]
     }
   },
@@ -4464,23 +4452,12 @@
       "MagicBack"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "Zombie",
-      "secondaryFamily": "Beast",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[ZOMBIE]"],
+          "secondaryOptions": ["[BEAST]"]
         }
       ]
     }
@@ -4501,23 +4478,12 @@
       "Kamikaze"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "Zombie",
-      "secondaryFamily": "Bird",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[ZOMBIE]"],
+          "secondaryOptions": ["[BIRD]"]
         }
       ]
     }
@@ -4538,23 +4504,12 @@
       "EvilSlash"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "Zombie",
-      "secondaryFamily": "Plant",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[ZOMBIE]"],
+          "secondaryOptions": ["[PLANT]"]
         }
       ]
     }
@@ -4575,23 +4530,12 @@
       "StepGuard"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "Zombie",
-      "secondaryFamily": "Bug",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[ZOMBIE]"],
+          "secondaryOptions": ["[BUG]"]
         }
       ]
     }
@@ -4612,23 +4556,12 @@
       "CurseOff"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "Zombie",
-      "secondaryFamily": "Devil",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[ZOMBIE]"],
+          "secondaryOptions": ["[DEVIL]"]
         }
       ]
     }
@@ -4649,60 +4582,12 @@
       "ThickFog"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "Zombie",
-      "secondaryFamily": "Material",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Skulpent",
-    "ML": 45,
-    "EP": 9,
-    "HP": 17,
-    "MP": 19,
-    "AT": 23,
-    "DF": 9,
-    "AG": 12,
-    "IN": 10,
-    "skills": [
-      "Beat",
-      "PoisonHit",
-      "Dodge"
-    ],
-    "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[ZOMBIE]"],
+          "secondaryOptions": ["[MATERIAL]"]
         }
       ]
     }
@@ -4723,23 +4608,12 @@
       "LushLicks"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "Beast",
-      "pedigreeOverrides": [
-        "Spooky"
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["Spooky"],
+          "secondaryOptions": ["[BEAST]"]
         }
       ]
     }
@@ -4760,23 +4634,12 @@
       "Vivify"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "Zombie",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "BoxSlime", "FangSlime", "Tonguella", "Yeti", "FunkyBird", "MadPlant", "DanceVegi", "GiantSlug", "Lipsy", "Droll"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[ZOMBIE]"],
+          "secondaryOptions": ["BoxSlime", "FangSlime", "Tonguella", "Yeti", "FunkyBird", "MadPlant", "DanceVegi", "GiantSlug", "Lipsy", "Droll"]
         }
       ]
     }
@@ -4797,23 +4660,17 @@
       "Informer"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "Zombie",
-      "secondaryFamily": "Devil",
-      "pedigreeOverrides": [
-        "DarkCrab", "MadSpirit"
-      ],
-      "secondaryOverrides": [
-        "MistyWing"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["DarkCrab", "MadSpirit"],
+          "secondaryOptions": ["[DEVIL]"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["[ZOMBIE]"],
+          "secondaryOptions": ["MistyWing"]
         }
       ]
     }
@@ -4834,23 +4691,17 @@
       "BirdBlow"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "Zombie",
-      "secondaryFamily": "Bird",
-      "pedigreeOverrides": [
-        "RotRaven"
-      ],
-      "secondaryOverrides": [
-        "WindBeast"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["[ZOMBIE]"],
+          "secondaryOptions": ["WindBeast"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["RotRaven"],
+          "secondaryOptions": ["[BIRD]"]
         }
       ]
     }
@@ -4871,134 +4722,17 @@
       "EerieLite"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "Zombie",
-      "secondaryFamily": "Devil",
-      "pedigreeOverrides": [
-        "Spooky", "Hork"
-      ],
-      "secondaryOverrides": [
-        "WeedBug"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["[ZOMBIE]"],
+          "secondaryOptions": ["WeedBug"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Inverzon",
-    "ML": 35,
-    "EP": 4,
-    "HP": 7,
-    "MP": 2,
-    "AT": 14,
-    "DF": 7,
-    "AG": 4,
-    "IN": 1,
-    "skills": [
-      "Surround",
-      "PoisonGas",
-      "SideStep"
-    ],
-    "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "FoxFire",
-    "ML": 40,
-    "EP": 7,
-    "HP": 9,
-    "MP": 15,
-    "AT": 6,
-    "DF": 8,
-    "AG": 13,
-    "IN": 4,
-    "skills": [
-      "Blaze",
-      "Firebal",
-      "Outside"
-    ],
-    "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "CaptDead",
-    "ML": 40,
-    "EP": 13,
-    "HP": 9,
-    "MP": 20,
-    "AT": 17,
-    "DF": 16,
-    "AG": 8,
-    "IN": 5,
-    "skills": [
-      "CallHelp",
-      "AquaCut",
-      "SquallHit"
-    ],
-    "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["Spooky", "Hork"],
+          "secondaryOptions": ["[DEVIL]"]
         }
       ]
     }
@@ -5019,23 +4753,22 @@
       "TatsuCall"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": ["Mudron", "MadSpirit", "BoneSlave", "Skeletor", "Skullgon", "DeadNite"],
-          "secondaryOptions": ["ArcDemon", "Lionex", "GateGuard", "MetalDrak", "Roboster", "CopyCat"]
+          "groupID": "A",
+          "pedigreeOptions": ["Mudron", "MadSpirit", "BoneSlave", "Skeletor"],
+          "secondaryOptions": ["ArcDemon", "Lionex", "GateGuard", "MetalDrak", "Roboster"]
         },
         {
-          "pedigree": "DeadNite",
-          "secondary": "DeadNite"
+          "groupID": "B",
+          "pedigreeOptions": ["Skullgon", "DeadNite", "Mudron", "BoneSlave", "Skeletor"],
+          "secondaryOptions": ["CopyCat"]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": ["DeadNite"],
+          "secondaryOptions": ["DeadNite"]
         }
       ]
     }
@@ -5056,23 +4789,17 @@
       "Chance"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "Zombie",
-      "secondaryFamily": "Boss",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["Skullgon", "DeadNoble", "BoneSlave", "Skeletor"],
           "secondaryOptions": ["SpotKing", "KingSlime", "MetalKing", "Andreal", "GreatDrak", "KingLeo", "Blizzardy", "ZapBird", "WhipBird", "GoldGolem"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["[ZOMBIE]"],
+          "secondaryOptions": ["[BOSS]"]
         }
       ]
     }
@@ -5093,23 +4820,17 @@
       "BiAttack"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["Mummy", "DeadNite", "Hork"],
           "secondaryOptions": ["RockSlime", "SlimeBorg", "LandOwl", "MadGoose", "FloraMan", "HornBeet", "Gremlin"]
         },
         {
-          "pedigree": "Hork",
-          "secondary": "Hork"
+          "groupID": "B",
+          "pedigreeOptions": ["Hork"],
+          "secondaryOptions": ["Hork"]
         }
       ]
     }
@@ -5130,23 +4851,22 @@
       "BiAttack"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        "MadSpirit"
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["Mummy", "DeadNite", "Hork", "Mudron"],
           "secondaryOptions": ["GulpBeast", "Grizzly", "MadCat", "MadRaven", "MadCondor", "EvilBeast", "Ogre", "Golem", "StoneMan"]
         },
         {
-          "pedigree": "BoneSlave",
-          "secondary": "BoneSlave"
+          "groupID": "B",
+          "pedigreeOptions": ["BoneSlave"],
+          "secondaryOptions": ["BoneSlave"]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": ["MadSpirit"],
+          "secondaryOptions": ["[DRAGON]"]
         }
       ]
     }
@@ -5167,60 +4887,17 @@
       "Focus"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "Devil",
-      "pedigreeOverrides": [
-        "WhiteKing"
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["Skeletor"],
+          "secondaryOptions": ["Skeletor"]
         },
         {
-          "pedigree": "Skeletor",
-          "secondary": "Skeletor"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Lazamanus",
-    "ML": 75,
-    "EP": 26,
-    "HP": 24,
-    "MP": 20,
-    "AT": 30,
-    "DF": 20,
-    "AG": 12,
-    "IN": 14,
-    "skills": [
-      "TakeMagic",
-      "K.O.Dance",
-      "LifeDance"
-    ],
-    "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["WhiteKing"],
+          "secondaryOptions": ["[DEVIL]"]
         }
       ]
     }
@@ -5242,22 +4919,11 @@
     ],
     "family": "Zombie",
     "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[NONE]"],
+          "secondaryOptions": ["[NONE]"]
         }
       ]
     }
@@ -5278,101 +4944,21 @@
       "ThickFog"
     ],
     "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "Zombie",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["[ZOMBIE]"],
+          "secondaryOptions": ["[DRAGON]"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["Skullgon", "DeadNite", "Mudron", "DeadNoble", "BoneSlave", "Skeletor"],
+          "secondaryOptions": ["[BIRD]"]
         }
       ]
     }
-  },
-  {
-    "name": "PomPomBom",
-    "ML": 40,
-    "EP": 8,
-    "HP": 5,
-    "MP": 21,
-    "AT": 13,
-    "DF": 11,
-    "AG": 14,
-    "IN": 21,
-    "skills": [
-      "Beat",
-      "ThickFog",
-      "LifeDance"
-    ],
-    "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Niterich",
-    "ML": 65,
-    "EP": 20,
-    "HP": 27,
-    "MP": 13,
-    "AT": 24,
-    "DF": 23,
-    "AG": 19,
-    "IN": 21,
-    "skills": [
-      "Beat",
-      "ThickFog",
-      "BladeD"
-    ],
-    "family": "Zombie",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
+  }, // Material Family
   {
     "name": "JewelBag",
     "ML": 40,
