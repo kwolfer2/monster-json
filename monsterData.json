@@ -1986,23 +1986,12 @@
       "BugBlow"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "Bird",
-      "secondaryFamily": "Slime",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BIRD]"],
+          "secondaryOptions": ["[SLIME]"]
         }
       ]
     }
@@ -2023,23 +2012,12 @@
       "FrigidAir"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "Bird",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BIRD]"],
+          "secondaryOptions": ["[DRAGON]"]
         }
       ]
     }
@@ -2060,23 +2038,12 @@
       "Ramming"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "Bird",
-      "secondaryFamily": "Beast",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BIRD]"],
+          "secondaryOptions": ["[BEAST]"]
         }
       ]
     }
@@ -2097,23 +2064,12 @@
       "LifeSong"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "Bird",
-      "secondaryFamily": "Plant",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BIRD]"],
+          "secondaryOptions": ["[PLANT]"]
         }
       ]
     }
@@ -2134,23 +2090,12 @@
       "Curse"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "Bird",
-      "secondaryFamily": "Bug",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BIRD]"],
+          "secondaryOptions": ["[BUG]"]
         }
       ]
     }
@@ -2171,23 +2116,12 @@
       "VacuSlash"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "Bird",
-      "secondaryFamily": "Devil",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BIRD]"],
+          "secondaryOptions": ["[DEVIL]"]
         }
       ]
     }
@@ -2208,23 +2142,12 @@
       "EagleEye"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "Bird",
-      "secondaryFamily": "Zombie",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BIRD]"],
+          "secondaryOptions": ["[ZOMBIE]"]
         }
       ]
     }
@@ -2245,60 +2168,12 @@
       "Informer"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "Bird",
-      "secondaryFamily": "Material",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "AquaHawk",
-    "ML": 40,
-    "EP": 12,
-    "HP": 7,
-    "MP": 8,
-    "AT": 6,
-    "DF": 13,
-    "AG": 14,
-    "IN": 19,
-    "skills": [
-      "CurseOff",
-      "SquallHit",
-      "AquaWall"
-    ],
-    "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BIRD]"],
+          "secondaryOptions": ["[MATERIAL]"]
         }
       ]
     }
@@ -2319,60 +2194,12 @@
       "RobMagic"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "Slime",
-      "pedigreeOverrides": [
-        "Picky"
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "KiteHawk",
-    "ML": 40,
-    "EP": 5,
-    "HP": 13,
-    "MP": 8,
-    "AT": 8,
-    "DF": 7,
-    "AG": 9,
-    "IN": 1,
-    "skills": [
-      "MagicWall",
-      "Curse",
-      "TailWind"
-    ],
-    "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["Picky"],
+          "secondaryOptions": ["[SLIME]"]
         }
       ]
     }
@@ -2393,23 +2220,12 @@
       "Dodge"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[NONE]"],
+          "secondaryOptions": ["[NONE]"]
         }
       ]
     }
@@ -2430,23 +2246,12 @@
       "RainSlash"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "Bird",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "RockSlime"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BIRD]"],
+          "secondaryOptions": ["RockSlime"]
         }
       ]
     }
@@ -2467,23 +2272,12 @@
       "SideStep"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "Beast",
-      "pedigreeOverrides": [
-        "BullBird"
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["BullBird"],
+          "secondaryOptions": ["[BEAST]"]
         }
       ]
     }
@@ -2504,23 +2298,17 @@
       "CureDance"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "Bird",
-      "secondaryFamily": "Dragon",
-      "pedigreeOverrides": [
-        "Wyvern", "LandOwl", "MadCondor", "Phoenix"
-      ],
-      "secondaryOverrides": [
-        "Droll"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["[BIRD]"],
+          "secondaryOptions": ["Droll"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOverrides": ["Wyvern", "LandOwl", "MadCondor", "Phoenix"],
+          "secondaryOverrides": ["[DRAGON]", "[ZOMBIE]"]
         }
       ]
     }
@@ -2541,60 +2329,17 @@
       "MultiCut"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "Bird",
-      "secondaryFamily": "Devil",
-      "pedigreeOverrides": [
-        "LandOwl"
-      ],
-      "secondaryOverrides": [
-        "CoilBird"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
+          "groupID": "A",
+          "pedigreeOptions": ["LandOwl"],
+          "secondaryOptions": ["[DEVIL]"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Emyu",
-    "ML": 40,
-    "EP": 4,
-    "HP": 9,
-    "MP": 13,
-    "AT": 20,
-    "DF": 19,
-    "AG": 23,
-    "IN": 30,
-    "skills": [
-      "WindBeast",
-      "Hustle",
-      "Errand"
-    ],
-    "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["[BIRD]"],
+          "secondaryOptions": ["CoilBird"]
         }
       ]
     }
@@ -2615,23 +2360,12 @@
       "IceSlash"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "Bird",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Metaly", "Metablle", "SuperTen", "Yeti", "Goategon", "Trumpeter", "Skullgon", "DeadNoble", "WhiteKing", "Skeletor", "Servant", "IceMan"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BIRD]"],
+          "secondaryOptions": ["Metaly", "Metablle", "SuperTen", "Yeti", "Goategon", "Trumpeter", "Skullgon", "DeadNoble", "WhiteKing", "Skeletor", "Servant", "IceMan"]
         }
       ]
     }
@@ -2653,22 +2387,11 @@
     ],
     "family": "Bird",
     "breeding": {
-      "pedigreeFamily": "Bird",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "DrakSlime", "GulpBeast", "IronTurt", "Grizzly", "ArcDemon", "CopyCat", "Gismo", "LavaMan"
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BIRD]"],
+          "secondaryOptions": ["DrakSlime", "GulpBeast", "IronTurt", "Grizzly", "ArcDemon", "CopyCat", "Gismo", "LavaMan"]
         }
       ]
     }
@@ -2690,59 +2413,16 @@
     ],
     "family": "Bird",
     "breeding": {
-      "pedigreeFamily": "Bird",
-      "secondaryFamily": "Boss",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+      "pairGroups": [
         {
+          "groupID": "A",
           "pedigreeOptions": ["MadCondor", "Phoenix", "WhipBird"],
-          "secondaryOptions": ["Gisom"]
+          "secondaryOptions": ["Gismo"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Garudian",
-    "ML": 50,
-    "EP": 8,
-    "HP": 10,
-    "MP": 7,
-    "AT": 8,
-    "DF": 14,
-    "AG": 22,
-    "IN": 9,
-    "skills": [
-      "Infernos",
-      "WindBeast",
-      "AquaCut"
-    ],
-    "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["[BIRD]"],
+          "secondaryOptions": ["[BOSS]"]
         }
       ]
     }
@@ -2763,26 +2443,21 @@
       "TatsuCall"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "Bird",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "Rayburn"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": ["LandOwl", "MadGoose", "MadCondor", "Blizzardy", "ZapBird"],
-          "secondaryOptions": ["RockSlime", "SlimeBorg", "Digster", "MetalDrak", "Golem", "StoneMan"]
+          "groupID": "A",
+          "pedigreeOptions": ["[BIRD]"],
+          "secondaryOptions": ["RayBurn"]
         },
         {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "B",
+          "pedigreeOptions": ["LandOwl", "MadGoose", "MadCondor", "Blizzardy", "ZapBird"],
+          "secondaryOptions": ["RockSlime", "SlimeBorg", "Digster", "MetalDrak", "Golem", "StoneMan"]
         }
       ]
     }
+
   },
   {
     "name": "FunkyBird",
@@ -2800,23 +2475,12 @@
       "Hustle"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "Bird",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        "DanceVegi"
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["[BIRD]"],
+          "secondaryOptions": ["DanceVegi"]
         }
       ]
     }
@@ -2837,134 +2501,12 @@
       "StrongD"
     ],
     "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
+"breeding": {
+      "pairGroups": [
         {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "Blizzardy",
-          "secondary": "Phoenix"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Azurile",
-    "ML": 75,
-    "EP": 28,
-    "HP": 27,
-    "MP": 24,
-    "AT": 24,
-    "DF": 12,
-    "AG": 24,
-    "IN": 12,
-    "skills": [
-      "HellBlast",
-      "Meditate",
-      "LifeSong"
-    ],
-    "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "Shantak",
-    "ML": 60,
-    "EP": 22,
-    "HP": 24,
-    "MP": 22,
-    "AT": 18,
-    "DF": 20,
-    "AG": 24,
-    "IN": 22,
-    "skills": [
-      "HealUs",
-      "FireAir",
-      "SealAll"
-    ],
-    "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
-        }
-      ]
-    }
-  },
-  {
-    "name": "CragDevil",
-    "ML": 35,
-    "EP": 4,
-    "HP": 7,
-    "MP": 8,
-    "AT": 13,
-    "DF": 5,
-    "AG": 14,
-    "IN": 11,
-    "skills": [
-      "Infernos",
-      "PanicAll",
-      "EagleEye"
-    ],
-    "family": "Bird",
-    "breeding": {
-      "pedigreeFamily": "",
-      "secondaryFamily": "",
-      "pedigreeOverrides": [
-        ""
-      ],
-      "secondaryOverrides": [
-        ""
-      ],
-      "specificParents": [
-        {
-          "pedigreeOptions": [],
-          "secondaryOptions": []
-        },
-        {
-          "pedigree": "",
-          "secondary": ""
+          "groupID": "A",
+          "pedigreeOptions": ["Blizzardy"],
+          "secondaryOptions": ["Phoenix"]
         }
       ]
     }
