@@ -5194,10 +5194,6 @@
     }
   },
   {
-    /* 
-              "pedigreeOptions": ["Golem", "StoneMan"],
-          "secondaryOptions": ["DrakSlime", "Snaily", "SlimeNite", "RockSlime"]
-    */
     "name": "Voodoll",
     "ML": 35,
     "EP": 11,
