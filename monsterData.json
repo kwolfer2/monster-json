@@ -1879,7 +1879,7 @@
         {
           "groupID": "A",
           "pedigreeOptions": ["Trumpeter"],
-          "secondaryOptions": ["Trumpeter", "MetalDrak", "Balzak", "GoldGolem", ]
+          "secondaryOptions": ["Trumpeter", "MetalDrak", "Balzak", "GoldGolem"]
         },
         {
           "groupID": "B",
