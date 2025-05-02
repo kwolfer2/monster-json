@@ -19,11 +19,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[SLIME]"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "SpotSlime",
@@ -45,11 +50,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[SLIME]"],
-          "secondaryOptions": ["[BEAST]"]
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "WingSlime",
@@ -71,11 +81,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[SLIME]"],
-          "secondaryOptions": ["[BIRD]"]
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "TreeSlime",
@@ -97,11 +112,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[SLIME]"],
-          "secondaryOptions": ["[PLANT]"]
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Snaily",
@@ -123,11 +143,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[SLIME]"],
-          "secondaryOptions": ["[BUG]"]
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "SlimeNite",
@@ -149,11 +174,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[SLIME]"],
-          "secondaryOptions": ["[DEVIL]"]
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Babble",
@@ -175,16 +205,25 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[SLIME]"],
-          "secondaryOptions": ["[ZOMBIE]"]
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Poisongon"],
-          "secondaryOptions": ["GiantMoth"]
+          "pedigreeOptions": [
+            "Poisongon"
+          ],
+          "secondaryOptions": [
+            "GiantMoth"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "BoxSlime",
@@ -206,11 +245,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[SLIME]"],
-          "secondaryOptions": ["[MATERIAL]"]
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Slime",
@@ -232,11 +276,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[NONE]"],
-          "secondaryOptions": ["[NONE]"]
+          "pedigreeOptions": [
+            "[NONE]"
+          ],
+          "secondaryOptions": [
+            "[NONE]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Healer",
@@ -258,11 +307,19 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[SLIME]"],
-          "secondaryOptions": ["PillowRat", "FunkyBird", "MadPlant", "CopyCat"]
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "PillowRat",
+            "FunkyBird",
+            "MadPlant",
+            "CopyCat"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "FangSlime",
@@ -284,16 +341,21 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[SLIME]"],
-          "secondaryOptions": [  "Almiraj",
-          "GulpBeast",
-          "Trumpeter",
-          "KingLeo",
-          "DarkHorn",
-          "MadCat"]
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "Almiraj",
+            "GulpBeast",
+            "Trumpeter",
+            "KingLeo",
+            "DarkHorn",
+            "MadCat"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "RockSlime",
@@ -315,16 +377,20 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[SLIME]"],
-          "secondaryOptions": ["Digster",
-        "DeadNite",
-        "Golem",
-        "StoneMan",
-        "BombCrag"]
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "Digster",
+            "DeadNite",
+            "Golem",
+            "StoneMan",
+            "BombCrag"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 2
   },
   {
     "name": "SlimeBorg",
@@ -346,16 +412,32 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[SLIME]"],
-          "secondaryOptions": ["[Roboster]"]
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[Roboster]"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["DrakSlime", "SlimeNite", "RockSlime", "Metablle"],
-          "secondaryOptions": ["Swordgon", "Spikerous", "GreatDrak", "BattleRex", "SkyDragon"]
+          "pedigreeOptions": [
+            "DrakSlime",
+            "SlimeNite",
+            "RockSlime",
+            "Metablle"
+          ],
+          "secondaryOptions": [
+            "Swordgon",
+            "Spikerous",
+            "GreatDrak",
+            "BattleRex",
+            "SkyDragon"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "Slabbit",
@@ -377,11 +459,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[SLIME]"],
-          "secondaryOptions": ["Skullroo"]
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "Skullroo"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "KingSlime",
@@ -403,22 +490,45 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[SLIME]"],
-          "secondaryOptions": ["[BOSS]"]
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[BOSS]"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["SpotKing"],
-          "secondaryOptions": ["GreatDrak", "BattleRex", "Divinegon", "Unicorn", "KingLeo", "MadCondor", "ZapBird", "WhipBird", "Gigantes", "Centasaur", "DeadNoble", "WhiteKing"]
+          "pedigreeOptions": [
+            "SpotKing"
+          ],
+          "secondaryOptions": [
+            "GreatDrak",
+            "BattleRex",
+            "Divinegon",
+            "Unicorn",
+            "KingLeo",
+            "MadCondor",
+            "ZapBird",
+            "WhipBird",
+            "Gigantes",
+            "Centasaur",
+            "DeadNoble",
+            "WhiteKing"
+          ]
         },
         {
           "groupID": "C",
-         "pedigreeOptions": ["[SLIME] +4"],
-          "secondaryOptions": ["[SLIME] +4"]
+          "pedigreeOptions": [
+            "[SLIME] +4"
+          ],
+          "secondaryOptions": [
+            "[SLIME] +4"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 3
   },
   {
     "name": "Metaly",
@@ -440,12 +550,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[SLIME]"],
-          "secondaryOptions": ["MetalDrak"]
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "MetalDrak"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 3
   },
   {
     "name": "Metabble",
@@ -467,11 +581,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Metaly"],
-          "secondaryOptions": ["Metaly"]
+          "pedigreeOptions": [
+            "Metaly"
+          ],
+          "secondaryOptions": [
+            "Metaly"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "SpotKing",
@@ -493,18 +612,37 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["KingSlime", "MetalKing"],
-          "secondaryOptions": ["GreatDrak", "BattleRex", "Divinegon", "Unicorn", "KingLeo", "MadCondor", "ZapBird", "WhipBird", "Gigantes", "Centasaur", "DeadNoble", "WhiteKing"]
+          "pedigreeOptions": [
+            "KingSlime",
+            "MetalKing"
+          ],
+          "secondaryOptions": [
+            "GreatDrak",
+            "BattleRex",
+            "Divinegon",
+            "Unicorn",
+            "KingLeo",
+            "MadCondor",
+            "ZapBird",
+            "WhipBird",
+            "Gigantes",
+            "Centasaur",
+            "DeadNoble",
+            "WhiteKing"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["SpotSlime"],
-          "secondaryOptions": ["SpotSlime"]
+          "pedigreeOptions": [
+            "SpotSlime"
+          ],
+          "secondaryOptions": [
+            "SpotSlime"
+          ]
         }
       ]
-    }
-
-
+    },
+    "tier": 3
   },
   {
     "name": "MetalKing",
@@ -526,16 +664,26 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["SpotKing", "KingSlime"],
-          "secondaryOptions": ["MetalDrak"]
+          "pedigreeOptions": [
+            "SpotKing",
+            "KingSlime"
+          ],
+          "secondaryOptions": [
+            "MetalDrak"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Metabble"],
-          "secondaryOptions": ["Metabble"]
+          "pedigreeOptions": [
+            "Metabble"
+          ],
+          "secondaryOptions": [
+            "Metabble"
+          ]
         }
       ]
-    }
+    },
+    "tier": 4
   },
   {
     "name": "GoldSlime",
@@ -557,16 +705,27 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["SpotKing", "KingSlime", "MetalKing"],
-          "secondaryOptions": ["GoldGolem"]
+          "pedigreeOptions": [
+            "SpotKing",
+            "KingSlime",
+            "MetalKing"
+          ],
+          "secondaryOptions": [
+            "GoldGolem"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["MetalKing"],
-          "secondaryOptions": ["MetalKing"]
+          "pedigreeOptions": [
+            "MetalKing"
+          ],
+          "secondaryOptions": [
+            "MetalKing"
+          ]
         }
       ]
-    }
+    },
+    "tier": 5
   },
   {
     "name": "DragonKid",
@@ -588,12 +747,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["[SLIME]"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "Tortragon",
@@ -615,12 +778,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["[BEAST]"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "Pteranod",
@@ -642,12 +809,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["[BIRD]"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "Gasgon",
@@ -669,12 +840,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["[PLANT]"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "FairyDrak",
@@ -696,12 +871,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["[BUG]"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "LizardMan",
@@ -723,12 +902,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["[DEVIL]"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "Poisongon",
@@ -750,12 +933,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["[ZOMBIE]"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "Swordgon",
@@ -777,12 +964,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["[MATERIAL]"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "Dragon",
@@ -804,12 +995,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["DragonKid"],
-          "secondaryOptions": ["DragonKid"]
+          "pedigreeOptions": [
+            "DragonKid"
+          ],
+          "secondaryOptions": [
+            "DragonKid"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "MiniDrak",
@@ -831,12 +1026,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["DragonKid"],
-          "secondaryOptions": ["[Picky]"]
+          "pedigreeOptions": [
+            "DragonKid"
+          ],
+          "secondaryOptions": [
+            "[Picky]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "MadDragon",
@@ -858,16 +1057,25 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["GulpBeast"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "GulpBeast"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Gasgon"],
-          "secondaryOptions": ["[BEAST]"]
+          "pedigreeOptions": [
+            "Gasgon"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "Rayburn",
@@ -889,17 +1097,32 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["MadCondor"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "MadCondor"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["LizardMan"],
-          "secondaryOptions": ["WingSlime", "Trumpeter", "MadCat", "FaceTree", "Lionex", "GoatHorn", "GateGuard", "Gigantes"]
+          "pedigreeOptions": [
+            "LizardMan"
+          ],
+          "secondaryOptions": [
+            "WingSlime",
+            "Trumpeter",
+            "MadCat",
+            "FaceTree",
+            "Lionex",
+            "GoatHorn",
+            "GateGuard",
+            "Gigantes"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 2
   },
   {
     "name": "Chamelgon",
@@ -921,11 +1144,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["Voodoll"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "Voodoll"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "LizardFly",
@@ -947,12 +1175,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["GoHopper"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "GoHopper"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "Andreal",
@@ -974,16 +1206,39 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["Gulpple"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "Gulpple"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Gasgon", "MadDragon", "BattleRex", "SkyDragon"],
-          "secondaryOptions": ["Goategon", "Trumpeter", "MadCondor", "WhipBird", "FunkyBird", "ArcDemon", "Lionex", "GoatHorn", "Ogre", "Akubar", "DeadNoble", "Golem"]
+          "pedigreeOptions": [
+            "Gasgon",
+            "MadDragon",
+            "BattleRex",
+            "SkyDragon"
+          ],
+          "secondaryOptions": [
+            "Goategon",
+            "Trumpeter",
+            "MadCondor",
+            "WhipBird",
+            "FunkyBird",
+            "ArcDemon",
+            "Lionex",
+            "GoatHorn",
+            "Ogre",
+            "Akubar",
+            "DeadNoble",
+            "Golem"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "KingCobra",
@@ -1005,11 +1260,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["Babble"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "Babble"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "Spikerous",
@@ -1031,12 +1291,17 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["ArmyCrab", "Digster"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "ArmyCrab",
+            "Digster"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 3
   },
   {
     "name": "GreatDrak",
@@ -1058,21 +1323,42 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["SpotKing", "KingSlime", "MetalKing", "BattleRex", "Unicorn", "ZapBird", "WhipBird", "Gigantes", "Centasaur"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "SpotKing",
+            "KingSlime",
+            "MetalKing",
+            "BattleRex",
+            "Unicorn",
+            "ZapBird",
+            "WhipBird",
+            "Gigantes",
+            "Centasaur"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Dragon +4"],
-          "secondaryOptions": ["Dragon +4"]
+          "pedigreeOptions": [
+            "Dragon +4"
+          ],
+          "secondaryOptions": [
+            "Dragon +4"
+          ]
         },
         {
           "groupID": "C",
-          "pedigreeOptions": ["DragonKid +4"],
-          "secondaryOptions": ["DragonKid +4"]
+          "pedigreeOptions": [
+            "DragonKid +4"
+          ],
+          "secondaryOptions": [
+            "DragonKid +4"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "Crestpent",
@@ -1094,12 +1380,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["BigRoost"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "BigRoost"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "WingSnake",
@@ -1121,11 +1411,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Crestpent"],
-          "secondaryOptions": ["Crestpent"]
+          "pedigreeOptions": [
+            "Crestpent"
+          ],
+          "secondaryOptions": [
+            "Crestpent"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "Coatol",
@@ -1147,16 +1442,32 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Pteranod", "Gasgon", "LizardMan", "BattleRex", "SkyDragon"],
-          "secondaryOptions": ["DarkHorn", "MadKnight", "CopyCat", "StoneMan"]
-        }, 
+          "pedigreeOptions": [
+            "Pteranod",
+            "Gasgon",
+            "LizardMan",
+            "BattleRex",
+            "SkyDragon"
+          ],
+          "secondaryOptions": [
+            "DarkHorn",
+            "MadKnight",
+            "CopyCat",
+            "StoneMan"
+          ]
+        },
         {
           "groupID": "B",
-          "pedigreeOptions": ["WingSnake"],
-          "secondaryOptions": ["WingSnake"]
+          "pedigreeOptions": [
+            "WingSnake"
+          ],
+          "secondaryOptions": [
+            "WingSnake"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "Orochi",
@@ -1178,11 +1489,17 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Andreal", "GreatDrak"],
-          "secondaryOptions": ["MedusaEye"]
+          "pedigreeOptions": [
+            "Andreal",
+            "GreatDrak"
+          ],
+          "secondaryOptions": [
+            "MedusaEye"
+          ]
         }
       ]
-    }
+    },
+    "tier": 4
   },
   {
     "name": "BattleRex",
@@ -1204,11 +1521,20 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["KingLeo", "Lionex", "Ogre", "MadKnight", "EvilArmor"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "KingLeo",
+            "Lionex",
+            "Ogre",
+            "MadKnight",
+            "EvilArmor"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "SkyDragon",
@@ -1230,11 +1556,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["Phoenix"]
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "Phoenix"
+          ]
         }
       ]
-    }
+    },
+    "tier": 4
   },
   {
     "name": "Divinegon",
@@ -1256,11 +1587,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["SkyDragon"],
-          "secondaryOptions": ["Orochi"]
+          "pedigreeOptions": [
+            "SkyDragon"
+          ],
+          "secondaryOptions": [
+            "Orochi"
+          ]
         }
       ]
-    }
+    },
+    "tier": 5
   },
   {
     "name": "Tonguella",
@@ -1282,11 +1618,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["[SLIME]"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Almiraj",
@@ -1304,15 +1645,20 @@
       "Beserker"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "CatFly",
@@ -1330,15 +1676,20 @@
       "OddDance"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["[BIRD]"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "PillowRat",
@@ -1356,15 +1707,20 @@
       "SideStep"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["[PLANT]"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Saccer",
@@ -1382,15 +1738,20 @@
       "PalsyAir"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["[BUG]"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "GulpBeast",
@@ -1408,30 +1769,69 @@
       "WarCry"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Tonguella", "Grizzly", "Yeti", "Unicorn", "WildApe", "Trumpeter"],
-          "secondaryOptions": ["Digster", "Skullgon", "DeadNoble", "WhiteKing", "Skeletor"]
+          "pedigreeOptions": [
+            "Tonguella",
+            "Grizzly",
+            "Yeti",
+            "Unicorn",
+            "WildApe",
+            "Trumpeter"
+          ],
+          "secondaryOptions": [
+            "Digster",
+            "Skullgon",
+            "DeadNoble",
+            "WhiteKing",
+            "Skeletor"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["IronTurt", "Grizzly", "Yeti", "Unicorn", "WildApe", "Goategon"],
-          "secondaryOptions": ["MetalDrak", "Roboster", "LavaMan", "IceMan", "Golem", "StoneMan"]
+          "pedigreeOptions": [
+            "IronTurt",
+            "Grizzly",
+            "Yeti",
+            "Unicorn",
+            "WildApe",
+            "Goategon"
+          ],
+          "secondaryOptions": [
+            "MetalDrak",
+            "Roboster",
+            "LavaMan",
+            "IceMan",
+            "Golem",
+            "StoneMan"
+          ]
         },
         {
           "groupID": "C",
-          "pedigreeOptions": ["Grizzly", "Yeti", "Trumpeter", "BigEye"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "Grizzly",
+            "Yeti",
+            "Trumpeter",
+            "BigEye"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         },
         {
           "groupID": "D",
-          "pedigreeOptions": ["Grizzly"],
-          "secondaryOptions": ["[DEVIL]"]
+          "pedigreeOptions": [
+            "Grizzly"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "Skullroo",
@@ -1449,15 +1849,20 @@
       "EagleEye"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["[ZOMBIE]"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "WindBeast",
@@ -1475,15 +1880,20 @@
       "VacuSlash"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["[MATERIAL]"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Anteater",
@@ -1501,15 +1911,20 @@
       "LushLicks"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Saccer"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "Saccer"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "SuperTen",
@@ -1531,16 +1946,37 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["Mudron"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "Mudron"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Tonguella", "GulpBeast"],
-          "secondaryOptions": ["TreeSlime", "FangSlime", "MadDragon", "FunkyBird", "MadPlant", "FaceTree", "Lipsy", "Demonite", "Gremlin", "CopyCat", "JewelBag", "Mimic"]
+          "pedigreeOptions": [
+            "Tonguella",
+            "GulpBeast"
+          ],
+          "secondaryOptions": [
+            "TreeSlime",
+            "FangSlime",
+            "MadDragon",
+            "FunkyBird",
+            "MadPlant",
+            "FaceTree",
+            "Lipsy",
+            "Demonite",
+            "Gremlin",
+            "CopyCat",
+            "JewelBag",
+            "Mimic"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "IronTurt",
@@ -1558,15 +1994,20 @@
       "Cover"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["Tortragon"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "Tortragon"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "Mommonja",
@@ -1584,15 +2025,20 @@
       "EagleEye"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["DuckKite"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "DuckKite"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "HammerMan",
@@ -1610,15 +2056,20 @@
       "Kamikaze"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["StubSuck"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "StubSuck"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "Grizzly",
@@ -1636,20 +2087,34 @@
       "LegSweep"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["[DEVIL]"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["MetalDrak", "Roboster", "LavaMan", "IceMan", "Golem", "StoneMan"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "MetalDrak",
+            "Roboster",
+            "LavaMan",
+            "IceMan",
+            "Golem",
+            "StoneMan"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "Yeti",
@@ -1667,20 +2132,37 @@
       "WarCry"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["Orc"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "Orc"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["IronTurt", "Goategon", "WildApe", "MadCat"],
-          "secondaryOptions": ["Pteranod", "Gasgon", "Swordgon", "MadDragon", "BattleRex", "SkyDragon"]
+          "pedigreeOptions": [
+            "IronTurt",
+            "Goategon",
+            "WildApe",
+            "MadCat"
+          ],
+          "secondaryOptions": [
+            "Pteranod",
+            "Gasgon",
+            "Swordgon",
+            "MadDragon",
+            "BattleRex",
+            "SkyDragon"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "MadGopher",
@@ -1698,15 +2180,20 @@
       "Informer"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["SabreMan"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "SabreMan"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "FairyRat",
@@ -1724,15 +2211,20 @@
       "SlimeBlow"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["LizardFly"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "LizardFly"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Unicorn",
@@ -1750,20 +2242,35 @@
       "Errand"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["FangSlime"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "FangSlime"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Tonguella", "GulpBeast", "Grizzly", "Yeti", "Goategon", "WildApe", "Trumpeter"],
-          "secondaryOptions": ["[SLIME]"]
+          "pedigreeOptions": [
+            "Tonguella",
+            "GulpBeast",
+            "Grizzly",
+            "Yeti",
+            "Goategon",
+            "WildApe",
+            "Trumpeter"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "Goategon",
@@ -1781,15 +2288,21 @@
       "SleepAir"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["LizardMan", "DrakSlime"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "LizardMan",
+            "DrakSlime"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "WildApe",
@@ -1807,20 +2320,29 @@
       "Errand"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["MadPecker"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "MadPecker"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Almiraj"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "Almiraj"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "Trumpeter",
@@ -1838,25 +2360,44 @@
       "WarCry"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["SuperTen"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "SuperTen"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         },
         {
           "groupID": "b",
-          "pedigreeOptions": ["WildApe"],
-          "secondaryOptions": ["WildApe"]
+          "pedigreeOptions": [
+            "WildApe"
+          ],
+          "secondaryOptions": [
+            "WildApe"
+          ]
         },
         {
           "groupID": "C",
-          "pedigreeOptions": ["GulpBeast"],
-          "secondaryOptions": ["MetalDrak", "Balzak", "Roboster", "LavaMan", "IceMan", "Golem", "StoneMan"]
+          "pedigreeOptions": [
+            "GulpBeast"
+          ],
+          "secondaryOptions": [
+            "MetalDrak",
+            "Balzak",
+            "Roboster",
+            "LavaMan",
+            "IceMan",
+            "Golem",
+            "StoneMan"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "KingLeo",
@@ -1874,20 +2415,38 @@
       "BiAttack"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Trumpeter"],
-          "secondaryOptions": ["Trumpeter", "MetalDrak", "Balzak", "GoldGolem"]
+          "pedigreeOptions": [
+            "Trumpeter"
+          ],
+          "secondaryOptions": [
+            "Trumpeter",
+            "MetalDrak",
+            "Balzak",
+            "GoldGolem"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Roboster"],
-          "secondaryOptions": ["SuperTen", "GulpBeast", "Unicorn", "DarkHorn", "Trumpeter", "DarkHorn", "MadCat"]
+          "pedigreeOptions": [
+            "Roboster"
+          ],
+          "secondaryOptions": [
+            "SuperTen",
+            "GulpBeast",
+            "Unicorn",
+            "DarkHorn",
+            "Trumpeter",
+            "DarkHorn",
+            "MadCat"
+          ]
         }
       ]
-    }
+    },
+    "tier": 4
   },
   {
     "name": "DarkHorn",
@@ -1905,16 +2464,20 @@
       "PsycheUp"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["[BOSS]"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[BOSS]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 5
   },
   {
     "name": "MadCat",
@@ -1932,16 +2495,20 @@
       "LegSweep"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["Dragon"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "Dragon"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 3
   },
   {
     "name": "BigEye",
@@ -1959,16 +2526,20 @@
       "LoveRain"
     ],
     "family": "Beast",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BEAST]"],
-          "secondaryOptions": ["EyeBall"]
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "EyeBall"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 4
   },
   {
     "name": "Picky",
@@ -1986,15 +2557,20 @@
       "BugBlow"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BIRD]"],
-          "secondaryOptions": ["[SLIME]"]
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Wyvern",
@@ -2012,15 +2588,20 @@
       "FrigidAir"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BIRD]"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "BullBird",
@@ -2038,15 +2619,20 @@
       "Ramming"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BIRD]"],
-          "secondaryOptions": ["[BEAST]"]
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Florajay",
@@ -2064,15 +2650,20 @@
       "LifeSong"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BIRD]"],
-          "secondaryOptions": ["[PLANT]"]
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "DuckKite",
@@ -2090,15 +2681,20 @@
       "Curse"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BIRD]"],
-          "secondaryOptions": ["[BUG]"]
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "MadPecker",
@@ -2116,15 +2712,20 @@
       "VacuSlash"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BIRD]"],
-          "secondaryOptions": ["[DEVIL]"]
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "MadRaven",
@@ -2142,15 +2743,20 @@
       "EagleEye"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BIRD]"],
-          "secondaryOptions": ["[ZOMBIE]"]
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "MistyWing",
@@ -2168,15 +2774,20 @@
       "Informer"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BIRD]"],
-          "secondaryOptions": ["[MATERIAL]"]
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Dracky",
@@ -2194,15 +2805,20 @@
       "RobMagic"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Picky"],
-          "secondaryOptions": ["[SLIME]"]
+          "pedigreeOptions": [
+            "Picky"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "BigRoost",
@@ -2220,15 +2836,20 @@
       "Dodge"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[NONE]"],
-          "secondaryOptions": ["[NONE]"]
+          "pedigreeOptions": [
+            "[NONE]"
+          ],
+          "secondaryOptions": [
+            "[NONE]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "StubBird",
@@ -2246,15 +2867,20 @@
       "RainSlash"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BIRD]"],
-          "secondaryOptions": ["RockSlime"]
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "RockSlime"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "LandOwl",
@@ -2272,15 +2898,20 @@
       "SideStep"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["BullBird"],
-          "secondaryOptions": ["[BEAST]"]
+          "pedigreeOptions": [
+            "BullBird"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "MadGoose",
@@ -2298,20 +2929,33 @@
       "CureDance"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BIRD]"],
-          "secondaryOptions": ["Droll"]
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "Droll"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOverrides": ["Wyvern", "LandOwl", "MadCondor", "Phoenix"],
-          "secondaryOverrides": ["[DRAGON]", "[ZOMBIE]"]
+          "pedigreeOptions": [
+            "Wyvern",
+            "LandOwl",
+            "MadCondor",
+            "Phoenix"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]",
+            "[ZOMBIE]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "MadCondor",
@@ -2329,20 +2973,29 @@
       "MultiCut"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["LandOwl"],
-          "secondaryOptions": ["[DEVIL]"]
+          "pedigreeOptions": [
+            "LandOwl"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["[BIRD]"],
-          "secondaryOptions": ["CoilBird"]
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "CoilBird"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "Blizzardy",
@@ -2360,15 +3013,31 @@
       "IceSlash"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BIRD]"],
-          "secondaryOptions": ["Metaly", "Metablle", "SuperTen", "Yeti", "Goategon", "Trumpeter", "Skullgon", "DeadNoble", "WhiteKing", "Skeletor", "Servant", "IceMan"]
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "Metaly",
+            "Metablle",
+            "SuperTen",
+            "Yeti",
+            "Goategon",
+            "Trumpeter",
+            "Skullgon",
+            "DeadNoble",
+            "WhiteKing",
+            "Skeletor",
+            "Servant",
+            "IceMan"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "Phoenix",
@@ -2390,11 +3059,23 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BIRD]"],
-          "secondaryOptions": ["DrakSlime", "GulpBeast", "IronTurt", "Grizzly", "ArcDemon", "CopyCat", "Gismo", "LavaMan"]
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "DrakSlime",
+            "GulpBeast",
+            "IronTurt",
+            "Grizzly",
+            "ArcDemon",
+            "CopyCat",
+            "Gismo",
+            "LavaMan"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "ZapBird",
@@ -2416,16 +3097,27 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["MadCondor", "Phoenix", "WhipBird"],
-          "secondaryOptions": ["Gismo"]
+          "pedigreeOptions": [
+            "MadCondor",
+            "Phoenix",
+            "WhipBird"
+          ],
+          "secondaryOptions": [
+            "Gismo"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["[BIRD]"],
-          "secondaryOptions": ["[BOSS]"]
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[BOSS]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "WhipBird",
@@ -2443,21 +3135,38 @@
       "TatsuCall"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BIRD]"],
-          "secondaryOptions": ["RayBurn"]
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "RayBurn"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["LandOwl", "MadGoose", "MadCondor", "Blizzardy", "ZapBird"],
-          "secondaryOptions": ["RockSlime", "SlimeBorg", "Digster", "MetalDrak", "Golem", "StoneMan"]
+          "pedigreeOptions": [
+            "LandOwl",
+            "MadGoose",
+            "MadCondor",
+            "Blizzardy",
+            "ZapBird"
+          ],
+          "secondaryOptions": [
+            "RockSlime",
+            "SlimeBorg",
+            "Digster",
+            "MetalDrak",
+            "Golem",
+            "StoneMan"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 3
   },
   {
     "name": "FunkyBird",
@@ -2475,15 +3184,20 @@
       "Hustle"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BIRD]"],
-          "secondaryOptions": ["DanceVegi"]
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "DanceVegi"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "RainHawk",
@@ -2501,15 +3215,20 @@
       "StrongD"
     ],
     "family": "Bird",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Blizzardy"],
-          "secondaryOptions": ["Phoenix"]
+          "pedigreeOptions": [
+            "Blizzardy"
+          ],
+          "secondaryOptions": [
+            "Phoenix"
+          ]
         }
       ]
-    }
+    },
+    "tier": 4
   },
   {
     "name": "MadPlant",
@@ -2527,15 +3246,20 @@
       "Slow"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[PLANT]"],
-          "secondaryOptions": ["[SLIME]"]
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "FireWeed",
@@ -2553,15 +3277,20 @@
       "PalsyAir"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[PLANT]"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "FloraMan",
@@ -2579,15 +3308,20 @@
       "CurseOff"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[PLANT]"],
-          "secondaryOptions": ["[BEAST]"]
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "WingTree",
@@ -2605,15 +3339,20 @@
       "StepGuard"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[PLANT]"],
-          "secondaryOptions": ["[BIRD]"]
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "CactiBall",
@@ -2631,15 +3370,20 @@
       "OddDance"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[PLANT]"],
-          "secondaryOptions": ["[BUG]"]
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Gulpple",
@@ -2657,15 +3401,20 @@
       "SleepAir"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[PLANT]"],
-          "secondaryOptions": ["[DEVIL]"]
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Toadstool",
@@ -2683,15 +3432,20 @@
       "MouthShut"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[PLANT]"],
-          "secondaryOptions": ["[ZOMBIE]"]
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "AmberWeed",
@@ -2709,15 +3463,20 @@
       "MagicWall"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[PLANT]"],
-          "secondaryOptions": ["[MATERIAL]"]
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Stubsuck",
@@ -2735,15 +3494,20 @@
       "StepGuard"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["AmberWeed"],
-          "secondaryOptions": ["[BEAST]"]
+          "pedigreeOptions": [
+            "AmberWeed"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Oniono",
@@ -2761,15 +3525,20 @@
       "SleepAir"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[PLANT]"],
-          "secondaryOptions": ["Gophecada"]
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "Gophecada"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "DanceVegi",
@@ -2787,20 +3556,29 @@
       "SideStep"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["MadPlant"],
-          "secondaryOptions": ["[BEAST]"]
+          "pedigreeOptions": [
+            "MadPlant"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["[PLANT]"],
-          "secondaryOptions": ["Facer"]
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "Facer"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "TreeBoy",
@@ -2818,15 +3596,20 @@
       "Hustle"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[PLANT]"],
-          "secondaryOptions": ["Pixy"]
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "Pixy"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "FaceTree",
@@ -2844,20 +3627,29 @@
       "OddDance"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["HerbMan"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "HerbMan"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["[PLANT]"],
-          "secondaryOptions": ["NiteWhip"]
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "NiteWhip"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "HerbMan",
@@ -2875,20 +3667,29 @@
       "DanceShut"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[PLANT]"],
-          "secondaryOptions": ["FunkyBird"]
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "FunkyBird"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["DanceVegi"],
-          "secondaryOptions": ["[DEVIL]"]
+          "pedigreeOptions": [
+            "DanceVegi"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "BeanMan",
@@ -2906,15 +3707,20 @@
       "MapMagic"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[PLANT]"],
-          "secondaryOptions": ["PillowRat"]
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "PillowRat"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "EvilSeed",
@@ -2932,15 +3738,27 @@
       "Radiant"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[PLANT]"],
-          "secondaryOptions": ["RockSlime", "BigEye", "DuckKite", "ButterFly", "Eyeder", "DarkEye", "EyeBall", "MadMirror"]
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "RockSlime",
+            "BigEye",
+            "DuckKite",
+            "ButterFly",
+            "Eyeder",
+            "DarkEye",
+            "EyeBall",
+            "MadMirror"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "ManEater",
@@ -2958,15 +3776,20 @@
       "SleepAir"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["EvilSeed"],
-          "secondaryOptions": ["EvilSeed"]
+          "pedigreeOptions": [
+            "EvilSeed"
+          ],
+          "secondaryOptions": [
+            "EvilSeed"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "Snapper",
@@ -2984,15 +3807,20 @@
       "RainSlash"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["ManEater"],
-          "secondaryOptions": ["ManEater"]
+          "pedigreeOptions": [
+            "ManEater"
+          ],
+          "secondaryOptions": [
+            "ManEater"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "Rosevine",
@@ -3010,15 +3838,20 @@
       "BladeD"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[PLANT]"],
-          "secondaryOptions": ["[BOSS]"]
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[BOSS]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 4
   },
   {
     "name": "Watabou",
@@ -3036,15 +3869,20 @@
       "Whistle"
     ],
     "family": "Plant",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[NONE]"],
-          "secondaryOptions": ["[NONE]"]
+          "pedigreeOptions": [
+            "[NONE]"
+          ],
+          "secondaryOptions": [
+            "[NONE]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 4
   },
   {
     "name": "GiantSlug",
@@ -3062,16 +3900,20 @@
       "Whistle"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BUG]"],
-          "secondaryOptions": ["[SLIME]"]
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "Catapilla",
@@ -3089,16 +3931,20 @@
       "ThickFog"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BUG]"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "Gophecada",
@@ -3116,16 +3962,20 @@
       "CallHelp"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BUG]"],
-          "secondaryOptions": ["[BEAST]"]
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "Butterfly",
@@ -3143,16 +3993,20 @@
       "Curse"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BUG]"],
-          "secondaryOptions": ["[BIRD]"]
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "WeedBug",
@@ -3170,16 +4024,20 @@
       "MagicWall"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BUG]"],
-          "secondaryOptions": ["[PLANT]"]
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "GiantWorm",
@@ -3197,16 +4055,20 @@
       "StepGuard"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BUG]"],
-          "secondaryOptions": ["[DEVIL]"]
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "Lipsy",
@@ -3224,16 +4086,20 @@
       "Pheromone"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BUG]"],
-          "secondaryOptions": ["[ZOMBIE]"]
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "StagBug",
@@ -3251,16 +4117,20 @@
       "LegSweep"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BUG]"],
-          "secondaryOptions": ["[MATERIAL]"]
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "ArmyAnt",
@@ -3278,16 +4148,20 @@
       "Kamikaze"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["GiantSlug"],
-          "secondaryOptions": ["[SLIME]"]
+          "pedigreeOptions": [
+            "GiantSlug"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "GoHopper",
@@ -3305,16 +4179,20 @@
       "ChargeUp"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[NONE]"],
-          "secondaryOptions": ["[NONE]"]
+          "pedigreeOptions": [
+            "[NONE]"
+          ],
+          "secondaryOptions": [
+            "[NONE]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "TailEater",
@@ -3332,21 +4210,29 @@
       "Radiant"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BUG]"],
-          "secondaryOptions": ["FloraMan"]
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "FloraMan"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["WeedBug"],
-          "secondaryOptions": ["[PLANT]"]
+          "pedigreeOptions": [
+            "WeedBug"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 2
   },
   {
     "name": "ArmorPede",
@@ -3364,25 +4250,38 @@
       "TwinSlash"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BUG]"],
-          "secondaryOptions": ["IronTurt"]
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "IronTurt"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["GiantWorm"],
-          "secondaryOptions": ["[MATERIAL]"]
+          "pedigreeOptions": [
+            "GiantWorm"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
         },
         {
           "groupID": "C",
-          "pedigreeOptions": ["Droll"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "Droll"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "Eyeder",
@@ -3400,20 +4299,29 @@
       "MapMagic"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BUG]"],
-          "secondaryOptions": ["AmberWeed"]
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "AmberWeed"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Catapila"],
-          "secondaryOptions": ["[BEAST]"]
+          "pedigreeOptions": [
+            "Catapila"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "GiantMoth",
@@ -3431,20 +4339,29 @@
       "Radiant"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BUG]"],
-          "secondaryOptions": ["Saccer"]
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "Saccer"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["ButterFly"],
-          "secondaryOptions": ["[DEVIL]"]
+          "pedigreeOptions": [
+            "ButterFly"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "Droll",
@@ -3462,25 +4379,42 @@
       "StepGuard"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["ButterFly", "TailEater", "Eyeder"],
-          "secondaryOptions": ["ButterFly", "TailEater", "Eyeder"]
+          "pedigreeOptions": [
+            "ButterFly",
+            "TailEater",
+            "Eyeder"
+          ],
+          "secondaryOptions": [
+            "ButterFly",
+            "TailEater",
+            "Eyeder"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Lipsy"],
-          "secondaryOptions": ["[SLIME]"]
+          "pedigreeOptions": [
+            "Lipsy"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
         },
         {
           "groupID": "C",
-          "pedigreeOptions": ["[BUG]"],
-          "secondaryOptions": ["Spooky"]
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "Spooky"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "ArmyCrab",
@@ -3498,15 +4432,20 @@
       "MetalCut"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BUG]"],
-          "secondaryOptions": ["DarkCrab"]
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "DarkCrab"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "MadHornet",
@@ -3524,20 +4463,30 @@
       "TailWind"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Eyeder", "Droll"],
-          "secondaryOptions": ["[ZOMBIE]"]
+          "pedigreeOptions": [
+            "Eyeder",
+            "Droll"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["[BUG]"],
-          "secondaryOptions": ["FairyRat"]
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "FairyRat"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "HornBeet",
@@ -3555,20 +4504,29 @@
       "DevilCut"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["StagBug"],
-          "secondaryOptions": ["StagBug"]
+          "pedigreeOptions": [
+            "StagBug"
+          ],
+          "secondaryOptions": [
+            "StagBug"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["ArmorPede"],
-          "secondaryOptions": ["[DEVIL]"]
+          "pedigreeOptions": [
+            "ArmorPede"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "Armorpion",
@@ -3586,15 +4544,20 @@
       "EvilSlash"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["HornBeet"],
-          "secondaryOptions": ["HornBeet"]
+          "pedigreeOptions": [
+            "HornBeet"
+          ],
+          "secondaryOptions": [
+            "HornBeet"
+          ]
         }
       ]
-    }
+    },
+    "tier": 4
   },
   {
     "name": "Digster",
@@ -3612,15 +4575,20 @@
       "SealAll"
     ],
     "family": "Bug",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[BUG]"],
-          "secondaryOptions": ["[BOSS]"]
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[BOSS]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 4
   },
   {
     "name": "Pixy",
@@ -3638,16 +4606,20 @@
       "SealPray"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DEVIL]"],
-          "secondaryOptions": ["[SLIME]"]
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "MedusaEye",
@@ -3665,21 +4637,31 @@
       "Shears"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DEVIL]"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["MedusaEye", "1EyeClown", "Gremlin"],
-          "secondaryOptions": ["[ZOMBIE]"]
+          "pedigreeOptions": [
+            "MedusaEye",
+            "1EyeClown",
+            "Gremlin"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 2
   },
   {
     "name": "AgDevil",
@@ -3697,16 +4679,23 @@
       "SleepAir"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["SkulRider", "EvilBeast", "Gremlin", "MedusaEye"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "SkulRider",
+            "EvilBeast",
+            "Gremlin",
+            "MedusaEye"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 2
   },
   {
     "name": "Demonite",
@@ -3724,16 +4713,20 @@
       "FrigidAir"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DEVIL]"],
-          "secondaryOptions": ["[BIRD]"]
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "DarkEye",
@@ -3751,16 +4744,20 @@
       "Radiant"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DEVIL]"],
-          "secondaryOptions": ["[PLANT]"]
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "EyeBall",
@@ -3778,16 +4775,20 @@
       "Outside"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DEVIL]"],
-          "secondaryOptions": ["[BUG]"]
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "SkulRider",
@@ -3805,16 +4806,20 @@
       "LegSweep"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DEVIL]"],
-          "secondaryOptions": ["[ZOMBIE]"]
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "EvilBeast",
@@ -3832,16 +4837,20 @@
       "FrigidAir"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DEVIL]"],
-          "secondaryOptions": ["[MATERIAL]"]
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "1EyeClown",
@@ -3859,16 +4868,22 @@
       "Icebolt"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Pixy", "Demonite", "EyeBall"],
-          "secondaryOptions": ["[SLIME]"]
+          "pedigreeOptions": [
+            "Pixy",
+            "Demonite",
+            "EyeBall"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 2
   },
   {
     "name": "Gremlin",
@@ -3886,16 +4901,20 @@
       "StopSpell"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DEVIL]"],
-          "secondaryOptions": ["[BEAST]"]
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 1
   },
   {
     "name": "ArcDemon",
@@ -3913,30 +4932,60 @@
       "BoltSlash"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["AgDevil", "Grendal", "Gigantes"],
-          "secondaryOptions": ["SpotKing", "KingSlime", "MetalKing", "Andreal", "GreatDrak", "Orochi", "Trumpeter", "KingLeo", "ZapBird", "WhipBird", "MetalDrak", "StoneMan"]
+          "pedigreeOptions": [
+            "AgDevil",
+            "Grendal",
+            "Gigantes"
+          ],
+          "secondaryOptions": [
+            "SpotKing",
+            "KingSlime",
+            "MetalKing",
+            "Andreal",
+            "GreatDrak",
+            "Orochi",
+            "Trumpeter",
+            "KingLeo",
+            "ZapBird",
+            "WhipBird",
+            "MetalDrak",
+            "StoneMan"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["GateGuard"],
-          "secondaryOptions": ["[ZOMBIE]"]
-        }
-        ,{
+          "pedigreeOptions": [
+            "GateGuard"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
+        },
+        {
           "groupID": "C",
-          "pedigreeOptions": ["Ogre"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "Ogre"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         },
         {
           "groupID": "D",
-          "pedigreeOptions": ["[DEVIL]"],
-          "secondaryOptions": ["[BOSS]"]
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[BOSS]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "Lionex",
@@ -3954,20 +5003,29 @@
       "VacuSlash"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DEVIL]"],
-          "secondaryOptions": ["LizardMan"]
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "LizardMan"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["ArcDemon"],
-          "secondaryOptions": ["[ZOMBIE]"]
+          "pedigreeOptions": [
+            "ArcDemon"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "GoatHorn",
@@ -3985,20 +5043,29 @@
       "Icebolt"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["ArcDemon"],
-          "secondaryOptions": ["[BEAST]"]
+          "pedigreeOptions": [
+            "ArcDemon"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["[DEVIL]"],
-          "secondaryOptions": ["DarkHorn"]
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "DarkHorn"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "Orc",
@@ -4016,15 +5083,20 @@
       "BirdBlow"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DEVIL]"],
-          "secondaryOptions": ["BeanMan"]
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "BeanMan"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "Ogre",
@@ -4042,25 +5114,43 @@
       "Massacre"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DEVIL]"],
-          "secondaryOptions": ["HammerMan"]
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "HammerMan"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["GateGuard"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "GateGuard"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         },
         {
           "groupID": "C",
-          "pedigreeOptions": ["AgDevil", "Grendal", "Gigantes"],
-          "secondaryOptions": ["GulpBeast", "Unicorn", "Digster", " Roboster"]
+          "pedigreeOptions": [
+            "AgDevil",
+            "Grendal",
+            "Gigantes"
+          ],
+          "secondaryOptions": [
+            "GulpBeast",
+            "Unicorn",
+            "Digster",
+            " Roboster"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "GateGuard",
@@ -4078,25 +5168,49 @@
       "ThickFog"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Demonite"],
-          "secondaryOptions": ["Demonite"]
+          "pedigreeOptions": [
+            "Demonite"
+          ],
+          "secondaryOptions": [
+            "Demonite"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Ogre"],
-          "secondaryOptions": ["[ZOMBIE]"]
+          "pedigreeOptions": [
+            "Ogre"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
         },
         {
           "groupID": "C",
-          "pedigreeOptions": ["AgDevil", "Grendal", "Gigantes"],
-          "secondaryOptions": ["SlimeBorg", "Swordgon", "Coatol", "MistyWing", "MadCondor", "Rosevine", "GiantMoth", "Skullgon", "DeadNoble", "WhiteKing"]
+          "pedigreeOptions": [
+            "AgDevil",
+            "Grendal",
+            "Gigantes"
+          ],
+          "secondaryOptions": [
+            "SlimeBorg",
+            "Swordgon",
+            "Coatol",
+            "MistyWing",
+            "MadCondor",
+            "Rosevine",
+            "GiantMoth",
+            "Skullgon",
+            "DeadNoble",
+            "WhiteKing"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "ChopClown",
@@ -4114,16 +5228,20 @@
       "SquallHit"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["1EyeClown"],
-          "secondaryOptions": ["1EyeClown"]
+          "pedigreeOptions": [
+            "1EyeClown"
+          ],
+          "secondaryOptions": [
+            "1EyeClown"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 3
   },
   {
     "name": "Grendal",
@@ -4141,22 +5259,32 @@
       "Cover"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["SkulRider", "EvilBeast", "Gremlin", "MedusaEye"],
-          "secondaryOptions": ["[BEAST]"]
+          "pedigreeOptions": [
+            "SkulRider",
+            "EvilBeast",
+            "Gremlin",
+            "MedusaEye"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["[DEVIL]"],
-          "secondaryOptions": ["MadDragon"]
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "MadDragon"
+          ]
         }
-        
       ]
-    }
-
+    },
+    "tier": 3
   },
   {
     "name": "Akubar",
@@ -4174,21 +5302,29 @@
       "Focus"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["ArcDemon"],
-          "secondaryOptions": ["GateGuard"]
+          "pedigreeOptions": [
+            "ArcDemon"
+          ],
+          "secondaryOptions": [
+            "GateGuard"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Grendal"],
-          "secondaryOptions": ["Grendal"]
+          "pedigreeOptions": [
+            "Grendal"
+          ],
+          "secondaryOptions": [
+            "Grendal"
+          ]
         }
-        
       ]
-    }
+    },
+    "tier": 4
   },
   {
     "name": "MadKnight",
@@ -4206,16 +5342,20 @@
       "Massacre"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DEVIL]"],
-          "secondaryOptions": ["RogueNite"]
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "RogueNite"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 2
   },
   {
     "name": "Gigantes",
@@ -4233,21 +5373,30 @@
       "EvilSlash"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[DEVIL]"],
-          "secondaryOptions": ["BigEye"]
-        }, 
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "BigEye"
+          ]
+        },
         {
           "groupID": "B",
-          "pedigreeOptions": ["SkulRider", "EvilBeast"],
-          "secondaryOptions": ["[ZOMBIE]"]
+          "pedigreeOptions": [
+            "SkulRider",
+            "EvilBeast"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 3
   },
   {
     "name": "Centasaur",
@@ -4265,20 +5414,30 @@
       "RainSlash"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["ArcDemon"],
-          "secondaryOptions": ["[DRAGON]"]
-        }, 
+          "pedigreeOptions": [
+            "ArcDemon"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Ogre", "GateGuard"],
-          "secondaryOptions": ["[BEAST]"]
+          "pedigreeOptions": [
+            "Ogre",
+            "GateGuard"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "EvilArmor",
@@ -4296,20 +5455,31 @@
       "AquaCut"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["ArcDemon", "Ogre", "GateGuard"],
-          "secondaryOptions": ["[MATERIAL]"]
-        }, 
+          "pedigreeOptions": [
+            "ArcDemon",
+            "Ogre",
+            "GateGuard"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
+        },
         {
           "groupID": "B",
-          "pedigreeOptions": ["[DEVIL]"],
-          "secondaryOptions": ["ArmorPede"]
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "ArmorPede"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "Jamirus",
@@ -4327,20 +5497,29 @@
       "TailWind"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Akubar"],
-          "secondaryOptions": ["RainHawk"]
-        }, 
+          "pedigreeOptions": [
+            "Akubar"
+          ],
+          "secondaryOptions": [
+            "RainHawk"
+          ]
+        },
         {
           "groupID": "B",
-          "pedigreeOptions": ["RainHawk"],
-          "secondaryOptions": ["Akubar"]
+          "pedigreeOptions": [
+            "RainHawk"
+          ],
+          "secondaryOptions": [
+            "Akubar"
+          ]
         }
       ]
-    }
+    },
+    "tier": 4
   },
   {
     "name": "Durran",
@@ -4358,21 +5537,29 @@
       "BirdBlow"
     ],
     "family": "Devil",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["CentaSaur"],
-          "secondaryOptions": ["GoldGolem"]
-        }, 
+          "pedigreeOptions": [
+            "CentaSaur"
+          ],
+          "secondaryOptions": [
+            "GoldGolem"
+          ]
+        },
         {
           "groupID": "B",
-          "pedigreeOptions": ["RainHawk"],
-          "secondaryOptions": ["Akubar"]
+          "pedigreeOptions": [
+            "RainHawk"
+          ],
+          "secondaryOptions": [
+            "Akubar"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 5
   },
   {
     "name": "Spooky",
@@ -4390,15 +5577,20 @@
       "Outside"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[ZOMBIE]"],
-          "secondaryOptions": ["[SLIME]"]
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Skullgon",
@@ -4416,25 +5608,51 @@
       "TwinSlash"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Skullgon", "DeadNoble", "WhiteKing", "BoneSlave", "Skeletor"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "Skullgon",
+            "DeadNoble",
+            "WhiteKing",
+            "BoneSlave",
+            "Skeletor"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["[ZOMBIE]"],
-          "secondaryOptions": ["Swordgon", "Rayburn", "Andreal", "GreatDrak", "Orochi", "BattleRex", "Divinegon"]
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "Swordgon",
+            "Rayburn",
+            "Andreal",
+            "GreatDrak",
+            "Orochi",
+            "BattleRex",
+            "Divinegon"
+          ]
         },
         {
           "groupID": "C",
-          "pedigreeOptions": ["[DRAGON]"],
-          "secondaryOptions": ["Skullgon", "DeadNoble", "WhiteKing", "Servant"]
-        } 
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "Skullgon",
+            "DeadNoble",
+            "WhiteKing",
+            "Servant"
+          ]
+        }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "PutrePup",
@@ -4452,15 +5670,20 @@
       "MagicBack"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[ZOMBIE]"],
-          "secondaryOptions": ["[BEAST]"]
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "RotRaven",
@@ -4478,15 +5701,20 @@
       "Kamikaze"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[ZOMBIE]"],
-          "secondaryOptions": ["[BIRD]"]
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Mummy",
@@ -4504,15 +5732,20 @@
       "EvilSlash"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[ZOMBIE]"],
-          "secondaryOptions": ["[PLANT]"]
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "DarkCrab",
@@ -4530,15 +5763,20 @@
       "StepGuard"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[ZOMBIE]"],
-          "secondaryOptions": ["[BUG]"]
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "DeadNite",
@@ -4556,15 +5794,20 @@
       "CurseOff"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[ZOMBIE]"],
-          "secondaryOptions": ["[DEVIL]"]
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Shadow",
@@ -4582,15 +5825,20 @@
       "ThickFog"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[ZOMBIE]"],
-          "secondaryOptions": ["[MATERIAL]"]
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Hork",
@@ -4608,15 +5856,20 @@
       "LushLicks"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Spooky"],
-          "secondaryOptions": ["[BEAST]"]
+          "pedigreeOptions": [
+            "Spooky"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "Mudron",
@@ -4634,15 +5887,29 @@
       "Vivify"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[ZOMBIE]"],
-          "secondaryOptions": ["BoxSlime", "FangSlime", "Tonguella", "Yeti", "FunkyBird", "MadPlant", "DanceVegi", "GiantSlug", "Lipsy", "Droll"]
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "BoxSlime",
+            "FangSlime",
+            "Tonguella",
+            "Yeti",
+            "FunkyBird",
+            "MadPlant",
+            "DanceVegi",
+            "GiantSlug",
+            "Lipsy",
+            "Droll"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "NiteWhip",
@@ -4660,20 +5927,30 @@
       "Informer"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["DarkCrab", "MadSpirit"],
-          "secondaryOptions": ["[DEVIL]"]
+          "pedigreeOptions": [
+            "DarkCrab",
+            "MadSpirit"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["[ZOMBIE]"],
-          "secondaryOptions": ["MistyWing"]
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "MistyWing"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "WindMerge",
@@ -4691,20 +5968,29 @@
       "BirdBlow"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[ZOMBIE]"],
-          "secondaryOptions": ["WindBeast"]
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "WindBeast"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["RotRaven"],
-          "secondaryOptions": ["[BIRD]"]
+          "pedigreeOptions": [
+            "RotRaven"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "Reaper",
@@ -4722,20 +6008,30 @@
       "EerieLite"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[ZOMBIE]"],
-          "secondaryOptions": ["WeedBug"]
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "WeedBug"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Spooky", "Hork"],
-          "secondaryOptions": ["[DEVIL]"]
+          "pedigreeOptions": [
+            "Spooky",
+            "Hork"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "DeadNoble",
@@ -4753,25 +6049,49 @@
       "TatsuCall"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Mudron", "MadSpirit", "BoneSlave", "Skeletor"],
-          "secondaryOptions": ["ArcDemon", "Lionex", "GateGuard", "MetalDrak", "Roboster"]
+          "pedigreeOptions": [
+            "Mudron",
+            "MadSpirit",
+            "BoneSlave",
+            "Skeletor"
+          ],
+          "secondaryOptions": [
+            "ArcDemon",
+            "Lionex",
+            "GateGuard",
+            "MetalDrak",
+            "Roboster"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Skullgon", "DeadNite", "Mudron", "BoneSlave", "Skeletor"],
-          "secondaryOptions": ["CopyCat"]
+          "pedigreeOptions": [
+            "Skullgon",
+            "DeadNite",
+            "Mudron",
+            "BoneSlave",
+            "Skeletor"
+          ],
+          "secondaryOptions": [
+            "CopyCat"
+          ]
         },
         {
           "groupID": "C",
-          "pedigreeOptions": ["DeadNite"],
-          "secondaryOptions": ["DeadNite"]
+          "pedigreeOptions": [
+            "DeadNite"
+          ],
+          "secondaryOptions": [
+            "DeadNite"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "WhiteKing",
@@ -4789,20 +6109,41 @@
       "Chance"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Skullgon", "DeadNoble", "BoneSlave", "Skeletor"],
-          "secondaryOptions": ["SpotKing", "KingSlime", "MetalKing", "Andreal", "GreatDrak", "KingLeo", "Blizzardy", "ZapBird", "WhipBird", "GoldGolem"]
+          "pedigreeOptions": [
+            "Skullgon",
+            "DeadNoble",
+            "BoneSlave",
+            "Skeletor"
+          ],
+          "secondaryOptions": [
+            "SpotKing",
+            "KingSlime",
+            "MetalKing",
+            "Andreal",
+            "GreatDrak",
+            "KingLeo",
+            "Blizzardy",
+            "ZapBird",
+            "WhipBird",
+            "GoldGolem"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["[ZOMBIE]"],
-          "secondaryOptions": ["[BOSS]"]
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[BOSS]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 4
   },
   {
     "name": "BoneSlave",
@@ -4820,20 +6161,37 @@
       "BiAttack"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Mummy", "DeadNite", "Hork"],
-          "secondaryOptions": ["RockSlime", "SlimeBorg", "LandOwl", "MadGoose", "FloraMan", "HornBeet", "Gremlin"]
+          "pedigreeOptions": [
+            "Mummy",
+            "DeadNite",
+            "Hork"
+          ],
+          "secondaryOptions": [
+            "RockSlime",
+            "SlimeBorg",
+            "LandOwl",
+            "MadGoose",
+            "FloraMan",
+            "HornBeet",
+            "Gremlin"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Hork"],
-          "secondaryOptions": ["Hork"]
+          "pedigreeOptions": [
+            "Hork"
+          ],
+          "secondaryOptions": [
+            "Hork"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "Skeletor",
@@ -4851,25 +6209,49 @@
       "BiAttack"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Mummy", "DeadNite", "Hork", "Mudron"],
-          "secondaryOptions": ["GulpBeast", "Grizzly", "MadCat", "MadRaven", "MadCondor", "EvilBeast", "Ogre", "Golem", "StoneMan"]
+          "pedigreeOptions": [
+            "Mummy",
+            "DeadNite",
+            "Hork",
+            "Mudron"
+          ],
+          "secondaryOptions": [
+            "GulpBeast",
+            "Grizzly",
+            "MadCat",
+            "MadRaven",
+            "MadCondor",
+            "EvilBeast",
+            "Ogre",
+            "Golem",
+            "StoneMan"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["BoneSlave"],
-          "secondaryOptions": ["BoneSlave"]
+          "pedigreeOptions": [
+            "BoneSlave"
+          ],
+          "secondaryOptions": [
+            "BoneSlave"
+          ]
         },
         {
           "groupID": "C",
-          "pedigreeOptions": ["MadSpirit"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "MadSpirit"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "Servant",
@@ -4887,20 +6269,29 @@
       "Focus"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Skeletor"],
-          "secondaryOptions": ["Skeletor"]
+          "pedigreeOptions": [
+            "Skeletor"
+          ],
+          "secondaryOptions": [
+            "Skeletor"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["WhiteKing"],
-          "secondaryOptions": ["[DEVIL]"]
+          "pedigreeOptions": [
+            "WhiteKing"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 4
   },
   {
     "name": "Copycat",
@@ -4922,11 +6313,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[NONE]"],
-          "secondaryOptions": ["[NONE]"]
+          "pedigreeOptions": [
+            "[NONE]"
+          ],
+          "secondaryOptions": [
+            "[NONE]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "MadSpirit",
@@ -4944,20 +6340,34 @@
       "ThickFog"
     ],
     "family": "Zombie",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[ZOMBIE]"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Skullgon", "DeadNite", "Mudron", "DeadNoble", "BoneSlave", "Skeletor"],
-          "secondaryOptions": ["[BIRD]"]
+          "pedigreeOptions": [
+            "Skullgon",
+            "DeadNite",
+            "Mudron",
+            "DeadNoble",
+            "BoneSlave",
+            "Skeletor"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "JewelBag",
@@ -4975,15 +6385,20 @@
       "PanicAll"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[MATERIAL]"],
-          "secondaryOptions": ["[SLIME]"]
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "EvilWand",
@@ -5001,15 +6416,20 @@
       "MapMagic"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[MATERIAL]"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "MadCandle",
@@ -5027,15 +6447,20 @@
       "Whistle"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[MATERIAL]"],
-          "secondaryOptions": ["[BEAST]"]
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "CoilBird",
@@ -5053,15 +6478,20 @@
       "SealAll"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[MATERIAL]"],
-          "secondaryOptions": ["[BIRD]"]
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Facer",
@@ -5079,15 +6509,20 @@
       "LifeSong"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[MATERIAL]"],
-          "secondaryOptions": ["[PLANT]"]
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "SpikyBoy",
@@ -5105,15 +6540,20 @@
       "HighJump"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[MATERIAL]"],
-          "secondaryOptions": ["[BUG]"]
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "MadMirror",
@@ -5131,15 +6571,20 @@
       "Outside"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[MATERIAL]"],
-          "secondaryOptions": ["[DEVIL]"]
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "RogueNite",
@@ -5157,15 +6602,20 @@
       "EvilSlash"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[MATERIAL]"],
-          "secondaryOptions": ["[ZOMBIE]"]
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 1
   },
   {
     "name": "Goopi",
@@ -5183,15 +6633,20 @@
       "Dodge"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["JewelBag"],
-          "secondaryOptions": ["[SLIME]"]
+          "pedigreeOptions": [
+            "JewelBag"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "Voodoll",
@@ -5209,20 +6664,33 @@
       "PanicAll"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Golem", "StoneMan"],
-          "secondaryOptions": ["DrakSlime", "Snaily", "SlimeNite", "RockSlime"]
+          "pedigreeOptions": [
+            "Golem",
+            "StoneMan"
+          ],
+          "secondaryOptions": [
+            "DrakSlime",
+            "Snaily",
+            "SlimeNite",
+            "RockSlime"
+          ]
         },
         {
           "groupID": "A",
-          "pedigreeOptions": ["[MATERIAL]"],
-          "secondaryOptions": ["Lipsy"]
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "Lipsy"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "MetalDrak",
@@ -5240,26 +6708,47 @@
       "SandStorm"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Andreal", "Spikerous", "GreatDrak"],
-          "secondaryOptions": ["SlimeBorg", "KingSlime", "Digster", "Skullgon", "Roboster", "Golem", "StoneMan"]
+          "pedigreeOptions": [
+            "Andreal",
+            "Spikerous",
+            "GreatDrak"
+          ],
+          "secondaryOptions": [
+            "SlimeBorg",
+            "KingSlime",
+            "Digster",
+            "Skullgon",
+            "Roboster",
+            "Golem",
+            "StoneMan"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["MetalDrak", "Roboster"],
-          "secondaryOptions": ["[DRAGON]"]
+          "pedigreeOptions": [
+            "MetalDrak",
+            "Roboster"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
         },
         {
           "groupID": "C",
-          "pedigreeOptions": ["[MATERIAL]"],
-          "secondaryOptions": ["Andreal"]
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "Andreal"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 3
   },
   {
     "name": "Balzak",
@@ -5277,20 +6766,30 @@
       "MultiCut"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["LavaMan", "Iceman"],
-          "secondaryOptions": ["[DEVIL]"]
+          "pedigreeOptions": [
+            "LavaMan",
+            "Iceman"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
         },
         {
           "groupID": "A",
-          "pedigreeOptions": ["[MATERIAL]"],
-          "secondaryOptions": ["[BOSS]"]
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[BOSS]"
+          ]
         }
       ]
-    }
+    },
+    "tier": 4
   },
   {
     "name": "SabreMan",
@@ -5308,21 +6807,35 @@
       "Paralyze"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["[MATERIAL]"],
-          "secondaryOptions": ["GiantWorm"]
-        }, 
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "GiantWorm"
+          ]
+        },
         {
           "groupID": "B",
-          "pedigreeOptions": ["EvilWand", "Voodoll", "Golem", "StoneMan"],
-          "secondaryOptions": ["LandOwl", "MadGoose", "Phoenix", "FunkyBird"]
+          "pedigreeOptions": [
+            "EvilWand",
+            "Voodoll",
+            "Golem",
+            "StoneMan"
+          ],
+          "secondaryOptions": [
+            "LandOwl",
+            "MadGoose",
+            "Phoenix",
+            "FunkyBird"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 2
   },
   {
     "name": "CurseLamp",
@@ -5340,20 +6853,29 @@
       "TwinHits"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Roboster"],
-          "secondaryOptions": ["[BIRD]"]
-        }, 
+          "pedigreeOptions": [
+            "Roboster"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
+        },
         {
           "groupID": "B",
-          "pedigreeOptions": ["[MATERIAL]"],
-          "secondaryOptions": ["WingTree"]
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "WingTree"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "Roboster",
@@ -5371,21 +6893,40 @@
       "RainSlash"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["SabreMan"],
-          "secondaryOptions": ["SlimeBorg", "GreatDrak", "Unicorn", "Ogre", "Grendal", "EvilArmor", "DeadNoble", "Skeletor"]
-        }, 
+          "pedigreeOptions": [
+            "SabreMan"
+          ],
+          "secondaryOptions": [
+            "SlimeBorg",
+            "GreatDrak",
+            "Unicorn",
+            "Ogre",
+            "Grendal",
+            "EvilArmor",
+            "DeadNoble",
+            "Skeletor"
+          ]
+        },
         {
           "groupID": "B",
-          "pedigreeOptions": ["[MATERIAL]"],
-          "secondaryOptions": ["GulpBeast", "Grizzly", "Trumpeter", "KingLeo", "SkulRider"]
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "GulpBeast",
+            "Grizzly",
+            "Trumpeter",
+            "KingLeo",
+            "SkulRider"
+          ]
         }
       ]
-    }
-
+    },
+    "tier": 3
   },
   {
     "name": "EvilPot",
@@ -5403,20 +6944,29 @@
       "Outside"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Gismo"],
-          "secondaryOptions": ["[DEVIL]"]
-        }, 
+          "pedigreeOptions": [
+            "Gismo"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        },
         {
           "groupID": "B",
-          "pedigreeOptions": ["[MATERIAL]"],
-          "secondaryOptions": ["Snaily"]
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "Snaily"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "Gizmo",
@@ -5434,15 +6984,27 @@
       "SuckAir"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["MadCandle", "MadMirror", "Goopi"],
-          "secondaryOptions": ["DrakSlime", "Wyvern", "MistyWing", "Phoenix", "FireWeed", "EvilSeed"]
+          "pedigreeOptions": [
+            "MadCandle",
+            "MadMirror",
+            "Goopi"
+          ],
+          "secondaryOptions": [
+            "DrakSlime",
+            "Wyvern",
+            "MistyWing",
+            "Phoenix",
+            "FireWeed",
+            "EvilSeed"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "LavaMan",
@@ -5460,15 +7022,24 @@
       "Cover"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["MetalDrak"],
-          "secondaryOptions": ["Orochi", "KingLeo", "ZapBird", "ArcDemon", "Centasaur"] 
+          "pedigreeOptions": [
+            "MetalDrak"
+          ],
+          "secondaryOptions": [
+            "Orochi",
+            "KingLeo",
+            "ZapBird",
+            "ArcDemon",
+            "Centasaur"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "IceMan",
@@ -5490,16 +7061,26 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["MetalDrak"],
-          "secondaryOptions": ["Skullgon", "WhiteKing"]
+          "pedigreeOptions": [
+            "MetalDrak"
+          ],
+          "secondaryOptions": [
+            "Skullgon",
+            "WhiteKing"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["Roboster"],
-          "secondaryOptions": ["KingLeo"]
+          "pedigreeOptions": [
+            "Roboster"
+          ],
+          "secondaryOptions": [
+            "KingLeo"
+          ]
         }
       ]
-    }
+    },
+    "tier": 3
   },
   {
     "name": "Mimic",
@@ -5521,16 +7102,25 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Roboster"],
-          "secondaryOptions": ["[ZOMBIE]"]
+          "pedigreeOptions": [
+            "Roboster"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
         },
         {
           "groupID": "B",
-          "pedigreeOptions": ["[MATERIAL]"],
-          "secondaryOptions": ["BoxSlime"]
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "BoxSlime"
+          ]
         }
       ]
-    }
+    },
+    "tier": 2
   },
   {
     "name": "MudDoll",
@@ -5552,11 +7142,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Goopi"],
-          "secondaryOptions": ["Goopi"]
+          "pedigreeOptions": [
+            "Goopi"
+          ],
+          "secondaryOptions": [
+            "Goopi"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 3
   },
   {
     "name": "Golem",
@@ -5578,11 +7173,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["MudDoll"],
-          "secondaryOptions": ["MudDoll"]
+          "pedigreeOptions": [
+            "MudDoll"
+          ],
+          "secondaryOptions": [
+            "MudDoll"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 4
   },
   {
     "name": "StoneMan",
@@ -5604,16 +7204,26 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Golem"],
-          "secondaryOptions": ["Golem"]
+          "pedigreeOptions": [
+            "Golem"
+          ],
+          "secondaryOptions": [
+            "Golem"
+          ]
         },
         {
           "groupID": "A",
-          "pedigreeOptions": ["[MATERIAL]"],
-          "secondaryOptions": ["HornBeet", "Digster"]
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "HornBeet",
+            "Digster"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 5
   },
   {
     "name": "BombCrag",
@@ -5631,20 +7241,29 @@
       "RockThrow"
     ],
     "family": "Material",
-      "breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["SpikyBoy"],
-          "secondaryOptions": ["SpikyBoy"]
+          "pedigreeOptions": [
+            "SpikyBoy"
+          ],
+          "secondaryOptions": [
+            "SpikyBoy"
+          ]
         },
         {
           "groupID": "A",
-          "pedigreeOptions": ["Roboster"],
-          "secondaryOptions": ["[BUG]"]
+          "pedigreeOptions": [
+            "Roboster"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 3
   },
   {
     "name": "GoldGolem",
@@ -5662,15 +7281,20 @@
       "TatsuCall"
     ],
     "family": "Material",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Iceman"],
-          "secondaryOptions": ["LavaMan"]
+          "pedigreeOptions": [
+            "Iceman"
+          ],
+          "secondaryOptions": [
+            "LavaMan"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 5
   },
   {
     "name": "DracoLord",
@@ -5688,15 +7312,21 @@
       "Meditate"
     ],
     "family": "Boss",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Servant"],
-          "secondaryOptions": ["Andreal", "GreatDrak"]
+          "pedigreeOptions": [
+            "Servant"
+          ],
+          "secondaryOptions": [
+            "Andreal",
+            "GreatDrak"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 5
   },
   {
     "name": "DracoLord2",
@@ -5714,15 +7344,20 @@
       "Surge"
     ],
     "family": "Boss",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["DracoLord"],
-          "secondaryOptions": ["Divinegon"]
+          "pedigreeOptions": [
+            "DracoLord"
+          ],
+          "secondaryOptions": [
+            "Divinegon"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 6
   },
   {
     "name": "Hargon",
@@ -5740,15 +7375,20 @@
       "TatsuCall"
     ],
     "family": "Boss",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["WhiteKing"],
-          "secondaryOptions": ["MetalKing"]
+          "pedigreeOptions": [
+            "WhiteKing"
+          ],
+          "secondaryOptions": [
+            "MetalKing"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 6
   },
   {
     "name": "Sidoh",
@@ -5766,15 +7406,20 @@
       "FrigidAir"
     ],
     "family": "Boss",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Jamirus"],
-          "secondaryOptions": ["Rosevine"]
+          "pedigreeOptions": [
+            "Jamirus"
+          ],
+          "secondaryOptions": [
+            "Rosevine"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 6
   },
   {
     "name": "Baramos",
@@ -5792,15 +7437,20 @@
       "RockThrow"
     ],
     "family": "Boss",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Hargon"],
-          "secondaryOptions": ["Orochi"]
+          "pedigreeOptions": [
+            "Hargon"
+          ],
+          "secondaryOptions": [
+            "Orochi"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 6
   },
   {
     "name": "Zoma",
@@ -5822,11 +7472,16 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["DracoLord"],
-          "secondaryOptions": ["Sidoh"]
+          "pedigreeOptions": [
+            "DracoLord"
+          ],
+          "secondaryOptions": [
+            "Sidoh"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 7
   },
   {
     "name": "Pizzaro",
@@ -5844,15 +7499,20 @@
       "BiAttack"
     ],
     "family": "Boss",
-      "breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Durran"],
-          "secondaryOptions": ["Divinegon"]
+          "pedigreeOptions": [
+            "Durran"
+          ],
+          "secondaryOptions": [
+            "Divinegon"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 7
   },
   {
     "name": "Esterk",
@@ -5870,15 +7530,20 @@
       "GigaSlash"
     ],
     "family": "Boss",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Pizzaro"],
-          "secondaryOptions": ["KingLeo"]
+          "pedigreeOptions": [
+            "Pizzaro"
+          ],
+          "secondaryOptions": [
+            "KingLeo"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 8
   },
   {
     "name": "Mirudraas",
@@ -5896,15 +7561,20 @@
       "Bolt"
     ],
     "family": "Boss",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Esterk"],
-          "secondaryOptions": ["GoldSlime"]
+          "pedigreeOptions": [
+            "Esterk"
+          ],
+          "secondaryOptions": [
+            "GoldSlime"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 9
   },
   {
     "name": "Mirudraas2",
@@ -5922,15 +7592,20 @@
       "SuckAir"
     ],
     "family": "Boss",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Mirudraas"],
-          "secondaryOptions": ["Spikerous"]
+          "pedigreeOptions": [
+            "Mirudraas"
+          ],
+          "secondaryOptions": [
+            "Spikerous"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 10
   },
   {
     "name": "Mudou",
@@ -5948,15 +7623,20 @@
       "PoisonGas"
     ],
     "family": "Boss",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Baramos"],
-          "secondaryOptions": ["DarkHorn"]
+          "pedigreeOptions": [
+            "Baramos"
+          ],
+          "secondaryOptions": [
+            "DarkHorn"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 7
   },
   {
     "name": "DeathMore",
@@ -5974,15 +7654,20 @@
       "TatsuCall"
     ],
     "family": "Boss",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Zoma"],
-          "secondaryOptions": ["Mirudraas"]
+          "pedigreeOptions": [
+            "Zoma"
+          ],
+          "secondaryOptions": [
+            "Mirudraas"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 10
   },
   {
     "name": "DeathMore2",
@@ -6000,15 +7685,20 @@
       "UltraDown"
     ],
     "family": "Boss",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Deathmore"],
-          "secondaryOptions": ["Armorpion"]
+          "pedigreeOptions": [
+            "Deathmore"
+          ],
+          "secondaryOptions": [
+            "Armorpion"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 11
   },
   {
     "name": "DeathMore3",
@@ -6026,15 +7716,20 @@
       "Focus"
     ],
     "family": "Boss",
-"breeding": {
+    "breeding": {
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Deathmore"],
-          "secondaryOptions": ["Mudou"]
+          "pedigreeOptions": [
+            "Deathmore"
+          ],
+          "secondaryOptions": [
+            "Mudou"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 12
   },
   {
     "name": "Darkdrium",
@@ -6056,10 +7751,15 @@
       "pairGroups": [
         {
           "groupID": "A",
-          "pedigreeOptions": ["Deathmore"],
-          "secondaryOptions": ["Watabou"]
+          "pedigreeOptions": [
+            "Deathmore"
+          ],
+          "secondaryOptions": [
+            "Watabou"
+          ]
         }
       ]
-    } 
+    },
+    "tier": 13
   }
 ]
