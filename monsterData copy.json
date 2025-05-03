@@ -1,0 +1,7765 @@
+[
+  {
+    "name": "DrakSlime",
+    "ML": 45,
+    "EP": 13,
+    "HP": 16,
+    "MP": 10,
+    "AT": 13,
+    "DF": 8,
+    "AG": 20,
+    "IN": 16,
+    "skills": [
+      "BeDragon",
+      "FireAir",
+      "SuckAir"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "SpotSlime",
+    "ML": 35,
+    "EP": 10,
+    "HP": 17,
+    "MP": 1,
+    "AT": 17,
+    "DF": 4,
+    "AG": 17,
+    "IN": 8,
+    "skills": [
+      "CallHelp",
+      "LushLicks",
+      "Imitate"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "WingSlime",
+    "ML": 35,
+    "EP": 10,
+    "HP": 13,
+    "MP": 2,
+    "AT": 11,
+    "DF": 11,
+    "AG": 24,
+    "IN": 8,
+    "skills": [
+      "WindBeast",
+      "SquallHit",
+      "TailWind"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "TreeSlime",
+    "ML": 50,
+    "EP": 11,
+    "HP": 13,
+    "MP": 11,
+    "AT": 8,
+    "DF": 14,
+    "AG": 17,
+    "IN": 17,
+    "skills": [
+      "Sap",
+      "Paralyze",
+      "SleepAir"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Snaily",
+    "ML": 35,
+    "EP": 8,
+    "HP": 11,
+    "MP": 10,
+    "AT": 17,
+    "DF": 20,
+    "AG": 20,
+    "IN": 8,
+    "skills": [
+      "Icebolt",
+      "NumbOff",
+      "CallHelp"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "SlimeNite",
+    "ML": 40,
+    "EP": 15,
+    "HP": 14,
+    "MP": 1,
+    "AT": 15,
+    "DF": 14,
+    "AG": 20,
+    "IN": 14,
+    "skills": [
+      "Heal",
+      "Upper",
+      "BeastCut"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Babble",
+    "ML": 45,
+    "EP": 12,
+    "HP": 17,
+    "MP": 7,
+    "AT": 17,
+    "DF": 8,
+    "AG": 14,
+    "IN": 13,
+    "skills": [
+      "Surround",
+      "PoisonHit",
+      "EerieLite"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Poisongon"
+          ],
+          "secondaryOptions": [
+            "GiantMoth"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "BoxSlime",
+    "ML": 50,
+    "EP": 11,
+    "HP": 11,
+    "MP": 10,
+    "AT": 14,
+    "DF": 19,
+    "AG": 14,
+    "IN": 13,
+    "skills": [
+      "Blaze",
+      "Upper",
+      "Ramming"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Slime",
+    "ML": 40,
+    "EP": 16,
+    "HP": 22,
+    "MP": 11,
+    "AT": 14,
+    "DF": 17,
+    "AG": 11,
+    "IN": 13,
+    "skills": [
+      "Firebal",
+      "MegaMagic",
+      "Radiant"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[NONE]"
+          ],
+          "secondaryOptions": [
+            "[NONE]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Healer",
+    "ML": 50,
+    "EP": 11,
+    "HP": 11,
+    "MP": 15,
+    "AT": 11,
+    "DF": 11,
+    "AG": 20,
+    "IN": 18,
+    "skills": [
+      "Heal",
+      "HealUs",
+      "Upper"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "PillowRat",
+            "FunkyBird",
+            "MadPlant",
+            "CopyCat"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "FangSlime",
+    "ML": 35,
+    "EP": 10,
+    "HP": 25,
+    "MP": 1,
+    "AT": 18,
+    "DF": 13,
+    "AG": 20,
+    "IN": 13,
+    "skills": [
+      "CallHelp",
+      "ChargeUp",
+      "WarCry"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "Almiraj",
+            "GulpBeast",
+            "Trumpeter",
+            "KingLeo",
+            "DarkHorn",
+            "MadCat"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "RockSlime",
+    "ML": 45,
+    "EP": 11,
+    "HP": 13,
+    "MP": 10,
+    "AT": 14,
+    "DF": 23,
+    "AG": 16,
+    "IN": 14,
+    "skills": [
+      "HighJump",
+      "Ramming",
+      "StrongD"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "Digster",
+            "DeadNite",
+            "Golem",
+            "StoneMan",
+            "BombCrag"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "SlimeBorg",
+    "ML": 50,
+    "EP": 11,
+    "HP": 18,
+    "MP": 11,
+    "AT": 20,
+    "DF": 15,
+    "AG": 14,
+    "IN": 13,
+    "skills": [
+      "Lightning",
+      "RainSlash",
+      "BladeD"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[Roboster]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "DrakSlime",
+            "SlimeNite",
+            "RockSlime",
+            "Metablle"
+          ],
+          "secondaryOptions": [
+            "Swordgon",
+            "Spikerous",
+            "GreatDrak",
+            "BattleRex",
+            "SkyDragon"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Slabbit",
+    "ML": 35,
+    "EP": 10,
+    "HP": 15,
+    "MP": 7,
+    "AT": 14,
+    "DF": 8,
+    "AG": 21,
+    "IN": 15,
+    "skills": [
+      "SideStep",
+      "LegSweep",
+      "Whistle"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "Skullroo"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "KingSlime",
+    "ML": 45,
+    "EP": 12,
+    "HP": 18,
+    "MP": 14,
+    "AT": 15,
+    "DF": 14,
+    "AG": 20,
+    "IN": 15,
+    "skills": [
+      "Mpass",
+      "Barrier",
+      "Vivify"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "[BOSS]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "SpotKing"
+          ],
+          "secondaryOptions": [
+            "GreatDrak",
+            "BattleRex",
+            "Divinegon",
+            "Unicorn",
+            "KingLeo",
+            "MadCondor",
+            "ZapBird",
+            "WhipBird",
+            "Gigantes",
+            "Centasaur",
+            "DeadNoble",
+            "WhiteKing"
+          ]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": [
+            "[SLIME] +4"
+          ],
+          "secondaryOptions": [
+            "[SLIME] +4"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Metaly",
+    "ML": 20,
+    "EP": 25,
+    "HP": 0,
+    "MP": 30,
+    "AT": 11,
+    "DF": 30,
+    "AG": 31,
+    "IN": 13,
+    "skills": [
+      "Blaze",
+      "Icebolt",
+      "Beat"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[SLIME]"
+          ],
+          "secondaryOptions": [
+            "MetalDrak"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Metabble",
+    "ML": 35,
+    "EP": 27,
+    "HP": 0,
+    "MP": 30,
+    "AT": 14,
+    "DF": 31,
+    "AG": 31,
+    "IN": 15,
+    "skills": [
+      "Firebal",
+      "Bang",
+      "Sacrifice"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Metaly"
+          ],
+          "secondaryOptions": [
+            "Metaly"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "SpotKing",
+    "ML": 45,
+    "EP": 9,
+    "HP": 18,
+    "MP": 11,
+    "AT": 18,
+    "DF": 11,
+    "AG": 20,
+    "IN": 15,
+    "skills": [
+      "CleanCut",
+      "NapAttack",
+      "MouthShut"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "KingSlime",
+            "MetalKing"
+          ],
+          "secondaryOptions": [
+            "GreatDrak",
+            "BattleRex",
+            "Divinegon",
+            "Unicorn",
+            "KingLeo",
+            "MadCondor",
+            "ZapBird",
+            "WhipBird",
+            "Gigantes",
+            "Centasaur",
+            "DeadNoble",
+            "WhiteKing"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "SpotSlime"
+          ],
+          "secondaryOptions": [
+            "SpotSlime"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "MetalKing",
+    "ML": 55,
+    "EP": 29,
+    "HP": 0,
+    "MP": 31,
+    "AT": 15,
+    "DF": 31,
+    "AG": 31,
+    "IN": 18,
+    "skills": [
+      "Bolt",
+      "Ironize",
+      "HellBlast"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "SpotKing",
+            "KingSlime"
+          ],
+          "secondaryOptions": [
+            "MetalDrak"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Metabble"
+          ],
+          "secondaryOptions": [
+            "Metabble"
+          ]
+        }
+      ]
+    },
+    "tier": 4
+  },
+  {
+    "name": "GoldSlime",
+    "ML": 70,
+    "EP": 31,
+    "HP": 0,
+    "MP": 31,
+    "AT": 19,
+    "DF": 31,
+    "AG": 31,
+    "IN": 18,
+    "skills": [
+      "Chance",
+      "BigBang",
+      "Surge"
+    ],
+    "family": "Slime",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "SpotKing",
+            "KingSlime",
+            "MetalKing"
+          ],
+          "secondaryOptions": [
+            "GoldGolem"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "MetalKing"
+          ],
+          "secondaryOptions": [
+            "MetalKing"
+          ]
+        }
+      ]
+    },
+    "tier": 5
+  },
+  {
+    "name": "DragonKid",
+    "ML": 30,
+    "EP": 7,
+    "HP": 10,
+    "MP": 3,
+    "AT": 17,
+    "DF": 2,
+    "AG": 5,
+    "IN": 5,
+    "skills": [
+      "FireAir",
+      "SleepAir",
+      "Dodge"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Tortragon",
+    "ML": 35,
+    "EP": 17,
+    "HP": 15,
+    "MP": 11,
+    "AT": 18,
+    "DF": 6,
+    "AG": 7,
+    "IN": 13,
+    "skills": [
+      "Ironize",
+      "MagicBack",
+      "Lightning"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Pteranod",
+    "ML": 35,
+    "EP": 16,
+    "HP": 14,
+    "MP": 11,
+    "AT": 18,
+    "DF": 2,
+    "AG": 20,
+    "IN": 4,
+    "skills": [
+      "Firebal",
+      "WindBeast",
+      "TailWind"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Gasgon",
+    "ML": 50,
+    "EP": 18,
+    "HP": 17,
+    "MP": 15,
+    "AT": 13,
+    "DF": 11,
+    "AG": 7,
+    "IN": 18,
+    "skills": [
+      "Sacrifice",
+      "Farewell",
+      "Beserker"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "FairyDrak",
+    "ML": 30,
+    "EP": 15,
+    "HP": 9,
+    "MP": 13,
+    "AT": 17,
+    "DF": 16,
+    "AG": 14,
+    "IN": 4,
+    "skills": [
+      "Surround",
+      "SleepAir",
+      "LushLicks"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "LizardMan",
+    "ML": 45,
+    "EP": 20,
+    "HP": 17,
+    "MP": 10,
+    "AT": 19,
+    "DF": 13,
+    "AG": 5,
+    "IN": 16,
+    "skills": [
+      "AquaCut",
+      "GigaSlash",
+      "EvilSlash"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Poisongon",
+    "ML": 45,
+    "EP": 19,
+    "HP": 21,
+    "MP": 16,
+    "AT": 15,
+    "DF": 13,
+    "AG": 7,
+    "IN": 1,
+    "skills": [
+      "PoisonHit",
+      "PoisonGas",
+      "LushLicks"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Swordgon",
+    "ML": 50,
+    "EP": 20,
+    "HP": 9,
+    "MP": 3,
+    "AT": 23,
+    "DF": 6,
+    "AG": 1,
+    "IN": 5,
+    "skills": [
+      "CleanCut",
+      "RainSlash",
+      "BladeD"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Dragon",
+    "ML": 40,
+    "EP": 20,
+    "HP": 17,
+    "MP": 1,
+    "AT": 20,
+    "DF": 16,
+    "AG": 7,
+    "IN": 4,
+    "skills": [
+      "FireAir",
+      "FireSlash",
+      "SealAll"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "DragonKid"
+          ],
+          "secondaryOptions": [
+            "DragonKid"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "MiniDrak",
+    "ML": 35,
+    "EP": 16,
+    "HP": 14,
+    "MP": 8,
+    "AT": 17,
+    "DF": 14,
+    "AG": 18,
+    "IN": 10,
+    "skills": [
+      "CallHelp",
+      "Ramming",
+      "SandStorm"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "DragonKid"
+          ],
+          "secondaryOptions": [
+            "[Picky]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "MadDragon",
+    "ML": 35,
+    "EP": 19,
+    "HP": 19,
+    "MP": 0,
+    "AT": 21,
+    "DF": 5,
+    "AG": 8,
+    "IN": 0,
+    "skills": [
+      "EvilSlash",
+      "Massacre",
+      "CureDance"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "GulpBeast"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Gasgon"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Rayburn",
+    "ML": 35,
+    "EP": 17,
+    "HP": 14,
+    "MP": 2,
+    "AT": 17,
+    "DF": 16,
+    "AG": 15,
+    "IN": 5,
+    "skills": [
+      "VacuSlash",
+      "DevilCut",
+      "PoisonHit"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "MadCondor"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "LizardMan"
+          ],
+          "secondaryOptions": [
+            "WingSlime",
+            "Trumpeter",
+            "MadCat",
+            "FaceTree",
+            "Lionex",
+            "GoatHorn",
+            "GateGuard",
+            "Gigantes"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Chamelgon",
+    "ML": 40,
+    "EP": 19,
+    "HP": 17,
+    "MP": 18,
+    "AT": 11,
+    "DF": 6,
+    "AG": 8,
+    "IN": 13,
+    "skills": [
+      "PanicAll",
+      "Paralyze",
+      "PalsyAir"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "Voodoll"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "LizardFly",
+    "ML": 30,
+    "EP": 16,
+    "HP": 11,
+    "MP": 11,
+    "AT": 17,
+    "DF": 17,
+    "AG": 13,
+    "IN": 5,
+    "skills": [
+      "Firebal",
+      "Sap",
+      "FireAir"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "GoHopper"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Andreal",
+    "ML": 50,
+    "EP": 22,
+    "HP": 21,
+    "MP": 15,
+    "AT": 19,
+    "DF": 17,
+    "AG": 19,
+    "IN": 12,
+    "skills": [
+      "Infernos",
+      "Surround",
+      "PoisonGas"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "Gulpple"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Gasgon",
+            "MadDragon",
+            "BattleRex",
+            "SkyDragon"
+          ],
+          "secondaryOptions": [
+            "Goategon",
+            "Trumpeter",
+            "MadCondor",
+            "WhipBird",
+            "FunkyBird",
+            "ArcDemon",
+            "Lionex",
+            "GoatHorn",
+            "Ogre",
+            "Akubar",
+            "DeadNoble",
+            "Golem"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "KingCobra",
+    "ML": 40,
+    "EP": 20,
+    "HP": 18,
+    "MP": 8,
+    "AT": 16,
+    "DF": 13,
+    "AG": 19,
+    "IN": 11,
+    "skills": [
+      "PoisonHit",
+      "Curse",
+      "K.O.Dance"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "Babble"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Spikerous",
+    "ML": 35,
+    "EP": 19,
+    "HP": 20,
+    "MP": 8,
+    "AT": 19,
+    "DF": 24,
+    "AG": 1,
+    "IN": 2,
+    "skills": [
+      "RockThrow",
+      "Beserker",
+      "Kamikaze"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "ArmyCrab",
+            "Digster"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "GreatDrak",
+    "ML": 60,
+    "EP": 23,
+    "HP": 21,
+    "MP": 5,
+    "AT": 23,
+    "DF": 14,
+    "AG": 16,
+    "IN": 11,
+    "skills": [
+      "FrigidAir",
+      "IceSlash",
+      "SealAll"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "SpotKing",
+            "KingSlime",
+            "MetalKing",
+            "BattleRex",
+            "Unicorn",
+            "ZapBird",
+            "WhipBird",
+            "Gigantes",
+            "Centasaur"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Dragon +4"
+          ],
+          "secondaryOptions": [
+            "Dragon +4"
+          ]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": [
+            "DragonKid +4"
+          ],
+          "secondaryOptions": [
+            "DragonKid +4"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Crestpent",
+    "ML": 35,
+    "EP": 18,
+    "HP": 14,
+    "MP": 4,
+    "AT": 15,
+    "DF": 5,
+    "AG": 19,
+    "IN": 8,
+    "skills": [
+      "StopSpell",
+      "BeDragon",
+      "PoisonHit"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "BigRoost"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "WingSnake",
+    "ML": 45,
+    "EP": 20,
+    "HP": 15,
+    "MP": 8,
+    "AT": 20,
+    "DF": 17,
+    "AG": 14,
+    "IN": 11,
+    "skills": [
+      "SquallHit",
+      "HighJump",
+      "PoisonGas"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Crestpent"
+          ],
+          "secondaryOptions": [
+            "Crestpent"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Coatol",
+    "ML": 60,
+    "EP": 23,
+    "HP": 25,
+    "MP": 14,
+    "AT": 20,
+    "DF": 22,
+    "AG": 18,
+    "IN": 14,
+    "skills": [
+      "Bang",
+      "BoltSlash",
+      "EvilSlash"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Pteranod",
+            "Gasgon",
+            "LizardMan",
+            "BattleRex",
+            "SkyDragon"
+          ],
+          "secondaryOptions": [
+            "DarkHorn",
+            "MadKnight",
+            "CopyCat",
+            "StoneMan"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "WingSnake"
+          ],
+          "secondaryOptions": [
+            "WingSnake"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Orochi",
+    "ML": 60,
+    "EP": 22,
+    "HP": 24,
+    "MP": 13,
+    "AT": 24,
+    "DF": 21,
+    "AG": 11,
+    "IN": 8,
+    "skills": [
+      "FireAir",
+      "FireSlash",
+      "BiAttack"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Andreal",
+            "GreatDrak"
+          ],
+          "secondaryOptions": [
+            "MedusaEye"
+          ]
+        }
+      ]
+    },
+    "tier": 4
+  },
+  {
+    "name": "BattleRex",
+    "ML": 60,
+    "EP": 22,
+    "HP": 23,
+    "MP": 16,
+    "AT": 26,
+    "DF": 20,
+    "AG": 17,
+    "IN": 16,
+    "skills": [
+      "FireAir",
+      "MetalCut",
+      "EvilSlash"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "KingLeo",
+            "Lionex",
+            "Ogre",
+            "MadKnight",
+            "EvilArmor"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "SkyDragon",
+    "ML": 40,
+    "EP": 18,
+    "HP": 15,
+    "MP": 11,
+    "AT": 20,
+    "DF": 14,
+    "AG": 18,
+    "IN": 8,
+    "skills": [
+      "FireAir",
+      "MultiCut",
+      "SuckAir"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "Phoenix"
+          ]
+        }
+      ]
+    },
+    "tier": 4
+  },
+  {
+    "name": "Divinegon",
+    "ML": 70,
+    "EP": 28,
+    "HP": 26,
+    "MP": 25,
+    "AT": 28,
+    "DF": 24,
+    "AG": 20,
+    "IN": 23,
+    "skills": [
+      "BigBang",
+      "FrigidAir",
+      "Meditate"
+    ],
+    "family": "Dragon",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "SkyDragon"
+          ],
+          "secondaryOptions": [
+            "Orochi"
+          ]
+        }
+      ]
+    },
+    "tier": 5
+  },
+  {
+    "name": "Tonguella",
+    "ML": 40,
+    "EP": 12,
+    "HP": 14,
+    "MP": 5,
+    "AT": 15,
+    "DF": 12,
+    "AG": 11,
+    "IN": 16,
+    "skills": [
+      "NapAttack",
+      "SleepAir",
+      "LushLicks"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Almiraj",
+    "ML": 45,
+    "EP": 13,
+    "HP": 18,
+    "MP": 5,
+    "AT": 14,
+    "DF": 9,
+    "AG": 15,
+    "IN": 4,
+    "skills": [
+      "Sleep",
+      "ChargeUp",
+      "Beserker"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "CatFly",
+    "ML": 35,
+    "EP": 10,
+    "HP": 11,
+    "MP": 10,
+    "AT": 13,
+    "DF": 8,
+    "AG": 18,
+    "IN": 14,
+    "skills": [
+      "Slow",
+      "StopSpell",
+      "OddDance"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "PillowRat",
+    "ML": 35,
+    "EP": 11,
+    "HP": 14,
+    "MP": 17,
+    "AT": 8,
+    "DF": 8,
+    "AG": 19,
+    "IN": 13,
+    "skills": [
+      "Slow",
+      "Ramming",
+      "SideStep"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Saccer",
+    "ML": 40,
+    "EP": 9,
+    "HP": 16,
+    "MP": 5,
+    "AT": 9,
+    "DF": 17,
+    "AG": 0,
+    "IN": 13,
+    "skills": [
+      "Upper",
+      "PsycheUp",
+      "PalsyAir"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "GulpBeast",
+    "ML": 45,
+    "EP": 13,
+    "HP": 24,
+    "MP": 1,
+    "AT": 26,
+    "DF": 13,
+    "AG": 7,
+    "IN": 1,
+    "skills": [
+      "Massacre",
+      "Ramming",
+      "WarCry"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Tonguella",
+            "Grizzly",
+            "Yeti",
+            "Unicorn",
+            "WildApe",
+            "Trumpeter"
+          ],
+          "secondaryOptions": [
+            "Digster",
+            "Skullgon",
+            "DeadNoble",
+            "WhiteKing",
+            "Skeletor"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "IronTurt",
+            "Grizzly",
+            "Yeti",
+            "Unicorn",
+            "WildApe",
+            "Goategon"
+          ],
+          "secondaryOptions": [
+            "MetalDrak",
+            "Roboster",
+            "LavaMan",
+            "IceMan",
+            "Golem",
+            "StoneMan"
+          ]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": [
+            "Grizzly",
+            "Yeti",
+            "Trumpeter",
+            "BigEye"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        },
+        {
+          "groupID": "D",
+          "pedigreeOptions": [
+            "Grizzly"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Skullroo",
+    "ML": 45,
+    "EP": 12,
+    "HP": 14,
+    "MP": 10,
+    "AT": 11,
+    "DF": 8,
+    "AG": 16,
+    "IN": 2,
+    "skills": [
+      "ChargeUp",
+      "PaniDance",
+      "EagleEye"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "WindBeast",
+    "ML": 50,
+    "EP": 12,
+    "HP": 13,
+    "MP": 20,
+    "AT": 13,
+    "DF": 15,
+    "AG": 15,
+    "IN": 13,
+    "skills": [
+      "Infernos",
+      "Icebolt",
+      "VacuSlash"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Anteater",
+    "ML": 40,
+    "EP": 8,
+    "HP": 14,
+    "MP": 7,
+    "AT": 17,
+    "DF": 11,
+    "AG": 9,
+    "IN": 11,
+    "skills": [
+      "MetalCut",
+      "SquallHit",
+      "LushLicks"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Saccer"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "SuperTen",
+    "ML": 45,
+    "EP": 9,
+    "HP": 18,
+    "MP": 7,
+    "AT": 13,
+    "DF": 12,
+    "AG": 11,
+    "IN": 7,
+    "skills": [
+      "K.O.Dance",
+      "Hustle",
+      "Imitate"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "Mudron"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Tonguella",
+            "GulpBeast"
+          ],
+          "secondaryOptions": [
+            "TreeSlime",
+            "FangSlime",
+            "MadDragon",
+            "FunkyBird",
+            "MadPlant",
+            "FaceTree",
+            "Lipsy",
+            "Demonite",
+            "Gremlin",
+            "CopyCat",
+            "JewelBag",
+            "Mimic"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "IronTurt",
+    "ML": 45,
+    "EP": 10,
+    "HP": 18,
+    "MP": 5,
+    "AT": 17,
+    "DF": 23,
+    "AG": 2,
+    "IN": 11,
+    "skills": [
+      "MagicWall",
+      "StrongD",
+      "Cover"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "Tortragon"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Mommonja",
+    "ML": 35,
+    "EP": 9,
+    "HP": 14,
+    "MP": 11,
+    "AT": 16,
+    "DF": 14,
+    "AG": 20,
+    "IN": 8,
+    "skills": [
+      "CureDance",
+      "MouthShut",
+      "EagleEye"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "DuckKite"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "HammerMan",
+    "ML": 50,
+    "EP": 11,
+    "HP": 17,
+    "MP": 19,
+    "AT": 17,
+    "DF": 11,
+    "AG": 17,
+    "IN": 10,
+    "skills": [
+      "ChargeUp",
+      "EvilSlash",
+      "Kamikaze"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "StubSuck"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Grizzly",
+    "ML": 45,
+    "EP": 14,
+    "HP": 20,
+    "MP": 0,
+    "AT": 27,
+    "DF": 7,
+    "AG": 9,
+    "IN": 1,
+    "skills": [
+      "SquallHit",
+      "BiAttack",
+      "LegSweep"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "MetalDrak",
+            "Roboster",
+            "LavaMan",
+            "IceMan",
+            "Golem",
+            "StoneMan"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Yeti",
+    "ML": 40,
+    "EP": 13,
+    "HP": 18,
+    "MP": 11,
+    "AT": 15,
+    "DF": 9,
+    "AG": 10,
+    "IN": 8,
+    "skills": [
+      "Icebolt",
+      "IceSlash",
+      "WarCry"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "Orc"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "IronTurt",
+            "Goategon",
+            "WildApe",
+            "MadCat"
+          ],
+          "secondaryOptions": [
+            "Pteranod",
+            "Gasgon",
+            "Swordgon",
+            "MadDragon",
+            "BattleRex",
+            "SkyDragon"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "MadGopher",
+    "ML": 40,
+    "EP": 12,
+    "HP": 14,
+    "MP": 13,
+    "AT": 17,
+    "DF": 9,
+    "AG": 8,
+    "IN": 11,
+    "skills": [
+      "BirdBlow",
+      "ZombieCut",
+      "Informer"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "SabreMan"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "FairyRat",
+    "ML": 45,
+    "EP": 11,
+    "HP": 12,
+    "MP": 5,
+    "AT": 13,
+    "DF": 14,
+    "AG": 17,
+    "IN": 7,
+    "skills": [
+      "Slow",
+      "Surround",
+      "SlimeBlow"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "LizardFly"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Unicorn",
+    "ML": 50,
+    "EP": 14,
+    "HP": 19,
+    "MP": 21,
+    "AT": 14,
+    "DF": 13,
+    "AG": 12,
+    "IN": 25,
+    "skills": [
+      "Heal",
+      "Vivify",
+      "Errand"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "FangSlime"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Tonguella",
+            "GulpBeast",
+            "Grizzly",
+            "Yeti",
+            "Goategon",
+            "WildApe",
+            "Trumpeter"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Goategon",
+    "ML": 40,
+    "EP": 11,
+    "HP": 19,
+    "MP": 9,
+    "AT": 17,
+    "DF": 13,
+    "AG": 17,
+    "IN": 3,
+    "skills": [
+      "Firebal",
+      "Slow",
+      "SleepAir"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "LizardMan",
+            "DrakSlime"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "WildApe",
+    "ML": 35,
+    "EP": 13,
+    "HP": 13,
+    "MP": 1,
+    "AT": 20,
+    "DF": 10,
+    "AG": 8,
+    "IN": 4,
+    "skills": [
+      "TwinSlash",
+      "SideStep",
+      "Errand"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "MadPecker"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Almiraj"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Trumpeter",
+    "ML": 50,
+    "EP": 14,
+    "HP": 17,
+    "MP": 8,
+    "AT": 21,
+    "DF": 17,
+    "AG": 14,
+    "IN": 13,
+    "skills": [
+      "Beserker",
+      "SandStorm",
+      "WarCry"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "SuperTen"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        },
+        {
+          "groupID": "b",
+          "pedigreeOptions": [
+            "WildApe"
+          ],
+          "secondaryOptions": [
+            "WildApe"
+          ]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": [
+            "GulpBeast"
+          ],
+          "secondaryOptions": [
+            "MetalDrak",
+            "Balzak",
+            "Roboster",
+            "LavaMan",
+            "IceMan",
+            "Golem",
+            "StoneMan"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "KingLeo",
+    "ML": 60,
+    "EP": 15,
+    "HP": 20,
+    "MP": 14,
+    "AT": 24,
+    "DF": 23,
+    "AG": 17,
+    "IN": 14,
+    "skills": [
+      "Firebal",
+      "FrigidAir",
+      "BiAttack"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Trumpeter"
+          ],
+          "secondaryOptions": [
+            "Trumpeter",
+            "MetalDrak",
+            "Balzak",
+            "GoldGolem"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Roboster"
+          ],
+          "secondaryOptions": [
+            "SuperTen",
+            "GulpBeast",
+            "Unicorn",
+            "DarkHorn",
+            "Trumpeter",
+            "DarkHorn",
+            "MadCat"
+          ]
+        }
+      ]
+    },
+    "tier": 4
+  },
+  {
+    "name": "DarkHorn",
+    "ML": 50,
+    "EP": 13,
+    "HP": 17,
+    "MP": 4,
+    "AT": 19,
+    "DF": 18,
+    "AG": 10,
+    "IN": 12,
+    "skills": [
+      "Sleep",
+      "StopSpell",
+      "PsycheUp"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "[BOSS]"
+          ]
+        }
+      ]
+    },
+    "tier": 5
+  },
+  {
+    "name": "MadCat",
+    "ML": 40,
+    "EP": 12,
+    "HP": 15,
+    "MP": 7,
+    "AT": 18,
+    "DF": 14,
+    "AG": 17,
+    "IN": 11,
+    "skills": [
+      "VacuSlash",
+      "SquallHit",
+      "LegSweep"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "Dragon"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "BigEye",
+    "ML": 40,
+    "EP": 11,
+    "HP": 14,
+    "MP": 8,
+    "AT": 14,
+    "DF": 11,
+    "AG": 7,
+    "IN": 9,
+    "skills": [
+      "Icebolt",
+      "FrigidAir",
+      "LoveRain"
+    ],
+    "family": "Beast",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BEAST]"
+          ],
+          "secondaryOptions": [
+            "EyeBall"
+          ]
+        }
+      ]
+    },
+    "tier": 4
+  },
+  {
+    "name": "Picky",
+    "ML": 40,
+    "EP": 4,
+    "HP": 11,
+    "MP": 12,
+    "AT": 14,
+    "DF": 8,
+    "AG": 18,
+    "IN": 13,
+    "skills": [
+      "Sap",
+      "Surround",
+      "BugBlow"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Wyvern",
+    "ML": 45,
+    "EP": 6,
+    "HP": 17,
+    "MP": 13,
+    "AT": 19,
+    "DF": 11,
+    "AG": 16,
+    "IN": 20,
+    "skills": [
+      "Heal",
+      "Sleep",
+      "FrigidAir"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "BullBird",
+    "ML": 35,
+    "EP": 5,
+    "HP": 14,
+    "MP": 8,
+    "AT": 17,
+    "DF": 9,
+    "AG": 6,
+    "IN": 4,
+    "skills": [
+      "Shears",
+      "ChargeUp",
+      "Ramming"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Florajay",
+    "ML": 50,
+    "EP": 5,
+    "HP": 6,
+    "MP": 18,
+    "AT": 12,
+    "DF": 3,
+    "AG": 21,
+    "IN": 19,
+    "skills": [
+      "Speed",
+      "BeastCut",
+      "LifeSong"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "DuckKite",
+    "ML": 30,
+    "EP": 3,
+    "HP": 11,
+    "MP": 11,
+    "AT": 9,
+    "DF": 12,
+    "AG": 18,
+    "IN": 7,
+    "skills": [
+      "Sleep",
+      "PanicAll",
+      "Curse"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "MadPecker",
+    "ML": 40,
+    "EP": 4,
+    "HP": 9,
+    "MP": 7,
+    "AT": 20,
+    "DF": 14,
+    "AG": 23,
+    "IN": 13,
+    "skills": [
+      "Infernos",
+      "Sap",
+      "VacuSlash"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "MadRaven",
+    "ML": 40,
+    "EP": 5,
+    "HP": 6,
+    "MP": 14,
+    "AT": 17,
+    "DF": 12,
+    "AG": 18,
+    "IN": 5,
+    "skills": [
+      "HighJump",
+      "TailWind",
+      "EagleEye"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "MistyWing",
+    "ML": 50,
+    "EP": 5,
+    "HP": 12,
+    "MP": 17,
+    "AT": 8,
+    "DF": 15,
+    "AG": 22,
+    "IN": 13,
+    "skills": [
+      "Barrier",
+      "EerieLite",
+      "Informer"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Dracky",
+    "ML": 50,
+    "EP": 2,
+    "HP": 11,
+    "MP": 4,
+    "AT": 8,
+    "DF": 13,
+    "AG": 17,
+    "IN": 11,
+    "skills": [
+      "Antidote",
+      "Sleep",
+      "RobMagic"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Picky"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "BigRoost",
+    "ML": 40,
+    "EP": 3,
+    "HP": 8,
+    "MP": 5,
+    "AT": 14,
+    "DF": 12,
+    "AG": 17,
+    "IN": 8,
+    "skills": [
+      "VacuSlash",
+      "SandStorm",
+      "Dodge"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[NONE]"
+          ],
+          "secondaryOptions": [
+            "[NONE]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "StubBird",
+    "ML": 40,
+    "EP": 6,
+    "HP": 16,
+    "MP": 12,
+    "AT": 20,
+    "DF": 20,
+    "AG": 14,
+    "IN": 11,
+    "skills": [
+      "TwinHits",
+      "BugBlow",
+      "RainSlash"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "RockSlime"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "LandOwl",
+    "ML": 35,
+    "EP": 5,
+    "HP": 15,
+    "MP": 10,
+    "AT": 21,
+    "DF": 13,
+    "AG": 11,
+    "IN": 18,
+    "skills": [
+      "Infernos",
+      "BoltSlash",
+      "SideStep"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "BullBird"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "MadGoose",
+    "ML": 30,
+    "EP": 3,
+    "HP": 17,
+    "MP": 6,
+    "AT": 17,
+    "DF": 15,
+    "AG": 20,
+    "IN": 8,
+    "skills": [
+      "Heal",
+      "WindBeast",
+      "CureDance"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "Droll"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Wyvern",
+            "LandOwl",
+            "MadCondor",
+            "Phoenix"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]",
+            "[ZOMBIE]"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "MadCondor",
+    "ML": 45,
+    "EP": 6,
+    "HP": 14,
+    "MP": 11,
+    "AT": 18,
+    "DF": 12,
+    "AG": 17,
+    "IN": 13,
+    "skills": [
+      "Firebal",
+      "HealUs",
+      "MultiCut"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "LandOwl"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "CoilBird"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Blizzardy",
+    "ML": 50,
+    "EP": 7,
+    "HP": 20,
+    "MP": 7,
+    "AT": 11,
+    "DF": 17,
+    "AG": 19,
+    "IN": 11,
+    "skills": [
+      "Beat",
+      "FrigidAir",
+      "IceSlash"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "Metaly",
+            "Metablle",
+            "SuperTen",
+            "Yeti",
+            "Goategon",
+            "Trumpeter",
+            "Skullgon",
+            "DeadNoble",
+            "WhiteKing",
+            "Skeletor",
+            "Servant",
+            "IceMan"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Phoenix",
+    "ML": 50,
+    "EP": 7,
+    "HP": 16,
+    "MP": 13,
+    "AT": 19,
+    "DF": 8,
+    "AG": 19,
+    "IN": 12,
+    "skills": [
+      "FireAir",
+      "SquallHit",
+      "TailWind"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "DrakSlime",
+            "GulpBeast",
+            "IronTurt",
+            "Grizzly",
+            "ArcDemon",
+            "CopyCat",
+            "Gismo",
+            "LavaMan"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "ZapBird",
+    "ML": 50,
+    "EP": 7,
+    "HP": 20,
+    "MP": 7,
+    "AT": 19,
+    "DF": 17,
+    "AG": 22,
+    "IN": 12,
+    "skills": [
+      "HellBlast",
+      "Lightning",
+      "BoltSlash"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "MadCondor",
+            "Phoenix",
+            "WhipBird"
+          ],
+          "secondaryOptions": [
+            "Gismo"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "[BOSS]"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "WhipBird",
+    "ML": 60,
+    "EP": 15,
+    "HP": 27,
+    "MP": 19,
+    "AT": 12,
+    "DF": 20,
+    "AG": 23,
+    "IN": 23,
+    "skills": [
+      "Ironize",
+      "ThickFog",
+      "TatsuCall"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "RayBurn"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "LandOwl",
+            "MadGoose",
+            "MadCondor",
+            "Blizzardy",
+            "ZapBird"
+          ],
+          "secondaryOptions": [
+            "RockSlime",
+            "SlimeBorg",
+            "Digster",
+            "MetalDrak",
+            "Golem",
+            "StoneMan"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "FunkyBird",
+    "ML": 50,
+    "EP": 5,
+    "HP": 14,
+    "MP": 20,
+    "AT": 8,
+    "DF": 9,
+    "AG": 16,
+    "IN": 20,
+    "skills": [
+      "PaniDance",
+      "LifeDance",
+      "Hustle"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BIRD]"
+          ],
+          "secondaryOptions": [
+            "DanceVegi"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "RainHawk",
+    "ML": 70,
+    "EP": 24,
+    "HP": 25,
+    "MP": 27,
+    "AT": 15,
+    "DF": 24,
+    "AG": 18,
+    "IN": 24,
+    "skills": [
+      "MegaMagic",
+      "Surge",
+      "StrongD"
+    ],
+    "family": "Bird",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Blizzardy"
+          ],
+          "secondaryOptions": [
+            "Phoenix"
+          ]
+        }
+      ]
+    },
+    "tier": 4
+  },
+  {
+    "name": "MadPlant",
+    "ML": 40,
+    "EP": 10,
+    "HP": 15,
+    "MP": 24,
+    "AT": 11,
+    "DF": 13,
+    "AG": 6,
+    "IN": 18,
+    "skills": [
+      "NumbOff",
+      "Sap",
+      "Slow"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "FireWeed",
+    "ML": 45,
+    "EP": 15,
+    "HP": 14,
+    "MP": 26,
+    "AT": 10,
+    "DF": 12,
+    "AG": 5,
+    "IN": 17,
+    "skills": [
+      "Blaze",
+      "Dechaos",
+      "PalsyAir"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "FloraMan",
+    "ML": 40,
+    "EP": 7,
+    "HP": 17,
+    "MP": 20,
+    "AT": 6,
+    "DF": 9,
+    "AG": 2,
+    "IN": 19,
+    "skills": [
+      "Firebal",
+      "Antidote",
+      "CurseOff"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "WingTree",
+    "ML": 35,
+    "EP": 7,
+    "HP": 12,
+    "MP": 20,
+    "AT": 6,
+    "DF": 11,
+    "AG": 14,
+    "IN": 7,
+    "skills": [
+      "Farewell",
+      "ZombieCut",
+      "StepGuard"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "CactiBall",
+    "ML": 30,
+    "EP": 6,
+    "HP": 18,
+    "MP": 18,
+    "AT": 12,
+    "DF": 15,
+    "AG": 9,
+    "IN": 5,
+    "skills": [
+      "Paralyze",
+      "HighJump",
+      "OddDance"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Gulpple",
+    "ML": 40,
+    "EP": 11,
+    "HP": 16,
+    "MP": 17,
+    "AT": 9,
+    "DF": 6,
+    "AG": 2,
+    "IN": 14,
+    "skills": [
+      "NapAttack",
+      "HighJump",
+      "SleepAir"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Toadstool",
+    "ML": 45,
+    "EP": 9,
+    "HP": 14,
+    "MP": 18,
+    "AT": 8,
+    "DF": 9,
+    "AG": 13,
+    "IN": 13,
+    "skills": [
+      "NapAttack",
+      "SleepAir",
+      "MouthShut"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "AmberWeed",
+    "ML": 50,
+    "EP": 12,
+    "HP": 12,
+    "MP": 24,
+    "AT": 8,
+    "DF": 17,
+    "AG": 12,
+    "IN": 10,
+    "skills": [
+      "TwinHits",
+      "Barrier",
+      "MagicWall"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Stubsuck",
+    "ML": 40,
+    "EP": 8,
+    "HP": 17,
+    "MP": 11,
+    "AT": 4,
+    "DF": 2,
+    "AG": 9,
+    "IN": 14,
+    "skills": [
+      "Sleep",
+      "ZombieCut",
+      "StepGuard"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "AmberWeed"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Oniono",
+    "ML": 35,
+    "EP": 9,
+    "HP": 13,
+    "MP": 20,
+    "AT": 14,
+    "DF": 11,
+    "AG": 3,
+    "IN": 16,
+    "skills": [
+      "RobMagic",
+      "ChargeUp",
+      "SleepAir"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "Gophecada"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "DanceVegi",
+    "ML": 40,
+    "EP": 12,
+    "HP": 11,
+    "MP": 21,
+    "AT": 7,
+    "DF": 6,
+    "AG": 20,
+    "IN": 11,
+    "skills": [
+      "K.O.Dance",
+      "CureDance",
+      "SideStep"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "MadPlant"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "Facer"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "TreeBoy",
+    "ML": 40,
+    "EP": 11,
+    "HP": 15,
+    "MP": 18,
+    "AT": 8,
+    "DF": 3,
+    "AG": 12,
+    "IN": 15,
+    "skills": [
+      "Mpass",
+      "CurseOff",
+      "Hustle"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "Pixy"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "FaceTree",
+    "ML": 45,
+    "EP": 9,
+    "HP": 12,
+    "MP": 20,
+    "AT": 11,
+    "DF": 8,
+    "AG": 10,
+    "IN": 17,
+    "skills": [
+      "StopSpell",
+      "Curse",
+      "OddDance"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "HerbMan"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "NiteWhip"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "HerbMan",
+    "ML": 40,
+    "EP": 13,
+    "HP": 19,
+    "MP": 17,
+    "AT": 7,
+    "DF": 10,
+    "AG": 15,
+    "IN": 23,
+    "skills": [
+      "Curse",
+      "Focus",
+      "DanceShut"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "FunkyBird"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "DanceVegi"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "BeanMan",
+    "ML": 35,
+    "EP": 10,
+    "HP": 14,
+    "MP": 15,
+    "AT": 12,
+    "DF": 14,
+    "AG": 15,
+    "IN": 9,
+    "skills": [
+      "TwinHits",
+      "RobMagic",
+      "MapMagic"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "PillowRat"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "EvilSeed",
+    "ML": 30,
+    "EP": 6,
+    "HP": 8,
+    "MP": 11,
+    "AT": 8,
+    "DF": 5,
+    "AG": 1,
+    "IN": 3,
+    "skills": [
+      "CleanCut",
+      "Paralyze",
+      "Radiant"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "RockSlime",
+            "BigEye",
+            "DuckKite",
+            "ButterFly",
+            "Eyeder",
+            "DarkEye",
+            "EyeBall",
+            "MadMirror"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "ManEater",
+    "ML": 45,
+    "EP": 9,
+    "HP": 14,
+    "MP": 12,
+    "AT": 19,
+    "DF": 7,
+    "AG": 10,
+    "IN": 6,
+    "skills": [
+      "DrakSlash",
+      "PsycheUp",
+      "SleepAir"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "EvilSeed"
+          ],
+          "secondaryOptions": [
+            "EvilSeed"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Snapper",
+    "ML": 50,
+    "EP": 11,
+    "HP": 17,
+    "MP": 14,
+    "AT": 20,
+    "DF": 13,
+    "AG": 10,
+    "IN": 16,
+    "skills": [
+      "StopSpell",
+      "CallHelp",
+      "RainSlash"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "ManEater"
+          ],
+          "secondaryOptions": [
+            "ManEater"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Rosevine",
+    "ML": 70,
+    "EP": 24,
+    "HP": 24,
+    "MP": 30,
+    "AT": 23,
+    "DF": 21,
+    "AG": 18,
+    "IN": 18,
+    "skills": [
+      "BiAttack",
+      "UltraDown",
+      "BladeD"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[PLANT]"
+          ],
+          "secondaryOptions": [
+            "[BOSS]"
+          ]
+        }
+      ]
+    },
+    "tier": 4
+  },
+  {
+    "name": "Watabou",
+    "ML": 80,
+    "EP": 0,
+    "HP": 10,
+    "MP": 27,
+    "AT": 11,
+    "DF": 14,
+    "AG": 24,
+    "IN": 30,
+    "skills": [
+      "Chance",
+      "Imitate",
+      "Whistle"
+    ],
+    "family": "Plant",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[NONE]"
+          ],
+          "secondaryOptions": [
+            "[NONE]"
+          ]
+        }
+      ]
+    },
+    "tier": 4
+  },
+  {
+    "name": "GiantSlug",
+    "ML": 35,
+    "EP": 2,
+    "HP": 11,
+    "MP": 8,
+    "AT": 14,
+    "DF": 9,
+    "AG": 11,
+    "IN": 7,
+    "skills": [
+      "LushLicks",
+      "Dodge",
+      "Whistle"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Catapilla",
+    "ML": 40,
+    "EP": 4,
+    "HP": 13,
+    "MP": 5,
+    "AT": 11,
+    "DF": 14,
+    "AG": 11,
+    "IN": 9,
+    "skills": [
+      "Upper",
+      "PoisonHit",
+      "ThickFog"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Gophecada",
+    "ML": 30,
+    "EP": 1,
+    "HP": 6,
+    "MP": 11,
+    "AT": 14,
+    "DF": 18,
+    "AG": 8,
+    "IN": 7,
+    "skills": [
+      "Beat",
+      "MagicBack",
+      "CallHelp"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Butterfly",
+    "ML": 30,
+    "EP": 0,
+    "HP": 11,
+    "MP": 2,
+    "AT": 13,
+    "DF": 7,
+    "AG": 12,
+    "IN": 8,
+    "skills": [
+      "Surround",
+      "CallHelp",
+      "Curse"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "WeedBug",
+    "ML": 40,
+    "EP": 4,
+    "HP": 17,
+    "MP": 13,
+    "AT": 10,
+    "DF": 12,
+    "AG": 5,
+    "IN": 19,
+    "skills": [
+      "RobMagic",
+      "Barrier",
+      "MagicWall"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "GiantWorm",
+    "ML": 35,
+    "EP": 6,
+    "HP": 13,
+    "MP": 8,
+    "AT": 16,
+    "DF": 8,
+    "AG": 13,
+    "IN": 14,
+    "skills": [
+      "BeastCut",
+      "OddDance",
+      "StepGuard"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Lipsy",
+    "ML": 40,
+    "EP": 4,
+    "HP": 12,
+    "MP": 8,
+    "AT": 9,
+    "DF": 9,
+    "AG": 4,
+    "IN": 1,
+    "skills": [
+      "LushLicks",
+      "Ahhh",
+      "Pheromone"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "StagBug",
+    "ML": 45,
+    "EP": 3,
+    "HP": 13,
+    "MP": 7,
+    "AT": 16,
+    "DF": 20,
+    "AG": 9,
+    "IN": 7,
+    "skills": [
+      "Sleep",
+      "FireAir",
+      "LegSweep"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "ArmyAnt",
+    "ML": 35,
+    "EP": 2,
+    "HP": 8,
+    "MP": 4,
+    "AT": 11,
+    "DF": 17,
+    "AG": 13,
+    "IN": 1,
+    "skills": [
+      "CallHelp",
+      "NapAttack",
+      "Kamikaze"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "GiantSlug"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "GoHopper",
+    "ML": 35,
+    "EP": 0,
+    "HP": 11,
+    "MP": 4,
+    "AT": 8,
+    "DF": 14,
+    "AG": 14,
+    "IN": 4,
+    "skills": [
+      "RobMagic",
+      "CallHelp",
+      "ChargeUp"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[NONE]"
+          ],
+          "secondaryOptions": [
+            "[NONE]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "TailEater",
+    "ML": 45,
+    "EP": 5,
+    "HP": 12,
+    "MP": 10,
+    "AT": 16,
+    "DF": 11,
+    "AG": 14,
+    "IN": 5,
+    "skills": [
+      "IceSlash",
+      "PoisonGas",
+      "Radiant"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "FloraMan"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "WeedBug"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "ArmorPede",
+    "ML": 35,
+    "EP": 6,
+    "HP": 15,
+    "MP": 10,
+    "AT": 17,
+    "DF": 20,
+    "AG": 11,
+    "IN": 2,
+    "skills": [
+      "Upper",
+      "TwinHits",
+      "TwinSlash"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "IronTurt"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "GiantWorm"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": [
+            "Droll"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Eyeder",
+    "ML": 45,
+    "EP": 4,
+    "HP": 9,
+    "MP": 11,
+    "AT": 6,
+    "DF": 3,
+    "AG": 10,
+    "IN": 9,
+    "skills": [
+      "Firebal",
+      "Heal",
+      "MapMagic"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "AmberWeed"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Catapila"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "GiantMoth",
+    "ML": 30,
+    "EP": 2,
+    "HP": 14,
+    "MP": 9,
+    "AT": 16,
+    "DF": 12,
+    "AG": 20,
+    "IN": 12,
+    "skills": [
+      "WindBeast",
+      "Paralyze",
+      "Radiant"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "Saccer"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "ButterFly"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Droll",
+    "ML": 40,
+    "EP": 5,
+    "HP": 17,
+    "MP": 10,
+    "AT": 15,
+    "DF": 16,
+    "AG": 7,
+    "IN": 14,
+    "skills": [
+      "Slow",
+      "Shears",
+      "StepGuard"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "ButterFly",
+            "TailEater",
+            "Eyeder"
+          ],
+          "secondaryOptions": [
+            "ButterFly",
+            "TailEater",
+            "Eyeder"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Lipsy"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "Spooky"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "ArmyCrab",
+    "ML": 40,
+    "EP": 6,
+    "HP": 16,
+    "MP": 8,
+    "AT": 14,
+    "DF": 19,
+    "AG": 5,
+    "IN": 1,
+    "skills": [
+      "Upper",
+      "CallHelp",
+      "MetalCut"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "DarkCrab"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "MadHornet",
+    "ML": 40,
+    "EP": 7,
+    "HP": 20,
+    "MP": 5,
+    "AT": 19,
+    "DF": 13,
+    "AG": 20,
+    "IN": 4,
+    "skills": [
+      "PoisonHit",
+      "Paralyze",
+      "TailWind"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Eyeder",
+            "Droll"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "FairyRat"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "HornBeet",
+    "ML": 50,
+    "EP": 7,
+    "HP": 21,
+    "MP": 19,
+    "AT": 23,
+    "DF": 20,
+    "AG": 12,
+    "IN": 14,
+    "skills": [
+      "RockThrow",
+      "BoltSlash",
+      "DevilCut"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "StagBug"
+          ],
+          "secondaryOptions": [
+            "StagBug"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "ArmorPede"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Armorpion",
+    "ML": 55,
+    "EP": 24,
+    "HP": 22,
+    "MP": 20,
+    "AT": 24,
+    "DF": 23,
+    "AG": 15,
+    "IN": 18,
+    "skills": [
+      "ZombieCut",
+      "RainSlash",
+      "EvilSlash"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "HornBeet"
+          ],
+          "secondaryOptions": [
+            "HornBeet"
+          ]
+        }
+      ]
+    },
+    "tier": 4
+  },
+  {
+    "name": "Digster",
+    "ML": 50,
+    "EP": 11,
+    "HP": 24,
+    "MP": 10,
+    "AT": 19,
+    "DF": 26,
+    "AG": 1,
+    "IN": 15,
+    "skills": [
+      "Farewell",
+      "StrongD",
+      "SealAll"
+    ],
+    "family": "Bug",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[BUG]"
+          ],
+          "secondaryOptions": [
+            "[BOSS]"
+          ]
+        }
+      ]
+    },
+    "tier": 4
+  },
+  {
+    "name": "Pixy",
+    "ML": 40,
+    "EP": 19,
+    "HP": 11,
+    "MP": 7,
+    "AT": 15,
+    "DF": 8,
+    "AG": 15,
+    "IN": 4,
+    "skills": [
+      "Antidote",
+      "TwinHits",
+      "SealPray"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "MedusaEye",
+    "ML": 30,
+    "EP": 19,
+    "HP": 11,
+    "MP": 13,
+    "AT": 14,
+    "DF": 15,
+    "AG": 8,
+    "IN": 11,
+    "skills": [
+      "Sap",
+      "Surround",
+      "Shears"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "MedusaEye",
+            "1EyeClown",
+            "Gremlin"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "AgDevil",
+    "ML": 35,
+    "EP": 16,
+    "HP": 16,
+    "MP": 11,
+    "AT": 18,
+    "DF": 12,
+    "AG": 16,
+    "IN": 19,
+    "skills": [
+      "Firebal",
+      "Sacrifice",
+      "SleepAir"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "SkulRider",
+            "EvilBeast",
+            "Gremlin",
+            "MedusaEye"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Demonite",
+    "ML": 30,
+    "EP": 13,
+    "HP": 13,
+    "MP": 1,
+    "AT": 5,
+    "DF": 4,
+    "AG": 9,
+    "IN": 20,
+    "skills": [
+      "Blaze",
+      "FireAir",
+      "FrigidAir"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "DarkEye",
+    "ML": 40,
+    "EP": 18,
+    "HP": 11,
+    "MP": 18,
+    "AT": 10,
+    "DF": 16,
+    "AG": 9,
+    "IN": 12,
+    "skills": [
+      "CleanCut",
+      "PalsyAir",
+      "Radiant"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "EyeBall",
+    "ML": 35,
+    "EP": 16,
+    "HP": 16,
+    "MP": 17,
+    "AT": 14,
+    "DF": 14,
+    "AG": 13,
+    "IN": 8,
+    "skills": [
+      "MagicBack",
+      "WarCry",
+      "Outside"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "SkulRider",
+    "ML": 45,
+    "EP": 18,
+    "HP": 17,
+    "MP": 11,
+    "AT": 17,
+    "DF": 13,
+    "AG": 15,
+    "IN": 12,
+    "skills": [
+      "FireSlash",
+      "RainSlash",
+      "LegSweep"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "EvilBeast",
+    "ML": 50,
+    "EP": 20,
+    "HP": 16,
+    "MP": 10,
+    "AT": 20,
+    "DF": 22,
+    "AG": 4,
+    "IN": 12,
+    "skills": [
+      "Firebal",
+      "Ironize",
+      "FrigidAir"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "1EyeClown",
+    "ML": 25,
+    "EP": 13,
+    "HP": 10,
+    "MP": 1,
+    "AT": 5,
+    "DF": 9,
+    "AG": 9,
+    "IN": 17,
+    "skills": [
+      "Blaze",
+      "Firebal",
+      "Icebolt"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Pixy",
+            "Demonite",
+            "EyeBall"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Gremlin",
+    "ML": 25,
+    "EP": 13,
+    "HP": 13,
+    "MP": 7,
+    "AT": 8,
+    "DF": 4,
+    "AG": 2,
+    "IN": 18,
+    "skills": [
+      "Firebal",
+      "Heal",
+      "StopSpell"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "ArcDemon",
+    "ML": 45,
+    "EP": 20,
+    "HP": 14,
+    "MP": 13,
+    "AT": 17,
+    "DF": 12,
+    "AG": 7,
+    "IN": 21,
+    "skills": [
+      "Bang",
+      "VacuSlash",
+      "BoltSlash"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "AgDevil",
+            "Grendal",
+            "Gigantes"
+          ],
+          "secondaryOptions": [
+            "SpotKing",
+            "KingSlime",
+            "MetalKing",
+            "Andreal",
+            "GreatDrak",
+            "Orochi",
+            "Trumpeter",
+            "KingLeo",
+            "ZapBird",
+            "WhipBird",
+            "MetalDrak",
+            "StoneMan"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "GateGuard"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": [
+            "Ogre"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        },
+        {
+          "groupID": "D",
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "[BOSS]"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Lionex",
+    "ML": 45,
+    "EP": 21,
+    "HP": 15,
+    "MP": 11,
+    "AT": 14,
+    "DF": 15,
+    "AG": 12,
+    "IN": 19,
+    "skills": [
+      "Infernos",
+      "HealUs",
+      "VacuSlash"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "LizardMan"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "ArcDemon"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "GoatHorn",
+    "ML": 40,
+    "EP": 22,
+    "HP": 20,
+    "MP": 11,
+    "AT": 17,
+    "DF": 13,
+    "AG": 11,
+    "IN": 20,
+    "skills": [
+      "Bang",
+      "Infernos",
+      "Icebolt"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "ArcDemon"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "DarkHorn"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Orc",
+    "ML": 50,
+    "EP": 17,
+    "HP": 19,
+    "MP": 7,
+    "AT": 19,
+    "DF": 13,
+    "AG": 13,
+    "IN": 18,
+    "skills": [
+      "Vivify",
+      "Sap",
+      "BirdBlow"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "BeanMan"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Ogre",
+    "ML": 40,
+    "EP": 19,
+    "HP": 15,
+    "MP": 8,
+    "AT": 20,
+    "DF": 12,
+    "AG": 10,
+    "IN": 12,
+    "skills": [
+      "MetalCut",
+      "PsycheUp",
+      "Massacre"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "HammerMan"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "GateGuard"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": [
+            "AgDevil",
+            "Grendal",
+            "Gigantes"
+          ],
+          "secondaryOptions": [
+            "GulpBeast",
+            "Unicorn",
+            "Digster",
+            " Roboster"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "GateGuard",
+    "ML": 50,
+    "EP": 23,
+    "HP": 18,
+    "MP": 12,
+    "AT": 18,
+    "DF": 14,
+    "AG": 10,
+    "IN": 14,
+    "skills": [
+      "Blaze",
+      "CleanCut",
+      "ThickFog"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Demonite"
+          ],
+          "secondaryOptions": [
+            "Demonite"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Ogre"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": [
+            "AgDevil",
+            "Grendal",
+            "Gigantes"
+          ],
+          "secondaryOptions": [
+            "SlimeBorg",
+            "Swordgon",
+            "Coatol",
+            "MistyWing",
+            "MadCondor",
+            "Rosevine",
+            "GiantMoth",
+            "Skullgon",
+            "DeadNoble",
+            "WhiteKing"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "ChopClown",
+    "ML": 50,
+    "EP": 22,
+    "HP": 17,
+    "MP": 12,
+    "AT": 20,
+    "DF": 11,
+    "AG": 20,
+    "IN": 15,
+    "skills": [
+      "TwinHits",
+      "VacuSlash",
+      "SquallHit"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "1EyeClown"
+          ],
+          "secondaryOptions": [
+            "1EyeClown"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Grendal",
+    "ML": 60,
+    "EP": 20,
+    "HP": 23,
+    "MP": 1,
+    "AT": 18,
+    "DF": 24,
+    "AG": 12,
+    "IN": 12,
+    "skills": [
+      "FireSlash",
+      "DrakSlash",
+      "Cover"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "SkulRider",
+            "EvilBeast",
+            "Gremlin",
+            "MedusaEye"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "MadDragon"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Akubar",
+    "ML": 70,
+    "EP": 30,
+    "HP": 24,
+    "MP": 30,
+    "AT": 23,
+    "DF": 21,
+    "AG": 18,
+    "IN": 21,
+    "skills": [
+      "Bang",
+      "FrigidAir",
+      "Focus"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "ArcDemon"
+          ],
+          "secondaryOptions": [
+            "GateGuard"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Grendal"
+          ],
+          "secondaryOptions": [
+            "Grendal"
+          ]
+        }
+      ]
+    },
+    "tier": 4
+  },
+  {
+    "name": "MadKnight",
+    "ML": 55,
+    "EP": 23,
+    "HP": 17,
+    "MP": 9,
+    "AT": 18,
+    "DF": 20,
+    "AG": 10,
+    "IN": 12,
+    "skills": [
+      "BeastCut",
+      "GigaSlash",
+      "Massacre"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "RogueNite"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Gigantes",
+    "ML": 45,
+    "EP": 22,
+    "HP": 27,
+    "MP": 0,
+    "AT": 27,
+    "DF": 7,
+    "AG": 0,
+    "IN": 0,
+    "skills": [
+      "SlimeBlow",
+      "ChargeUp",
+      "EvilSlash"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "BigEye"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "SkulRider",
+            "EvilBeast"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Centasaur",
+    "ML": 45,
+    "EP": 23,
+    "HP": 20,
+    "MP": 1,
+    "AT": 24,
+    "DF": 21,
+    "AG": 18,
+    "IN": 19,
+    "skills": [
+      "StopSpell",
+      "FireSlash",
+      "RainSlash"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "ArcDemon"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Ogre",
+            "GateGuard"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "EvilArmor",
+    "ML": 40,
+    "EP": 22,
+    "HP": 16,
+    "MP": 1,
+    "AT": 17,
+    "DF": 29,
+    "AG": 5,
+    "IN": 13,
+    "skills": [
+      "FireSlash",
+      "BoltSlash",
+      "AquaCut"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "ArcDemon",
+            "Ogre",
+            "GateGuard"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "[DEVIL]"
+          ],
+          "secondaryOptions": [
+            "ArmorPede"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Jamirus",
+    "ML": 60,
+    "EP": 21,
+    "HP": 24,
+    "MP": 9,
+    "AT": 21,
+    "DF": 24,
+    "AG": 23,
+    "IN": 18,
+    "skills": [
+      "Blaze",
+      "BiAttack",
+      "TailWind"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Akubar"
+          ],
+          "secondaryOptions": [
+            "RainHawk"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "RainHawk"
+          ],
+          "secondaryOptions": [
+            "Akubar"
+          ]
+        }
+      ]
+    },
+    "tier": 4
+  },
+  {
+    "name": "Durran",
+    "ML": 70,
+    "EP": 28,
+    "HP": 25,
+    "MP": 24,
+    "AT": 23,
+    "DF": 15,
+    "AG": 17,
+    "IN": 20,
+    "skills": [
+      "WindBeast",
+      "DrakSlash",
+      "BirdBlow"
+    ],
+    "family": "Devil",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "CentaSaur"
+          ],
+          "secondaryOptions": [
+            "GoldGolem"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "RainHawk"
+          ],
+          "secondaryOptions": [
+            "Akubar"
+          ]
+        }
+      ]
+    },
+    "tier": 5
+  },
+  {
+    "name": "Spooky",
+    "ML": 40,
+    "EP": 11,
+    "HP": 11,
+    "MP": 12,
+    "AT": 13,
+    "DF": 8,
+    "AG": 18,
+    "IN": 15,
+    "skills": [
+      "Radiant",
+      "MouthShut",
+      "Outside"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Skullgon",
+    "ML": 45,
+    "EP": 13,
+    "HP": 6,
+    "MP": 1,
+    "AT": 23,
+    "DF": 15,
+    "AG": 4,
+    "IN": 6,
+    "skills": [
+      "FrigidAir",
+      "IceSlash",
+      "TwinSlash"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Skullgon",
+            "DeadNoble",
+            "WhiteKing",
+            "BoneSlave",
+            "Skeletor"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "Swordgon",
+            "Rayburn",
+            "Andreal",
+            "GreatDrak",
+            "Orochi",
+            "BattleRex",
+            "Divinegon"
+          ]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": [
+            "[DRAGON]"
+          ],
+          "secondaryOptions": [
+            "Skullgon",
+            "DeadNoble",
+            "WhiteKing",
+            "Servant"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "PutrePup",
+    "ML": 35,
+    "EP": 6,
+    "HP": 17,
+    "MP": 13,
+    "AT": 17,
+    "DF": 8,
+    "AG": 11,
+    "IN": 4,
+    "skills": [
+      "Sap",
+      "Slow",
+      "MagicBack"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "RotRaven",
+    "ML": 35,
+    "EP": 5,
+    "HP": 14,
+    "MP": 8,
+    "AT": 12,
+    "DF": 11,
+    "AG": 18,
+    "IN": 9,
+    "skills": [
+      "Lightning",
+      "BoltSlash",
+      "Kamikaze"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Mummy",
+    "ML": 50,
+    "EP": 10,
+    "HP": 15,
+    "MP": 17,
+    "AT": 12,
+    "DF": 9,
+    "AG": 4,
+    "IN": 8,
+    "skills": [
+      "CallHelp",
+      "Paralyze",
+      "EvilSlash"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "DarkCrab",
+    "ML": 30,
+    "EP": 8,
+    "HP": 12,
+    "MP": 8,
+    "AT": 15,
+    "DF": 20,
+    "AG": 1,
+    "IN": 11,
+    "skills": [
+      "Ironize",
+      "MagicWall",
+      "StepGuard"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "DeadNite",
+    "ML": 45,
+    "EP": 13,
+    "HP": 17,
+    "MP": 7,
+    "AT": 19,
+    "DF": 9,
+    "AG": 12,
+    "IN": 8,
+    "skills": [
+      "Heal",
+      "Dechaos",
+      "CurseOff"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Shadow",
+    "ML": 50,
+    "EP": 12,
+    "HP": 9,
+    "MP": 6,
+    "AT": 6,
+    "DF": 20,
+    "AG": 8,
+    "IN": 12,
+    "skills": [
+      "FrigidAir",
+      "K.O.Dance",
+      "ThickFog"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[MATERIAL]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Hork",
+    "ML": 40,
+    "EP": 8,
+    "HP": 17,
+    "MP": 13,
+    "AT": 16,
+    "DF": 8,
+    "AG": 11,
+    "IN": 10,
+    "skills": [
+      "PoisonGas",
+      "EerieLite",
+      "LushLicks"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Spooky"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Mudron",
+    "ML": 30,
+    "EP": 10,
+    "HP": 6,
+    "MP": 10,
+    "AT": 11,
+    "DF": 17,
+    "AG": 7,
+    "IN": 14,
+    "skills": [
+      "Beat",
+      "Mpass",
+      "Vivify"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "BoxSlime",
+            "FangSlime",
+            "Tonguella",
+            "Yeti",
+            "FunkyBird",
+            "MadPlant",
+            "DanceVegi",
+            "GiantSlug",
+            "Lipsy",
+            "Droll"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "NiteWhip",
+    "ML": 35,
+    "EP": 12,
+    "HP": 17,
+    "MP": 4,
+    "AT": 10,
+    "DF": 3,
+    "AG": 15,
+    "IN": 9,
+    "skills": [
+      "WindBeast",
+      "Lightning",
+      "Informer"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "DarkCrab",
+            "MadSpirit"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "MistyWing"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "WindMerge",
+    "ML": 35,
+    "EP": 9,
+    "HP": 16,
+    "MP": 19,
+    "AT": 19,
+    "DF": 12,
+    "AG": 13,
+    "IN": 6,
+    "skills": [
+      "Infernos",
+      "CurseOff",
+      "BirdBlow"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "WindBeast"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "RotRaven"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Reaper",
+    "ML": 40,
+    "EP": 10,
+    "HP": 19,
+    "MP": 3,
+    "AT": 21,
+    "DF": 17,
+    "AG": 19,
+    "IN": 6,
+    "skills": [
+      "DevilCut",
+      "Curse",
+      "EerieLite"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "WeedBug"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Spooky",
+            "Hork"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "DeadNoble",
+    "ML": 50,
+    "EP": 16,
+    "HP": 21,
+    "MP": 2,
+    "AT": 26,
+    "DF": 19,
+    "AG": 15,
+    "IN": 13,
+    "skills": [
+      "HealUs",
+      "AquaCut",
+      "TatsuCall"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Mudron",
+            "MadSpirit",
+            "BoneSlave",
+            "Skeletor"
+          ],
+          "secondaryOptions": [
+            "ArcDemon",
+            "Lionex",
+            "GateGuard",
+            "MetalDrak",
+            "Roboster"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Skullgon",
+            "DeadNite",
+            "Mudron",
+            "BoneSlave",
+            "Skeletor"
+          ],
+          "secondaryOptions": [
+            "CopyCat"
+          ]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": [
+            "DeadNite"
+          ],
+          "secondaryOptions": [
+            "DeadNite"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "WhiteKing",
+    "ML": 60,
+    "EP": 25,
+    "HP": 20,
+    "MP": 24,
+    "AT": 14,
+    "DF": 20,
+    "AG": 15,
+    "IN": 27,
+    "skills": [
+      "Infernos",
+      "Bolt",
+      "Chance"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Skullgon",
+            "DeadNoble",
+            "BoneSlave",
+            "Skeletor"
+          ],
+          "secondaryOptions": [
+            "SpotKing",
+            "KingSlime",
+            "MetalKing",
+            "Andreal",
+            "GreatDrak",
+            "KingLeo",
+            "Blizzardy",
+            "ZapBird",
+            "WhipBird",
+            "GoldGolem"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[BOSS]"
+          ]
+        }
+      ]
+    },
+    "tier": 4
+  },
+  {
+    "name": "BoneSlave",
+    "ML": 40,
+    "EP": 10,
+    "HP": 14,
+    "MP": 13,
+    "AT": 17,
+    "DF": 12,
+    "AG": 7,
+    "IN": 1,
+    "skills": [
+      "Bang",
+      "BoltSlash",
+      "BiAttack"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Mummy",
+            "DeadNite",
+            "Hork"
+          ],
+          "secondaryOptions": [
+            "RockSlime",
+            "SlimeBorg",
+            "LandOwl",
+            "MadGoose",
+            "FloraMan",
+            "HornBeet",
+            "Gremlin"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Hork"
+          ],
+          "secondaryOptions": [
+            "Hork"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Skeletor",
+    "ML": 55,
+    "EP": 12,
+    "HP": 16,
+    "MP": 11,
+    "AT": 18,
+    "DF": 12,
+    "AG": 16,
+    "IN": 19,
+    "skills": [
+      "Sap",
+      "BirdBlow",
+      "BiAttack"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Mummy",
+            "DeadNite",
+            "Hork",
+            "Mudron"
+          ],
+          "secondaryOptions": [
+            "GulpBeast",
+            "Grizzly",
+            "MadCat",
+            "MadRaven",
+            "MadCondor",
+            "EvilBeast",
+            "Ogre",
+            "Golem",
+            "StoneMan"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "BoneSlave"
+          ],
+          "secondaryOptions": [
+            "BoneSlave"
+          ]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": [
+            "MadSpirit"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Servant",
+    "ML": 70,
+    "EP": 20,
+    "HP": 23,
+    "MP": 21,
+    "AT": 25,
+    "DF": 18,
+    "AG": 15,
+    "IN": 20,
+    "skills": [
+      "Blaze",
+      "Icebolt",
+      "Focus"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Skeletor"
+          ],
+          "secondaryOptions": [
+            "Skeletor"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "WhiteKing"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        }
+      ]
+    },
+    "tier": 4
+  },
+  {
+    "name": "Copycat",
+    "ML": 40,
+    "EP": 1,
+    "HP": 11,
+    "MP": 20,
+    "AT": 1,
+    "DF": 2,
+    "AG": 21,
+    "IN": 5,
+    "skills": [
+      "Transform",
+      "OddDance",
+      "Imitate"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[NONE]"
+          ],
+          "secondaryOptions": [
+            "[NONE]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "MadSpirit",
+    "ML": 50,
+    "EP": 13,
+    "HP": 14,
+    "MP": 12,
+    "AT": 15,
+    "DF": 12,
+    "AG": 16,
+    "IN": 10,
+    "skills": [
+      "SleepAir",
+      "Radiant",
+      "ThickFog"
+    ],
+    "family": "Zombie",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[ZOMBIE]"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Skullgon",
+            "DeadNite",
+            "Mudron",
+            "DeadNoble",
+            "BoneSlave",
+            "Skeletor"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "JewelBag",
+    "ML": 40,
+    "EP": 12,
+    "HP": 13,
+    "MP": 11,
+    "AT": 9,
+    "DF": 18,
+    "AG": 17,
+    "IN": 15,
+    "skills": [
+      "Firebal",
+      "StopSpell",
+      "PanicAll"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "EvilWand",
+    "ML": 50,
+    "EP": 14,
+    "HP": 14,
+    "MP": 15,
+    "AT": 17,
+    "DF": 12,
+    "AG": 9,
+    "IN": 13,
+    "skills": [
+      "Dechaos",
+      "FrigidAir",
+      "MapMagic"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "MadCandle",
+    "ML": 35,
+    "EP": 10,
+    "HP": 12,
+    "MP": 10,
+    "AT": 14,
+    "DF": 6,
+    "AG": 17,
+    "IN": 12,
+    "skills": [
+      "Blaze",
+      "PsycheUp",
+      "Whistle"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[BEAST]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "CoilBird",
+    "ML": 35,
+    "EP": 10,
+    "HP": 16,
+    "MP": 13,
+    "AT": 5,
+    "DF": 14,
+    "AG": 14,
+    "IN": 7,
+    "skills": [
+      "Dechaos",
+      "NumbOff",
+      "SealAll"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Facer",
+    "ML": 45,
+    "EP": 12,
+    "HP": 8,
+    "MP": 23,
+    "AT": 11,
+    "DF": 12,
+    "AG": 3,
+    "IN": 19,
+    "skills": [
+      "Infernos",
+      "Sacrifice",
+      "LifeSong"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[PLANT]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "SpikyBoy",
+    "ML": 30,
+    "EP": 8,
+    "HP": 9,
+    "MP": 13,
+    "AT": 14,
+    "DF": 17,
+    "AG": 7,
+    "IN": 11,
+    "skills": [
+      "Sacrifice",
+      "SlimeBlow",
+      "HighJump"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "MadMirror",
+    "ML": 45,
+    "EP": 14,
+    "HP": 15,
+    "MP": 11,
+    "AT": 8,
+    "DF": 6,
+    "AG": 11,
+    "IN": 19,
+    "skills": [
+      "MagicBack",
+      "Transform",
+      "Outside"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "RogueNite",
+    "ML": 45,
+    "EP": 12,
+    "HP": 14,
+    "MP": 4,
+    "AT": 20,
+    "DF": 21,
+    "AG": 10,
+    "IN": 13,
+    "skills": [
+      "Heal",
+      "MetalCut",
+      "EvilSlash"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
+        }
+      ]
+    },
+    "tier": 1
+  },
+  {
+    "name": "Goopi",
+    "ML": 40,
+    "EP": 8,
+    "HP": 8,
+    "MP": 13,
+    "AT": 11,
+    "DF": 14,
+    "AG": 7,
+    "IN": 4,
+    "skills": [
+      "CallHelp",
+      "LegSweep",
+      "Dodge"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "JewelBag"
+          ],
+          "secondaryOptions": [
+            "[SLIME]"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Voodoll",
+    "ML": 35,
+    "EP": 11,
+    "HP": 14,
+    "MP": 17,
+    "AT": 12,
+    "DF": 12,
+    "AG": 8,
+    "IN": 14,
+    "skills": [
+      "Sap",
+      "Surround",
+      "PanicAll"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Golem",
+            "StoneMan"
+          ],
+          "secondaryOptions": [
+            "DrakSlime",
+            "Snaily",
+            "SlimeNite",
+            "RockSlime"
+          ]
+        },
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "Lipsy"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "MetalDrak",
+    "ML": 45,
+    "EP": 15,
+    "HP": 18,
+    "MP": 13,
+    "AT": 20,
+    "DF": 23,
+    "AG": 9,
+    "IN": 10,
+    "skills": [
+      "FireAir",
+      "Massacre",
+      "SandStorm"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Andreal",
+            "Spikerous",
+            "GreatDrak"
+          ],
+          "secondaryOptions": [
+            "SlimeBorg",
+            "KingSlime",
+            "Digster",
+            "Skullgon",
+            "Roboster",
+            "Golem",
+            "StoneMan"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "MetalDrak",
+            "Roboster"
+          ],
+          "secondaryOptions": [
+            "[DRAGON]"
+          ]
+        },
+        {
+          "groupID": "C",
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "Andreal"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Balzak",
+    "ML": 35,
+    "EP": 13,
+    "HP": 21,
+    "MP": 11,
+    "AT": 23,
+    "DF": 21,
+    "AG": 18,
+    "IN": 19,
+    "skills": [
+      "Bang",
+      "Bolt",
+      "MultiCut"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "LavaMan",
+            "Iceman"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        },
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "[BOSS]"
+          ]
+        }
+      ]
+    },
+    "tier": 4
+  },
+  {
+    "name": "SabreMan",
+    "ML": 30,
+    "EP": 11,
+    "HP": 8,
+    "MP": 3,
+    "AT": 9,
+    "DF": 11,
+    "AG": 12,
+    "IN": 6,
+    "skills": [
+      "RobMagic",
+      "DevilCut",
+      "Paralyze"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "GiantWorm"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "EvilWand",
+            "Voodoll",
+            "Golem",
+            "StoneMan"
+          ],
+          "secondaryOptions": [
+            "LandOwl",
+            "MadGoose",
+            "Phoenix",
+            "FunkyBird"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "CurseLamp",
+    "ML": 45,
+    "EP": 9,
+    "HP": 12,
+    "MP": 18,
+    "AT": 9,
+    "DF": 19,
+    "AG": 13,
+    "IN": 15,
+    "skills": [
+      "Upper",
+      "Speed",
+      "TwinHits"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Roboster"
+          ],
+          "secondaryOptions": [
+            "[BIRD]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "WingTree"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Roboster",
+    "ML": 40,
+    "EP": 13,
+    "HP": 12,
+    "MP": 5,
+    "AT": 21,
+    "DF": 22,
+    "AG": 24,
+    "IN": 17,
+    "skills": [
+      "SquallHit",
+      "BiAttack",
+      "RainSlash"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "SabreMan"
+          ],
+          "secondaryOptions": [
+            "SlimeBorg",
+            "GreatDrak",
+            "Unicorn",
+            "Ogre",
+            "Grendal",
+            "EvilArmor",
+            "DeadNoble",
+            "Skeletor"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "GulpBeast",
+            "Grizzly",
+            "Trumpeter",
+            "KingLeo",
+            "SkulRider"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "EvilPot",
+    "ML": 40,
+    "EP": 11,
+    "HP": 18,
+    "MP": 19,
+    "AT": 15,
+    "DF": 18,
+    "AG": 9,
+    "IN": 19,
+    "skills": [
+      "Beat",
+      "Massacre",
+      "Outside"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Gismo"
+          ],
+          "secondaryOptions": [
+            "[DEVIL]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "Snaily"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "Gizmo",
+    "ML": 40,
+    "EP": 9,
+    "HP": 13,
+    "MP": 15,
+    "AT": 11,
+    "DF": 14,
+    "AG": 20,
+    "IN": 18,
+    "skills": [
+      "FireAir",
+      "FrigidAir",
+      "SuckAir"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "MadCandle",
+            "MadMirror",
+            "Goopi"
+          ],
+          "secondaryOptions": [
+            "DrakSlime",
+            "Wyvern",
+            "MistyWing",
+            "Phoenix",
+            "FireWeed",
+            "EvilSeed"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "LavaMan",
+    "ML": 45,
+    "EP": 13,
+    "HP": 18,
+    "MP": 12,
+    "AT": 17,
+    "DF": 24,
+    "AG": 4,
+    "IN": 7,
+    "skills": [
+      "Blaze",
+      "FireAir",
+      "Cover"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "MetalDrak"
+          ],
+          "secondaryOptions": [
+            "Orochi",
+            "KingLeo",
+            "ZapBird",
+            "ArcDemon",
+            "Centasaur"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "IceMan",
+    "ML": 45,
+    "EP": 13,
+    "HP": 16,
+    "MP": 6,
+    "AT": 18,
+    "DF": 24,
+    "AG": 4,
+    "IN": 7,
+    "skills": [
+      "Icebolt",
+      "FrigidAir",
+      "StrongD"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "MetalDrak"
+          ],
+          "secondaryOptions": [
+            "Skullgon",
+            "WhiteKing"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "Roboster"
+          ],
+          "secondaryOptions": [
+            "KingLeo"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Mimic",
+    "ML": 40,
+    "EP": 11,
+    "HP": 25,
+    "MP": 10,
+    "AT": 20,
+    "DF": 12,
+    "AG": 1,
+    "IN": 20,
+    "skills": [
+      "Blaze",
+      "Beat",
+      "EagleEye"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Roboster"
+          ],
+          "secondaryOptions": [
+            "[ZOMBIE]"
+          ]
+        },
+        {
+          "groupID": "B",
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "BoxSlime"
+          ]
+        }
+      ]
+    },
+    "tier": 2
+  },
+  {
+    "name": "MudDoll",
+    "ML": 40,
+    "EP": 8,
+    "HP": 12,
+    "MP": 3,
+    "AT": 13,
+    "DF": 14,
+    "AG": 1,
+    "IN": 15,
+    "skills": [
+      "OddDance",
+      "Hustle",
+      "SideStep"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Goopi"
+          ],
+          "secondaryOptions": [
+            "Goopi"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "Golem",
+    "ML": 45,
+    "EP": 18,
+    "HP": 17,
+    "MP": 4,
+    "AT": 12,
+    "DF": 21,
+    "AG": 4,
+    "IN": 6,
+    "skills": [
+      "ChargeUp",
+      "PsycheUp",
+      "Meditate"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "MudDoll"
+          ],
+          "secondaryOptions": [
+            "MudDoll"
+          ]
+        }
+      ]
+    },
+    "tier": 4
+  },
+  {
+    "name": "StoneMan",
+    "ML": 50,
+    "EP": 15,
+    "HP": 24,
+    "MP": 10,
+    "AT": 23,
+    "DF": 24,
+    "AG": 1,
+    "IN": 14,
+    "skills": [
+      "StrongD",
+      "Cover",
+      "SealAll"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Golem"
+          ],
+          "secondaryOptions": [
+            "Golem"
+          ]
+        },
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "[MATERIAL]"
+          ],
+          "secondaryOptions": [
+            "HornBeet",
+            "Digster"
+          ]
+        }
+      ]
+    },
+    "tier": 5
+  },
+  {
+    "name": "BombCrag",
+    "ML": 50,
+    "EP": 14,
+    "HP": 15,
+    "MP": 11,
+    "AT": 17,
+    "DF": 20,
+    "AG": 0,
+    "IN": 13,
+    "skills": [
+      "Sacrifice",
+      "Farewell",
+      "RockThrow"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "SpikyBoy"
+          ],
+          "secondaryOptions": [
+            "SpikyBoy"
+          ]
+        },
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Roboster"
+          ],
+          "secondaryOptions": [
+            "[BUG]"
+          ]
+        }
+      ]
+    },
+    "tier": 3
+  },
+  {
+    "name": "GoldGolem",
+    "ML": 75,
+    "EP": 18,
+    "HP": 24,
+    "MP": 21,
+    "AT": 24,
+    "DF": 27,
+    "AG": 17,
+    "IN": 23,
+    "skills": [
+      "BigBang",
+      "Surge",
+      "TatsuCall"
+    ],
+    "family": "Material",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Iceman"
+          ],
+          "secondaryOptions": [
+            "LavaMan"
+          ]
+        }
+      ]
+    },
+    "tier": 5
+  },
+  {
+    "name": "DracoLord",
+    "ML": 50,
+    "EP": 24,
+    "HP": 20,
+    "MP": 30,
+    "AT": 21,
+    "DF": 20,
+    "AG": 23,
+    "IN": 23,
+    "skills": [
+      "Firebal",
+      "BeDragon",
+      "Meditate"
+    ],
+    "family": "Boss",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Servant"
+          ],
+          "secondaryOptions": [
+            "Andreal",
+            "GreatDrak"
+          ]
+        }
+      ]
+    },
+    "tier": 5
+  },
+  {
+    "name": "DracoLord2",
+    "ML": 70,
+    "EP": 25,
+    "HP": 21,
+    "MP": 30,
+    "AT": 24,
+    "DF": 21,
+    "AG": 23,
+    "IN": 21,
+    "skills": [
+      "FireAir",
+      "Massacre",
+      "Surge"
+    ],
+    "family": "Boss",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "DracoLord"
+          ],
+          "secondaryOptions": [
+            "Divinegon"
+          ]
+        }
+      ]
+    },
+    "tier": 6
+  },
+  {
+    "name": "Hargon",
+    "ML": 60,
+    "EP": 24,
+    "HP": 19,
+    "MP": 30,
+    "AT": 20,
+    "DF": 21,
+    "AG": 23,
+    "IN": 23,
+    "skills": [
+      "Firebal",
+      "Bang",
+      "TatsuCall"
+    ],
+    "family": "Boss",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "WhiteKing"
+          ],
+          "secondaryOptions": [
+            "MetalKing"
+          ]
+        }
+      ]
+    },
+    "tier": 6
+  },
+  {
+    "name": "Sidoh",
+    "ML": 70,
+    "EP": 25,
+    "HP": 24,
+    "MP": 30,
+    "AT": 24,
+    "DF": 21,
+    "AG": 23,
+    "IN": 23,
+    "skills": [
+      "HellBlast",
+      "FireAir",
+      "FrigidAir"
+    ],
+    "family": "Boss",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Jamirus"
+          ],
+          "secondaryOptions": [
+            "Rosevine"
+          ]
+        }
+      ]
+    },
+    "tier": 6
+  },
+  {
+    "name": "Baramos",
+    "ML": 60,
+    "EP": 24,
+    "HP": 20,
+    "MP": 30,
+    "AT": 20,
+    "DF": 20,
+    "AG": 22,
+    "IN": 21,
+    "skills": [
+      "Bang",
+      "HellBlast",
+      "RockThrow"
+    ],
+    "family": "Boss",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Hargon"
+          ],
+          "secondaryOptions": [
+            "Orochi"
+          ]
+        }
+      ]
+    },
+    "tier": 6
+  },
+  {
+    "name": "Zoma",
+    "ML": 70,
+    "EP": 25,
+    "HP": 24,
+    "MP": 30,
+    "AT": 26,
+    "DF": 21,
+    "AG": 23,
+    "IN": 23,
+    "skills": [
+      "BigBang",
+      "FrigidAir",
+      "DeMagic"
+    ],
+    "family": "Boss",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "DracoLord"
+          ],
+          "secondaryOptions": [
+            "Sidoh"
+          ]
+        }
+      ]
+    },
+    "tier": 7
+  },
+  {
+    "name": "Pizzaro",
+    "ML": 70,
+    "EP": 24,
+    "HP": 21,
+    "MP": 30,
+    "AT": 26,
+    "DF": 21,
+    "AG": 23,
+    "IN": 23,
+    "skills": [
+      "HellBlast",
+      "FireAir",
+      "BiAttack"
+    ],
+    "family": "Boss",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Durran"
+          ],
+          "secondaryOptions": [
+            "Divinegon"
+          ]
+        }
+      ]
+    },
+    "tier": 7
+  },
+  {
+    "name": "Esterk",
+    "ML": 80,
+    "EP": 31,
+    "HP": 29,
+    "MP": 30,
+    "AT": 26,
+    "DF": 24,
+    "AG": 23,
+    "IN": 23,
+    "skills": [
+      "BiAttack",
+      "RainSlash",
+      "GigaSlash"
+    ],
+    "family": "Boss",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Pizzaro"
+          ],
+          "secondaryOptions": [
+            "KingLeo"
+          ]
+        }
+      ]
+    },
+    "tier": 8
+  },
+  {
+    "name": "Mirudraas",
+    "ML": 70,
+    "EP": 30,
+    "HP": 21,
+    "MP": 30,
+    "AT": 26,
+    "DF": 21,
+    "AG": 23,
+    "IN": 23,
+    "skills": [
+      "Blaze",
+      "Bang",
+      "Bolt"
+    ],
+    "family": "Boss",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Esterk"
+          ],
+          "secondaryOptions": [
+            "GoldSlime"
+          ]
+        }
+      ]
+    },
+    "tier": 9
+  },
+  {
+    "name": "Mirudraas2",
+    "ML": 80,
+    "EP": 31,
+    "HP": 29,
+    "MP": 30,
+    "AT": 26,
+    "DF": 21,
+    "AG": 23,
+    "IN": 23,
+    "skills": [
+      "FireAir",
+      "DeMagic",
+      "SuckAir"
+    ],
+    "family": "Boss",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Mirudraas"
+          ],
+          "secondaryOptions": [
+            "Spikerous"
+          ]
+        }
+      ]
+    },
+    "tier": 10
+  },
+  {
+    "name": "Mudou",
+    "ML": 60,
+    "EP": 28,
+    "HP": 21,
+    "MP": 30,
+    "AT": 26,
+    "DF": 24,
+    "AG": 23,
+    "IN": 23,
+    "skills": [
+      "FireAir",
+      "FrigidAir",
+      "PoisonGas"
+    ],
+    "family": "Boss",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Baramos"
+          ],
+          "secondaryOptions": [
+            "DarkHorn"
+          ]
+        }
+      ]
+    },
+    "tier": 7
+  },
+  {
+    "name": "DeathMore",
+    "ML": 60,
+    "EP": 27,
+    "HP": 21,
+    "MP": 30,
+    "AT": 26,
+    "DF": 21,
+    "AG": 23,
+    "IN": 23,
+    "skills": [
+      "BigBang",
+      "HellBlast",
+      "TatsuCall"
+    ],
+    "family": "Boss",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Zoma"
+          ],
+          "secondaryOptions": [
+            "Mirudraas"
+          ]
+        }
+      ]
+    },
+    "tier": 10
+  },
+  {
+    "name": "DeathMore2",
+    "ML": 70,
+    "EP": 29,
+    "HP": 24,
+    "MP": 30,
+    "AT": 26,
+    "DF": 21,
+    "AG": 23,
+    "IN": 23,
+    "skills": [
+      "FireAir",
+      "Ramming",
+      "UltraDown"
+    ],
+    "family": "Boss",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Deathmore"
+          ],
+          "secondaryOptions": [
+            "Armorpion"
+          ]
+        }
+      ]
+    },
+    "tier": 11
+  },
+  {
+    "name": "DeathMore3",
+    "ML": 80,
+    "EP": 31,
+    "HP": 29,
+    "MP": 30,
+    "AT": 30,
+    "DF": 24,
+    "AG": 23,
+    "IN": 23,
+    "skills": [
+      "BigBang",
+      "DeMagic",
+      "Focus"
+    ],
+    "family": "Boss",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Deathmore"
+          ],
+          "secondaryOptions": [
+            "Mudou"
+          ]
+        }
+      ]
+    },
+    "tier": 12
+  },
+  {
+    "name": "Darkdrium",
+    "ML": 80,
+    "EP": 30,
+    "HP": 31,
+    "MP": 30,
+    "AT": 31,
+    "DF": 24,
+    "AG": 23,
+    "IN": 23,
+    "skills": [
+      "Bolt",
+      "FireAir",
+      "FrigidAir"
+    ],
+    "family": "Boss",
+    "breeding": {
+      "pairGroups": [
+        {
+          "groupID": "A",
+          "pedigreeOptions": [
+            "Deathmore"
+          ],
+          "secondaryOptions": [
+            "Watabou"
+          ]
+        }
+      ]
+    },
+    "tier": 13
+  }
+]
